@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mohamed Abdulkader — SIG Combibloc</title>
+  <style>
+    :root{
+      --sig-blue:#005EB8;
+      --sig-dark:#073b63;
+      --card-width:420px;
+      --radius:14px;
+      --glass: rgba(255,255,255,0.95);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    html,body{height:100%;margin:0;background:linear-gradient(180deg,#f3f7fb,#ffffff);display:flex;align-items:center;justify-content:center;padding:20px;}
+    .card{
+      width:100%;
+      max-width:var(--card-width);
+      background:var(--glass);
+      border-radius:var(--radius);
+      box-shadow:0 10px 30px rgba(3,17,40,0.12);
+      padding:26px;
+      text-align:center;
+      border:1px solid rgba(0,0,0,0.04);
+    }
+    .logo{
+      width:84px;height:84px;margin:0 auto 14px;border-radius:12px;
+      display:flex;align-items:center;justify-content:center;
+      background:linear-gradient(135deg,var(--sig-blue),#2a8ae6);
+      color:white;font-weight:700;font-size:26px;letter-spacing:0.6px;
+      box-shadow:0 6px 18px rgba(0,94,184,0.15);
+    }
+    h1{font-size:20px;margin:6px 0 2px;color:var(--sig-dark);}
+    .title{font-size:13px;color:#5b6b7b;margin-bottom:16px;font-weight:600;}
+    .company{font-size:13px;color:#5b6b7b;margin-bottom:18px;}
+    .buttons{display:flex;flex-direction:column;gap:10px;padding:0 18px 8px;}
+    .btn{
+      display:inline-flex;align-items:center;justify-content:center;
+      gap:10px;padding:12px 14px;border-radius:10px;text-decoration:none;font-weight:600;
+      border:1px solid rgba(3,17,40,0.06);
+      background:white;color:var(--sig-dark);
+      box-shadow:0 4px 10px rgba(12,32,80,0.04);
+    }
+    .btn.call{border-left:4px solid #34a853;}
+    .btn.wa{border-left:4px solid #25D366;}
+    .btn.email{border-left:4px solid #0072c6;}
+    .btn.linkedin{border-left:4px solid #0A66C2;}
+    .btn svg{width:18px;height:18px;opacity:0.95}
+    .small{font-size:12px;color:#8795a6;margin-top:14px;}
+    @media(max-width:420px){
+      .card{padding:18px;border-radius:12px}
+      .logo{width:72px;height:72px;font-size:22px}
+    }
+  </style>
+</head>
+<body>
+  <div class="card" role="region" aria-label="Digital business card for Mohamed Abdulkader">
+    <div class="logo" aria-hidden="true">SIG</div>
+    <h1>Mohamed Abdulkader</h1>
+    <div class="title">IMEA Head of Supply Chain</div>
+    <div class="company">SIG Combibloc</div>
+    <div class="buttons">
+      <a class="btn call" href="tel:+971509770230" aria-label="Call +971 50 977 0230">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.86 19.86 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.86 19.86 0 0 1 2.09 4.18 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.72c.12 1.05.37 2.06.73 3.02a2 2 0 0 1-.45 2.11L8.91 10.91a16 16 0 0 0 6 6l1.06-1.06a2 2 0 0 1 2.11-.45c.96.36 1.97.61 3.02.73A2 2 0 0 1 22 16.92z" fill="currentColor"/></svg>
+        Call +971 50 977 0230
+      </a>
+      <a class="btn wa" href="https://wa.me/971509770230" target="_blank" rel="noopener" aria-label="Whatsapp +971 50 977 0230">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20.52 3.48A11.86 11.86 0 0 0 12 .5C6.2.5 1.24 5.38 1.24 11.22c0 1.97.52 3.9 1.51 5.6L.5 23.5l6.93-1.77a11.73 11.73 0 0 0 4.78 1.02h.01c5.8 0 10.76-4.88 10.76-10.72 0-2.86-1.07-5.54-3.47-7.55zM12 20.5h-.01" fill="currentColor"/></svg>
+        WhatsApp
+      </a>
+      <a class="btn email" href="mailto:mohamed.abdulkader@sig.biz" aria-label="Email mohamed.abdulkader@sig.biz">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z" fill="currentColor"/></svg>
+        Email
+      </a>
+      <a class="btn linkedin" href="https://www.linkedin.com/in/mohamed-abdelkader-b6204252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener" aria-label="LinkedIn profile">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9h4v12H3zM9 9h3.8v1.7h.1c.5-.9 1.7-1.8 3.5-1.8 3.8 0 4.5 2.5 4.5 5.7V21H19v-5.1c0-1.2 0-2.7-1.7-2.7-1.7 0-2 1.3-2 2.6V21H9z" fill="currentColor"/></svg>
+        LinkedIn
+      </a>
+    </div>
+    <div class="small">Tap a button to contact — works on mobile and desktop.</div>
+  </div>
+</body>
+</html>
