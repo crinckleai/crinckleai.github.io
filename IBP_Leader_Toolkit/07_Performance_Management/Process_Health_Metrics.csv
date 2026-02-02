@@ -1,0 +1,26 @@
+Process_Step,Health_Dimension,Metric,Target,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Avg,Status,Trend,Issues,Actions
+Product Review,Attendance,Executive Attendance %,100,90,95,100,100,100,100,100,100,100,100,100,100,99,Green,Stable,,
+Product Review,Preparation,Pre-Read Distribution (days before),3,2,2,3,3,3,3,3,3,3,3,3,3,2.8,Green,Improving,Initial months had delayed distribution,Process reminder implemented
+Product Review,Quality,Decisions Made per Meeting,3,2,2,3,3,3,4,3,4,3,4,3,4,3.2,Green,Improving,,
+Product Review,Timeliness,Meeting Starts On-Time,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,83%,Yellow,Improving,Q1 punctuality issues,Calendar blocking reinforced
+Product Review,Outputs,Outputs Delivered On-Time,100%,80,85,90,95,100,100,100,100,100,100,100,100,96,Green,Improving,Initial process ramp-up,Templates standardized
+Demand Review,Attendance,Cross-Functional Attendance %,100,85,88,90,92,95,95,98,98,100,100,100,100,95,Green,Improving,Sales attendance initially low,Sales leadership engaged
+Demand Review,Preparation,Sales Input On-Time %,100,70,75,80,85,90,95,95,95,100,100,100,100,90,Green,Improving,Deadline compliance improved,Accountability added to scorecards
+Demand Review,Quality,Forecast Accuracy Trend,Improving,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,92%,Green,Improving,,
+Demand Review,Quality,Assumptions Documented,100%,60,70,80,85,90,95,95,100,100,100,100,100,90,Green,Improving,Documentation incomplete initially,Template improved
+Demand Review,Timeliness,Consensus Published On-Time,100%,80,85,90,95,95,100,100,100,100,100,100,100,95,Green,Improving,,
+Supply Review,Attendance,Operations Leadership Attendance,100,100,100,100,100,100,100,100,100,100,100,100,100,100,Green,Stable,,
+Supply Review,Preparation,Capacity Analysis Complete,100%,90,90,95,95,100,100,100,100,100,100,100,100,98,Green,Improving,,
+Supply Review,Quality,Constraints Identified and Actioned,100%,80,85,90,90,95,95,100,100,100,100,100,100,95,Green,Improving,Initial constraint tracking informal,Log implemented
+Supply Review,Quality,Scenarios Prepared,3,2,2,2,3,3,3,3,3,3,3,3,3,2.8,Green,Improving,,
+Supply Review,Timeliness,Supply Response On-Time,100%,85,90,95,95,100,100,100,100,100,100,100,100,97,Green,Improving,,
+Financial Review,Attendance,Finance Leadership Attendance,100,100,100,100,100,100,100,100,100,100,100,100,100,100,Green,Stable,,
+Financial Review,Preparation,Financial Projection Complete,100%,95,95,100,100,100,100,100,100,100,100,100,100,99,Green,Stable,,
+Financial Review,Quality,Gap Analysis Quality (1-5),4.0,3.5,3.5,3.8,4.0,4.0,4.2,4.2,4.0,4.2,4.2,4.2,4.5,4.0,Green,Improving,,
+Financial Review,Integration,Plan Reconciliation Achieved,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,83%,Yellow,Improving,Initial alignment challenges,Process improved
+Financial Review,Timeliness,Executive Pack On-Time,100%,90,95,100,100,100,100,100,100,100,100,100,100,99,Green,Improving,,
+Executive IBP,Attendance,C-Suite Attendance %,100,80,85,90,95,95,100,100,100,100,100,100,100,95,Green,Improving,Initial executive engagement,CEO reinforcement of importance
+Executive IBP,Preparation,Pre-Read Reviewed by Execs,100%,60,70,75,80,85,90,95,95,100,100,100,100,88,Green,Improving,Pre-read length reduced,Focused on decisions
+Executive IBP,Quality,Decisions Made/Escalated,100%,80,85,90,95,95,100,100,100,100,100,100,100,95,Green,Improving,,
+Executive IBP,Quality,Action Item Completion (Prior),90%,75,78,82,85,88,90,92,90,92,94,92,95,88,Yellow,Improving,Accountability gaps,Action review added to agenda
+Executive IBP,Effectiveness,Meeting Rating (1-5),4.0,3.5,3.6,3.8,3.9,4.0,4.1,4.2,4.1,4.2,4.3,4.2,4.3,4.0,Green,Improving,,

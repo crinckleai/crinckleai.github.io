@@ -1,0 +1,15 @@
+Perspective,Strategic_Objective,KPI,Weight,Target,Q1_Actual,Q1_Score,Q2_Actual,Q2_Score,Q3_Actual,Q3_Score,Q4_Actual,Q4_Score,YTD_Actual,YTD_Score,Trend,Owner,Commentary
+Customer,Deliver superior service,OTIF,15%,95%,93.1,93.1,94.5,94.5,95.0,95.0,95.1,95.1,94.4,94.4,Improving,Supply Chain VP,Steady improvement through focused root cause analysis
+Customer,Deliver superior service,Perfect Order Rate,10%,92%,90.2,90.2,91.5,91.5,91.9,91.9,92.2,92.2,91.4,91.4,Improving,Supply Chain VP,Quality initiatives showing results
+Customer,Reduce customer effort,Order Lead Time,5%,8 days,9.2,87.0,8.6,93.0,8.2,97.6,8.0,100.0,8.5,94.1,Improving,Customer Service,Process improvements reducing cycle time
+Customer,Build customer loyalty,Customer Satisfaction,5%,4.3,4.1,95.3,4.2,97.7,4.3,100.0,4.4,102.3,4.3,100.0,Improving,Sales VP,Strong NPS improvement this year
+Financial,Achieve revenue targets,Revenue vs Plan,15%,100%,99.0,99.0,100.0,100.0,101.0,101.0,99.0,99.0,99.8,99.8,Stable,CFO,On track with minor seasonal variations
+Financial,Improve profitability,Gross Margin %,10%,43%,42.0,97.7,42.8,99.5,42.8,99.5,43.0,100.0,42.6,99.1,Improving,CFO,Margin expansion through mix and cost actions
+Financial,Optimize working capital,Inventory Turns,5%,6.0,5.3,88.3,5.6,93.3,5.9,98.3,6.0,100.0,5.7,95.0,Improving,Supply Chain VP,Inventory optimization program on track
+Financial,Optimize working capital,Working Capital %,5%,17%,19.2,88.5,18.2,93.4,17.3,98.3,17.0,100.0,17.9,94.9,Improving,CFO,Cash conversion cycle improving
+Process,Improve forecast accuracy,Forecast Accuracy,10%,70%,66.0,94.3,69.0,98.6,71.0,101.4,73.0,104.3,69.8,99.7,Improving,Demand Planning,ML pilot showing positive results
+Process,Eliminate bias,Forecast Bias,5%,±3%,3.8,78.9,2.5,83.3,1.8,94.0,2.0,93.3,2.5,83.3,Improving,Demand Planning,Bias reduction through accountability
+Process,Execute to plan,Supply Plan Adherence,5%,95%,94.0,98.9,95.0,100.0,96.0,101.1,97.0,102.1,95.5,100.5,Improving,Operations VP,Strong execution discipline
+Process,Stabilize plans,Plan Stability,5%,<10%,14.0,71.4,11.0,90.9,9.0,111.1,8.0,125.0,10.5,95.2,Improving,IBP Leader,Forecast freeze policies implemented
+Enabler,Drive effective meetings,Meeting Effectiveness,2.5%,4.0,3.6,90.0,3.9,97.5,4.1,102.5,4.2,105.0,3.9,97.5,Improving,IBP Leader,Meeting discipline improving
+Enabler,Accelerate decisions,Decision Cycle Time,2.5%,48 hrs,55.0,87.3,48.0,100.0,44.0,109.1,42.0,114.3,47.3,101.5,Improving,IBP Leader,Escalation process streamlined
