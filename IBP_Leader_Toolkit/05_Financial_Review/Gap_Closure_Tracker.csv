@@ -1,0 +1,90 @@
+GAP CLOSURE TRACKER,,,,,,,,,
+,,,,,,,,,
+Instructions: Track initiatives to close gaps between operating plan and budget/targets. Update weekly during IBP cycle.,,,,,,,,,
+,,,,,,,,,
+GAP SUMMARY,,,,,,,,,
+Metric,Operating Plan,Budget/Target,Gap ($M),Gap %,Closed to Date,Remaining Gap,Closure Confidence
+Revenue,,,,,,,High/Medium/Low
+Gross Margin,,,,,,,High/Medium/Low
+Operating Income,,,,,,,High/Medium/Low
+,,,,,,,,,
+GAP CLOSURE INITIATIVES - REVENUE,,,,,,,,,
+Initiative ID,Initiative Name,Category,Owner,Target Impact ($M),Timing,Confidence,YTD Impact,Remaining Impact,Status
+R001,,Pricing/Volume/NPI/Win-back,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+R002,,Pricing/Volume/NPI/Win-back,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+R003,,Pricing/Volume/NPI/Win-back,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+R004,,Pricing/Volume/NPI/Win-back,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+R005,,Pricing/Volume/NPI/Win-back,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+TOTAL REVENUE INITIATIVES,,,,,,,,,
+,,,,,,,,,
+GAP CLOSURE INITIATIVES - MARGIN,,,,,,,,,
+Initiative ID,Initiative Name,Category,Owner,Target Impact ($M),Timing,Confidence,YTD Impact,Remaining Impact,Status
+M001,,Cost reduction/Pricing/Mix/Productivity,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+M002,,Cost reduction/Pricing/Mix/Productivity,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+M003,,Cost reduction/Pricing/Mix/Productivity,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+M004,,Cost reduction/Pricing/Mix/Productivity,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+TOTAL MARGIN INITIATIVES,,,,,,,,,
+,,,,,,,,,
+GAP CLOSURE INITIATIVES - COST,,,,,,,,,
+Initiative ID,Initiative Name,Category,Owner,Target Savings ($M),Timing,Confidence,YTD Savings,Remaining Savings,Status
+C001,,Headcount/Discretionary/Process,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+C002,,Headcount/Discretionary/Process,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+C003,,Headcount/Discretionary/Process,,,"Q1/Q2/H2","High/Med/Low",,,"On Track/At Risk/Delayed/Complete"
+TOTAL COST INITIATIVES,,,,,,,,,
+,,,,,,,,,
+INITIATIVE DETAIL TEMPLATE,,,,,,,,,
+Initiative ID:,,,,,,,,
+Initiative Name:,,,,,,,,
+Description:,,,,,,,,
+Owner:,,,,,,,,
+Target Impact ($M):,,,,,,,,
+Impact Type:,Revenue/Margin/Cost,,,,,,,
+Start Date:,,,,,,,,
+Target Completion:,,,,,,,,
+,,,,,,,,,
+Milestones:,,,,,,,,,
+Milestone,Target Date,Actual Date,Status,,,,,
+,,,"Complete/On Track/Delayed",,,,,
+,,,"Complete/On Track/Delayed",,,,,
+,,,"Complete/On Track/Delayed",,,,,
+,,,,,,,,,
+Monthly Impact Tracking:,,,,,,,,,
+Month,Target,Actual,Variance,Cumulative Target,Cumulative Actual,Variance,Comments
+M1,,,,,,,,
+M2,,,,,,,,
+M3,,,,,,,,
+M4,,,,,,,,
+M5,,,,,,,,
+M6,,,,,,,,
+,,,,,,,,,
+RISK-ADJUSTED GAP CLOSURE,,,,,,,,,
+Category,Gross Target ($M),High Confidence,Medium Confidence,Low Confidence,Risk-Adjusted Total,Gap Remaining
+Revenue Initiatives,,,,,,,
+Margin Initiatives,,,,,,,
+Cost Initiatives,,,,,,,
+TOTAL,,,,,,,
+,,,,,,,,,
+Risk Adjustment Factors: High = 90%, Medium = 60%, Low = 30%,,,,,,,,,
+,,,,,,,,,
+GAP CLOSURE PIPELINE,,,,,,,,,
+Stage,Count,Gross Value ($M),Risk-Adjusted Value,Avg Time to Impact,Conversion Rate
+Identified/Proposed,,,,,
+In Development,,,,,
+Approved/In Execution,,,,,
+Delivering Results,,,,,
+Completed,,,,,
+,,,,,,,,,
+ESCALATIONS AND BLOCKERS,,,,,,,,,
+Initiative ID,Blocker Description,Impact if Not Resolved,Resolution Owner,Required Action,Escalation Level,Due Date,Status
+,,,,,Manager/VP/Exec,,"Open/Resolved"
+,,,,,Manager/VP/Exec,,"Open/Resolved"
+,,,,,Manager/VP/Exec,,"Open/Resolved"
+,,,,,,,,,
+GAP CLOSURE WATERFALL,,,,,,,,,
+Starting Gap to Budget ($M):,,,,,,,,
++ Revenue initiatives,,,,,,,,,
++ Margin initiatives,,,,,,,,,
++ Cost initiatives,,,,,,,,,
+- New headwinds identified,,,,,,,,,
+= Remaining Gap ($M):,,,,,,,,
+Status:,On Track/At Risk/Off Track,,,,,,,,

@@ -1,0 +1,77 @@
+IBP RACI Matrix,,,,,,,,,,,
+,,,,,,,,,,,
+Legend: R = Responsible | A = Accountable | C = Consulted | I = Informed,,,,,,,,,,,
+,,,,,,,,,,,
+ACTIVITY / ROLE,CEO,CFO,CSO (Sales),CMO,CSCO (Supply),VP Product,IBP Leader,Demand Planning,Supply Planning,FP&A,IT
+,,,,,,,,,,,
+STRATEGIC PLANNING,,,,,,,,,,,
+Annual strategic plan development,A,C,C,C,C,C,I,I,I,C,I
+Long-range demand projections,I,C,A,C,I,C,R,R,C,C,I
+Capacity investment decisions,A,C,C,I,R,C,C,I,R,C,I
+Portfolio strategy definition,A,I,C,C,I,R,C,I,I,C,I
+,,,,,,,,,,,
+PRODUCT REVIEW,,,,,,,,,,,
+Product lifecycle management,I,I,C,C,I,A,R,I,C,I,I
+New product introduction planning,I,I,C,A,C,R,R,C,C,C,I
+SKU rationalization decisions,I,C,C,C,C,A,R,C,C,C,I
+Portfolio health monitoring,I,I,I,C,I,A,R,I,I,C,I
+Product review meeting facilitation,I,I,I,C,I,A,R,C,C,I,I
+,,,,,,,,,,,
+DEMAND REVIEW,,,,,,,,,,,
+Statistical forecast generation,I,I,I,I,I,I,C,A,I,I,C
+Sales forecast overlay,I,I,A,C,I,I,R,R,I,I,I
+Marketing demand input,I,I,C,A,I,C,R,R,I,I,I
+Customer collaboration forecasting,I,I,A,C,I,I,C,R,I,I,I
+Consensus demand development,I,C,A,C,C,C,R,R,C,C,I
+Forecast accuracy measurement,I,I,C,C,I,I,A,R,I,C,I
+Demand review meeting facilitation,I,I,A,C,C,C,R,R,C,I,I
+,,,,,,,,,,,
+SUPPLY REVIEW,,,,,,,,,,,
+Capacity planning,I,I,I,I,A,I,C,C,R,I,I
+Inventory strategy,I,C,I,I,A,I,C,C,R,C,I
+Supply-demand balancing,I,I,C,I,A,I,R,C,R,C,I
+Scenario development,I,C,C,I,A,I,R,C,R,C,I
+Supplier capacity management,I,I,I,I,A,I,C,I,R,I,I
+Make vs buy decisions,I,C,I,I,A,C,C,I,R,C,I
+Supply review meeting facilitation,I,I,C,I,A,I,R,C,R,I,I
+,,,,,,,,,,,
+FINANCIAL REVIEW,,,,,,,,,,,
+P&L projection,I,A,C,C,C,C,R,C,C,R,I
+Working capital planning,I,A,I,I,C,I,C,I,C,R,I
+Gap analysis vs budget,I,A,C,C,C,C,R,I,I,R,I
+Scenario financial impact,I,A,C,I,C,I,R,C,C,R,I
+Rolling forecast maintenance,I,A,C,C,C,C,R,C,C,R,I
+Financial review meeting facilitation,I,A,C,I,C,I,R,I,I,R,I
+,,,,,,,,,,,
+EXECUTIVE IBP,,,,,,,,,,,
+Integrated plan approval,A,R,R,R,R,R,R,I,I,C,I
+Strategic gap closure decisions,A,C,C,C,C,C,R,I,I,C,I
+Resource allocation decisions,A,R,C,C,C,C,R,I,I,C,I
+Risk mitigation decisions,A,C,C,C,C,C,R,C,C,C,I
+Executive IBP meeting facilitation,A,R,R,R,R,R,R,I,I,C,I
+,,,,,,,,,,,
+PROCESS MANAGEMENT,,,,,,,,,,,
+IBP process design,I,C,C,C,C,C,A,C,C,C,C
+IBP calendar management,I,I,I,I,I,I,A,R,R,R,I
+Meeting preparation,I,I,I,I,I,I,A,R,R,R,I
+Action item tracking,I,I,I,I,I,I,A,R,R,R,I
+Process compliance monitoring,I,I,I,I,I,I,A,C,C,C,I
+Continuous improvement,I,C,C,C,C,C,A,C,C,C,C
+,,,,,,,,,,,
+PERFORMANCE MANAGEMENT,,,,,,,,,,,
+KPI definition and targets,I,C,C,C,C,C,A,C,C,C,I
+Performance reporting,I,C,C,C,C,C,A,R,R,R,C
+Root cause analysis,I,C,C,C,C,C,A,R,R,R,I
+Benchmark comparison,I,C,C,C,C,C,A,C,C,C,I
+,,,,,,,,,,,
+TECHNOLOGY & DATA,,,,,,,,,,,
+Planning system requirements,I,C,C,C,C,C,A,C,C,C,R
+Data quality management,I,I,I,I,I,I,A,R,R,R,R
+System integration,I,I,I,I,I,I,C,C,C,C,A
+User training,I,I,I,I,I,I,A,C,C,C,R
+,,,,,,,,,,,
+CHANGE MANAGEMENT,,,,,,,,,,,
+Stakeholder engagement,A,C,C,C,C,C,R,C,C,C,I
+Communication planning,I,C,C,C,C,C,A,I,I,I,I
+Training program development,I,I,I,I,I,I,A,C,C,C,C
+Adoption monitoring,I,I,I,I,I,I,A,C,C,C,I

@@ -1,0 +1,81 @@
+PORTFOLIO HEALTH DASHBOARD,,,,,,,,,
+,,,,,,,,,
+Instructions: Update monthly before Product Review. Use conditional formatting for status indicators.,,,,,,,,,
+,,,,,,,,,
+PORTFOLIO SUMMARY,,,,,,,,,
+Metric,Current Month,Prior Month,Change,YTD,Target,Status,Trend,Notes
+Total Active SKUs,,,,,,,,"Total SKUs in portfolio"
+Revenue-Generating SKUs,,,,,,,,"SKUs with sales >$0"
+New Products (<12 months),,,,,,,,"Products launched in last 12 months"
+Mature Products (>36 months),,,,,,,,"Products older than 3 years"
+Products Under Review,,,,,,,,"SKUs being evaluated for sunset"
+,,,,,,,,,
+PORTFOLIO VITALITY INDEX,,,,,,,,,
+Category,SKU Count,Revenue ($M),Revenue %,Margin %,Margin Contribution,Target %,Gap,Status
+New Products (0-12 months),,,,,,25%,,"Revenue from products <1 year old"
+Growth Products (12-36 months),,,,,,35%,,"Revenue from products 1-3 years old"
+Mature Products (36-60 months),,,,,,30%,,"Revenue from products 3-5 years old"
+Declining Products (>60 months),,,,,,10%,,"Revenue from products >5 years old"
+TOTAL,,,,,,100%,,
+,,,,,,,,,
+VITALITY INDEX CALCULATION,,,,,,,,,
+Vitality Index = % Revenue from products < 3 years old,,,,,,,,,
+Current Vitality Index:,,,,,,,,,
+Target Vitality Index:,25%,,,,,,,,
+Status:,,,,,,,,,
+,,,,,,,,,
+PRODUCT FAMILY PERFORMANCE,,,,,,,,,
+Product Family,Revenue ($M),Revenue vs LY,Revenue vs Plan,Gross Margin %,GM vs Plan,Volume (units),Volume vs Plan,Status
+Family A,,,,,,,,
+Family B,,,,,,,,
+Family C,,,,,,,,
+Family D,,,,,,,,
+Family E,,,,,,,,
+Other,,,,,,,,
+TOTAL,,,,,,,,
+,,,,,,,,,
+SKU COMPLEXITY ANALYSIS,,,,,,,,,
+Revenue Tier,SKU Count,% of SKUs,Revenue ($M),% of Revenue,Avg Revenue/SKU,Complexity Score,Action
+Top 20% (A items),,,,,,,"Protect and grow"
+Middle 30% (B items),,,,,,,"Monitor and optimize"
+Bottom 50% (C items),,,,,,,"Evaluate for rationalization"
+Tail (<$X revenue),,,,,,,"Sunset candidates"
+TOTAL,,,,,,,,
+,,,,,,,,,
+TAIL ANALYSIS - RATIONALIZATION CANDIDATES,,,,,,,,,
+SKU,Product Name,Family,Annual Revenue,Annual Volume,Last Order Date,Customer Count,Replacement SKU,Recommendation
+,,,,,,,,"Sunset/Keep/Review"
+,,,,,,,,"Sunset/Keep/Review"
+,,,,,,,,"Sunset/Keep/Review"
+,,,,,,,,"Sunset/Keep/Review"
+,,,,,,,,"Sunset/Keep/Review"
+,,,,,,,,,
+LIFECYCLE STAGE DISTRIBUTION,,,,,,,,,
+Stage,Definition,SKU Count,% of Portfolio,Revenue %,Margin %,Strategy
+Introduction,"Launch phase, building awareness",,,,,"Invest for growth"
+Growth,"Rapid sales increase",,,,,"Maximize market share"
+Maturity,"Sales plateau",,,,,"Optimize profitability"
+Decline,"Sales decreasing",,,,,"Harvest or divest"
+End of Life,"Planned sunset",,,,,"Manage exit"
+TOTAL,,,,,,
+,,,,,,,,,
+MARGIN ANALYSIS BY PRODUCT,,,,,,,,,
+Product/Family,Revenue ($M),COGS ($M),Gross Margin ($M),GM %,Target GM %,Variance,Cost Driver,Action Required
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,,
+STRATEGIC INITIATIVES - PRODUCT,,,,,,,,,
+Initiative,Description,Owner,Status,Target Date,Investment ($K),Expected Revenue Impact,Expected Margin Impact,Risk Level
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+KEY DECISIONS REQUIRED - PRODUCT REVIEW,,,,,,,,,
+Decision Item,Description,Options,Recommendation,Revenue Impact,Margin Impact,Investment Required,Decision Date,Decision Made
+,,,,,,,,Yes/No
+,,,,,,,,Yes/No
+,,,,,,,,Yes/No

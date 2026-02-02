@@ -1,0 +1,91 @@
+CUSTOMER FORECAST COLLABORATION TRACKER,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions: Track collaborative forecasting with strategic customers. Use to improve forecast accuracy and strengthen customer relationships.,,,,,,,,,,,
+,,,,,,,,,,,
+CUSTOMER COLLABORATION SUMMARY,,,,,,,,,,,
+Metric,Current Month,Prior Month,YTD,Target,Status,,,,,,
+Strategic Accounts with Active Collaboration,,,,,Green/Yellow/Red,,,,,,
+% Revenue Under Collaborative Forecast,,,,,Green/Yellow/Red,,,,,,
+Avg Accuracy - Collaborative Accounts,,,,,Green/Yellow/Red,,,,,,
+Avg Accuracy - Non-Collaborative Accounts,,,,,Green/Yellow/Red,,,,,,
+Collaboration Value Add (Accuracy Improvement),,,,,Green/Yellow/Red,,,,,,
+,,,,,,,,,,,
+CUSTOMER COLLABORATION TIERS,,,,,,,,,,,
+Tier,Description,Criteria,Count,Annual Revenue ($M),Collaboration Level,Target Collaboration,Gap
+Tier 1 - Strategic,Top strategic accounts,>$10M annual or strategic importance,,,Joint Business Planning,,
+Tier 2 - Key,Important managed accounts,$1M-$10M annual,,,Regular Forecast Sharing,,
+Tier 3 - Core,Standard accounts,$100K-$1M annual,,,Periodic Communication,,
+Tier 4 - Transactional,Transactional accounts,<$100K annual,,,None Required,,
+TOTAL,,,,,,,
+,,,,,,,,,,,
+STRATEGIC ACCOUNT COLLABORATION DETAIL,,,,,,,,,,,
+Customer Name,Tier,Account Manager,Annual Revenue ($M),Collaboration Level,Forecast Sharing Frequency,Last Forecast Received,Forecast Horizon,Accuracy (12mo),Bias (12mo),Status
+,,,"",Joint Planning/Forecast Share/VMI/None,"Weekly/Monthly/Quarterly",,,,,"Active/Inactive/Pending"
+,,,"",Joint Planning/Forecast Share/VMI/None,"Weekly/Monthly/Quarterly",,,,,"Active/Inactive/Pending"
+,,,"",Joint Planning/Forecast Share/VMI/None,"Weekly/Monthly/Quarterly",,,,,"Active/Inactive/Pending"
+,,,"",Joint Planning/Forecast Share/VMI/None,"Weekly/Monthly/Quarterly",,,,,"Active/Inactive/Pending"
+,,,"",Joint Planning/Forecast Share/VMI/None,"Weekly/Monthly/Quarterly",,,,,"Active/Inactive/Pending"
+,,,,,,,,,,,
+CUSTOMER FORECAST INPUT TRACKER,,,,,,,,,,,
+Customer,Contact Name,Date Received,Forecast Period,Format,SKU Level?,M1 Forecast,M2 Forecast,M3 Forecast,6-Mo Forecast,12-Mo Forecast,Notes
+,,,,"Excel/EDI/Portal/Email","Yes/No",,,,,,
+,,,,"Excel/EDI/Portal/Email","Yes/No",,,,,,
+,,,,"Excel/EDI/Portal/Email","Yes/No",,,,,,
+,,,,"Excel/EDI/Portal/Email","Yes/No",,,,,,
+,,,,,,,,,,,
+CUSTOMER FORECAST VS ACTUAL PERFORMANCE,,,,,,,,,,,
+Customer,Period,Customer Forecast,Our Forecast,Actual,Customer Accuracy,Our Accuracy,Better Forecaster,Variance Driver
+,,,,,,,Customer/Us/Tie,
+,,,,,,,Customer/Us/Tie,
+,,,,,,,Customer/Us/Tie,
+,,,,,,,Customer/Us/Tie,
+,,,,,,,Customer/Us/Tie,
+,,,,,,,,,,,
+JOINT BUSINESS PLANNING CALENDAR,,,,,,,,,,,
+Customer,Meeting Type,Frequency,Last Meeting,Next Meeting,Attendees (Customer),Attendees (Our Team),Topics,Action Items
+,,"JBP Session/Forecast Review/QBR","Monthly/Quarterly/Annual",,,,,,
+,,"JBP Session/Forecast Review/QBR","Monthly/Quarterly/Annual",,,,,,
+,,"JBP Session/Forecast Review/QBR","Monthly/Quarterly/Annual",,,,,,
+,,"JBP Session/Forecast Review/QBR","Monthly/Quarterly/Annual",,,,,,
+,,,,,,,,,,,
+VMI/CMI PROGRAM STATUS,,,,,,,,,,,
+Customer,Program Type,Start Date,Products Covered,Inventory Locations,Min Stock Level,Max Stock Level,Current Stock,Fill Rate %,Program Health
+,,"VMI/CMI/Consignment",,,,,,,"Green/Yellow/Red"
+,,"VMI/CMI/Consignment",,,,,,,"Green/Yellow/Red"
+,,"VMI/CMI/Consignment",,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+COLLABORATION IMPROVEMENT OPPORTUNITIES,,,,,,,,,,,
+Customer,Current Level,Target Level,Gap,Potential Value ($K),Barriers,Next Steps,Owner,Target Date
+,,,,"Accuracy improvement value",,,,
+,,,,"Accuracy improvement value",,,,
+,,,,"Accuracy improvement value",,,,
+,,,,,,,,,,,
+CUSTOMER INTELLIGENCE LOG,,,,,,,,,,,
+Date,Customer,Intelligence Type,Source/Contact,Details,SKUs Affected,Demand Impact,Incorporated in Plan?,Follow-up Required
+,,"Market trend/Project/Expansion/Risk/Opportunity",,,,,"Yes/No","Yes/No"
+,,"Market trend/Project/Expansion/Risk/Opportunity",,,,,"Yes/No","Yes/No"
+,,"Market trend/Project/Expansion/Risk/Opportunity",,,,,"Yes/No","Yes/No"
+,,"Market trend/Project/Expansion/Risk/Opportunity",,,,,"Yes/No","Yes/No"
+,,,,,,,,,,,
+COLLABORATION SCORECARD BY CUSTOMER,,,,,,,,,,,
+Customer,Forecast Sharing Score (1-5),Timeliness Score (1-5),Accuracy Score (1-5),Communication Score (1-5),Strategic Alignment Score (1-5),Overall Score,Trend,Action Plan
+,,,,,,,,"Improving/Stable/Declining",
+,,,,,,,,"Improving/Stable/Declining",
+,,,,,,,,"Improving/Stable/Declining",
+,,,,,,,,"Improving/Stable/Declining",
+,,,,,,,,,,,
+Scoring: 1=Poor, 2=Below Expectations, 3=Meets Expectations, 4=Exceeds Expectations, 5=Best-in-Class,,,,,,,,,,,
+,,,,,,,,,,,
+CUSTOMER DEMAND SIGNALS - LEADING INDICATORS,,,,,,,,,,,
+Customer,Signal Type,Data Source,Frequency,Last Update,Current Value,Prior Value,Trend,Demand Implication
+,,"POS/Orders/Inventory/Production Plan","Daily/Weekly/Monthly",,,,,"Increase/Decrease/Stable"
+,,"POS/Orders/Inventory/Production Plan","Daily/Weekly/Monthly",,,,,"Increase/Decrease/Stable"
+,,"POS/Orders/Inventory/Production Plan","Daily/Weekly/Monthly",,,,,"Increase/Decrease/Stable"
+,,"POS/Orders/Inventory/Production Plan","Daily/Weekly/Monthly",,,,,"Increase/Decrease/Stable"
+,,,,,,,,,,,
+COLLABORATION PROGRAM ROI,,,,,,,,,,,
+Customer,Program Investment ($K),Accuracy Before,Accuracy After,Accuracy Improvement,Inventory Reduction ($K),Service Improvement,Relationship Value,Total ROI
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+TOTAL,,,,,,,,

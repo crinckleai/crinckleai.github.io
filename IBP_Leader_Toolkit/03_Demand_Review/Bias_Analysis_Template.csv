@@ -1,0 +1,109 @@
+FORECAST BIAS ANALYSIS TEMPLATE,,,,,,,,,
+,,,,,,,,,
+Instructions: Analyze systematic bias patterns to improve forecast accuracy. Update monthly after actuals are available.,,,,,,,,,
+,,,,,,,,,
+BIAS SUMMARY DASHBOARD,,,,,,,,,
+Metric,Current Month,Prior Month,3-Month Trend,6-Month Trend,YTD,Target,Status
+Overall Bias %,,,,,,,±3%
+Over-Forecast Instances,,,,,,,
+Under-Forecast Instances,,,,,,,
+Bias Direction,Positive/Negative,Positive/Negative,,,,Neutral,
+Consecutive Months Same Direction,,,,,,,<3
+,,,,,,,,,
+BIAS CALCULATION,,,,,,,,,
+Formula: Bias % = (Forecast - Actual) / Actual × 100,,,,,,,,,
+Positive Bias = Over-forecasting (forecast > actual),,,,,,,,,
+Negative Bias = Under-forecasting (forecast < actual),,,,,,,,,
+,,,,,,,,,
+BIAS BY PRODUCT FAMILY,,,,,,,,,
+Product Family,Forecast ($K),Actual ($K),Bias ($K),Bias %,6-Month Avg Bias,Pattern,Root Cause,Corrective Action
+Family A,,,,,,Systematic/Random,,
+Family B,,,,,,Systematic/Random,,
+Family C,,,,,,Systematic/Random,,
+Family D,,,,,,Systematic/Random,,
+Family E,,,,,,Systematic/Random,,
+TOTAL,,,,,,,,
+,,,,,,,,,
+BIAS BY REGION,,,,,,,,,
+Region,Forecast ($K),Actual ($K),Bias ($K),Bias %,6-Month Avg Bias,Pattern,Root Cause,Corrective Action
+North America,,,,,,Systematic/Random,,
+Europe,,,,,,Systematic/Random,,
+Asia Pacific,,,,,,Systematic/Random,,
+Latin America,,,,,,Systematic/Random,,
+MEA,,,,,,Systematic/Random,,
+TOTAL,,,,,,,,
+,,,,,,,,,
+BIAS BY SALES TEAM/REP,,,,,,,,,
+Sales Team/Rep,Forecast ($K),Actual ($K),Bias ($K),Bias %,6-Month Avg Bias,Consistency Score,Coaching Needed?,Manager
+,,,,,,,Yes/No,
+,,,,,,,Yes/No,
+,,,,,,,Yes/No,
+,,,,,,,Yes/No,
+,,,,,,,Yes/No,
+,,,,,,,,,
+Consistency Score: Measures how consistently the rep over/under forecasts (higher = more consistent pattern),,,,,,,,,
+,,,,,,,,,
+BIAS BY FORECAST HORIZON,,,,,,,,,
+Horizon (Months Out),Avg Bias %,Bias Direction,Pattern,Expected Behavior,Variance from Expected,Action
+1 month,,Over/Under/Neutral,,,,"Fine-tune near-term"
+2 months,,Over/Under/Neutral,,,,"Adjust assumptions"
+3 months,,Over/Under/Neutral,,,,"Review models"
+6 months,,Over/Under/Neutral,,,,"Strategy review"
+12 months,,Over/Under/Neutral,,,,"Planning parameters"
+,,,,,,,,,
+BIAS TREND ANALYSIS,,,,,,,,,
+Month,Bias %,Direction,Consecutive Same Direction,Tracking Signal,Control Limit Breach?,Intervention Triggered?
+Jan,,,,,Yes/No,Yes/No
+Feb,,,,,Yes/No,Yes/No
+Mar,,,,,Yes/No,Yes/No
+Apr,,,,,Yes/No,Yes/No
+May,,,,,Yes/No,Yes/No
+Jun,,,,,Yes/No,Yes/No
+Jul,,,,,Yes/No,Yes/No
+Aug,,,,,Yes/No,Yes/No
+Sep,,,,,Yes/No,Yes/No
+Oct,,,,,Yes/No,Yes/No
+Nov,,,,,Yes/No,Yes/No
+Dec,,,,,Yes/No,Yes/No
+,,,,,,,,,
+Tracking Signal = Cumulative Bias / Mean Absolute Deviation,,,,,,,,,
+Control Limit = ±4 (typical) - breach indicates systematic bias requiring intervention,,,,,,,,,
+,,,,,,,,,
+BIAS BY OVERLAY TYPE,,,,,,,,,
+Overlay Type,# Adjustments,Total Adjustment ($K),Actual Impact ($K),Accuracy of Adjustments,Bias %,Value Added?,Recommendation
+Sales Overlay,,,,,,"Yes/No","Continue/Modify/Eliminate"
+Marketing Overlay,,,,,,"Yes/No","Continue/Modify/Eliminate"
+NPI Forecast,,,,,,"Yes/No","Continue/Modify/Eliminate"
+Customer Intel,,,,,,"Yes/No","Continue/Modify/Eliminate"
+Management Override,,,,,,"Yes/No","Continue/Modify/Eliminate"
+,,,,,,,,,
+BEHAVIORAL BIAS PATTERNS,,,,,,,,,
+Bias Pattern,Description,Indicators,Impact,Mitigation Strategy,Owner
+Sandbagging,Deliberately under-forecasting to beat targets,Consistent negative bias; high beat rate,Under-investment in capacity/inventory,Align incentives; track bias by rep,
+Hockey Stick,Over-forecasting long-term; under near-term,Bias increases with horizon,Resource misallocation,Accountability at all horizons,
+Optimism Bias,Systematic over-forecasting,Consistent positive bias,Excess inventory; write-offs,Require supporting evidence,
+Anchoring,Insufficient adjustment from baseline,Low adjustment frequency,Missed trends,Challenge status quo thinking,
+Recency Bias,Over-weighting recent events,Volatility in overlays,Whipsaw in plans,Longer-term perspective,
+,,,,,,,,,
+SKU-LEVEL SYSTEMATIC BIAS,,,,,,,,,
+SKU Code,Product Name,12-Month Bias %,Bias Direction,Consecutive Months,Statistical Significance,Auto-Correction Applied?,Correction Factor
+,,,"Over/Under",,Yes/No,Yes/No,
+,,,"Over/Under",,Yes/No,Yes/No,
+,,,"Over/Under",,Yes/No,Yes/No,
+,,,"Over/Under",,Yes/No,Yes/No,
+,,,"Over/Under",,Yes/No,Yes/No,
+,,,,,,,,,
+BIAS CORRECTION RECOMMENDATIONS,,,,,,,,,
+Category,Current Bias,Correction Factor,Application Method,Expected Improvement,Implementation Date,Owner,Status
+Family A,,,Multiplicative/Additive,,,,"Planned/Active/Monitoring"
+Family B,,,Multiplicative/Additive,,,,"Planned/Active/Monitoring"
+Region - APAC,,,Multiplicative/Additive,,,,"Planned/Active/Monitoring"
+Sales Team X,,,Training/Coaching,,,,"Planned/Active/Monitoring"
+,,,,,,,,,
+BIAS ACCOUNTABILITY REPORT,,,,,,,,,
+Role,Responsible For,Current Bias,Target Bias,Gap,Trend,Performance Rating,Action Required
+Demand Planning,Statistical baseline,,,,,,"Green/Yellow/Red"
+Sales VP,Sales overlay,,,,,,"Green/Yellow/Red"
+Marketing VP,Marketing overlay,,,,,,"Green/Yellow/Red"
+Product Management,NPI forecasts,,,,,,"Green/Yellow/Red"
+Overall,Consensus demand,,,,,,"Green/Yellow/Red"

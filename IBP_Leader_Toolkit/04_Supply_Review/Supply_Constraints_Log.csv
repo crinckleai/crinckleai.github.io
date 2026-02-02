@@ -1,0 +1,85 @@
+SUPPLY CONSTRAINTS LOG,,,,,,,,,
+,,,,,,,,,
+Instructions: Log all supply constraints affecting ability to meet demand. Update continuously; review weekly/monthly in IBP.,,,,,,,,,
+,,,,,,,,,
+ACTIVE CONSTRAINTS SUMMARY,,,,,,,,,
+Constraint Category,Count,Total Impact ($K),Avg Resolution Time,Most Critical,Trend vs Prior Month
+Capacity,,,,,
+Material/Supplier,,,,,
+Quality,,,,,
+Logistics/Distribution,,,,,
+Labor,,,,,
+Equipment,,,,,
+Regulatory,,,,,
+TOTAL,,,,,
+,,,,,,,,,
+CONSTRAINT DETAIL LOG,,,,,,,,,
+Constraint ID,Date Identified,Category,Description,Affected Products,Demand Impact ($K),Duration (est),Resolution Owner,Status
+,,Capacity/Material/Quality/Logistics/Labor/Equipment/Regulatory,,,,,,"Open/In Progress/Resolved/Escalated"
+,,Capacity/Material/Quality/Logistics/Labor/Equipment/Regulatory,,,,,,"Open/In Progress/Resolved/Escalated"
+,,Capacity/Material/Quality/Logistics/Labor/Equipment/Regulatory,,,,,,"Open/In Progress/Resolved/Escalated"
+,,Capacity/Material/Quality/Logistics/Labor/Equipment/Regulatory,,,,,,"Open/In Progress/Resolved/Escalated"
+,,Capacity/Material/Quality/Logistics/Labor/Equipment/Regulatory,,,,,,"Open/In Progress/Resolved/Escalated"
+,,,,,,,,,
+CONSTRAINT IMPACT ASSESSMENT,,,,,,,,,
+Constraint ID,Products Affected,M1 Impact (units),M2 Impact (units),M3 Impact (units),Revenue at Risk ($K),Customer Impact,Service Level Impact,Priority
+,,,,,,,OTIF -X%,Critical/High/Medium/Low
+,,,,,,,OTIF -X%,Critical/High/Medium/Low
+,,,,,,,OTIF -X%,Critical/High/Medium/Low
+,,,,,,,OTIF -X%,Critical/High/Medium/Low
+,,,,,,,,,
+CAPACITY CONSTRAINTS,,,,,,,,,
+Work Center/Resource,Constraint Type,Available Capacity,Required Capacity,Gap,Root Cause,Short-term Mitigation,Long-term Solution,Est Resolution
+,,Equipment/Labor/Space,,,,,,,
+,,Equipment/Labor/Space,,,,,,,
+,,Equipment/Labor/Space,,,,,,,
+,,,,,,,,,
+MATERIAL/SUPPLIER CONSTRAINTS,,,,,,,,,
+Material/Component,Supplier,Issue Description,Impact Start Date,Expected Resolution,Products Affected,Alternative Source?,Mitigation Plan,Owner
+,,,,,,Yes/No,,
+,,,,,,Yes/No,,
+,,,,,,Yes/No,,
+,,,,,,Yes/No,,
+,,,,,,,,,
+QUALITY CONSTRAINTS,,,,,,,,,
+Product/Process,Quality Issue,Root Cause,Impact on Output,Containment Actions,Corrective Actions,Resolution Date,CAPA ID
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,,
+LOGISTICS/DISTRIBUTION CONSTRAINTS,,,,,,,,,
+Route/Lane,Issue Description,Impact,Duration,Alternative Routes,Cost Impact,Mitigation Actions,Status
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,,
+CONSTRAINT RESOLUTION TRACKER,,,,,,,,,
+Constraint ID,Description,Date Opened,Target Resolution,Actual Resolution,Days Open,Root Cause Category,Preventive Actions,Lessons Learned
+,,,,,,"Capacity/Material/Quality/Process/External",,
+,,,,,,"Capacity/Material/Quality/Process/External",,
+,,,,,,"Capacity/Material/Quality/Process/External",,
+,,,,,,,,,
+CONSTRAINT IMPACT ON CUSTOMER ORDERS,,,,,,,,,
+Order ID,Customer,Product,Original Promise Date,Revised Promise Date,Delay (days),Constraint ID,Customer Communication,Customer Acceptance
+,,,,,,,"Sent/Pending","Accepted/Disputed/Escalated"
+,,,,,,,"Sent/Pending","Accepted/Disputed/Escalated"
+,,,,,,,"Sent/Pending","Accepted/Disputed/Escalated"
+,,,,,,,,,
+DEMAND ALLOCATION DUE TO CONSTRAINTS,,,,,,,,,
+Product,Total Demand,Available Supply,Gap,Allocation Basis,Customer A Allocation,Customer B Allocation,Customer C Allocation,Allocation Approval
+,,,,"Revenue/Margin/Strategic/Pro-rata",,,,Approved/Pending
+,,,,"Revenue/Margin/Strategic/Pro-rata",,,,Approved/Pending
+,,,,"Revenue/Margin/Strategic/Pro-rata",,,,Approved/Pending
+,,,,,,,,,
+CONSTRAINT ESCALATION MATRIX,,,,,,,,,
+Impact Level,Revenue Impact,Duration,Decision Authority,Communication Required,SLA for Resolution
+Critical,>$1M,>2 weeks,Executive IBP,Customer + Executive,24 hours
+High,$500K-$1M,1-2 weeks,VP Supply Chain,Customer + Sales VP,48 hours
+Medium,$100K-$500K,1 week,Supply Planning Manager,Internal,72 hours
+Low,<$100K,<1 week,Planner,Internal,1 week
+,,,,,,,,,
+FORWARD-LOOKING CONSTRAINT RISKS,,,,,,,,,
+Risk ID,Potential Constraint,Trigger,Probability,Impact if Occurs,Early Warning Indicators,Prevention Actions,Contingency Plan
+,,,"High/Med/Low",,,,
+,,,"High/Med/Low",,,,
+,,,"High/Med/Low",,,,

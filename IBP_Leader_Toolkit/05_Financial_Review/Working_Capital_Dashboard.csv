@@ -1,0 +1,100 @@
+WORKING CAPITAL DASHBOARD,,,,,,,,,
+,,,,,,,,,
+Instructions: Monitor working capital components and cash flow implications. Update monthly aligned with IBP cycle.,,,,,,,,,
+,,,,,,,,,
+WORKING CAPITAL SUMMARY,,,,,,,,,
+Metric,Current Month,Prior Month,Change,YTD Avg,Target,vs Target,Trend,Status
+Net Working Capital ($M),,,,,,,,"Green/Yellow/Red"
+Working Capital % of Revenue,,,,,,,,"Green/Yellow/Red"
+Cash Conversion Cycle (days),,,,,,,,"Green/Yellow/Red"
+Days Sales Outstanding (DSO),,,,,,,,"Green/Yellow/Red"
+Days Inventory Outstanding (DIO),,,,,,,,"Green/Yellow/Red"
+Days Payables Outstanding (DPO),,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,
+WORKING CAPITAL COMPONENTS,,,,,,,,,
+Component,Current ($M),Prior Month,Change ($M),% of NWC,Target ($M),vs Target,Trend,Action Required
+Accounts Receivable,,,,,,,,,
+Inventory,,,,,,,,,
+Other Current Assets,,,,,,,,,
+Total Current Assets,,,,,,,,,
+Accounts Payable,,,,,,,,,
+Accrued Liabilities,,,,,,,,,
+Other Current Liabilities,,,,,,,,,
+Total Current Liabilities,,,,,,,,,
+NET WORKING CAPITAL,,,,,,,,,
+,,,,,,,,,
+CASH CONVERSION CYCLE TREND,,,,,,,,,
+Period,DSO,DIO,DPO,CCC,Target CCC,Variance,Commentary
+M-6,,,,,,,,
+M-5,,,,,,,,
+M-4,,,,,,,,
+M-3,,,,,,,,
+M-2,,,,,,,,
+M-1,,,,,,,,
+Current,,,,,,,,
+,,,,,,,,,
+CCC = DSO + DIO - DPO (lower is better),,,,,,,,,
+,,,,,,,,,
+ACCOUNTS RECEIVABLE ANALYSIS,,,,,,,,,
+Aging Bucket,Amount ($M),% of Total,Prior Month,Change,Target %,Action Required
+Current (0-30 days),,,,,,
+31-60 days,,,,,,
+61-90 days,,,,,,
+Over 90 days,,,,,,
+TOTAL AR,,100%,,,,
+,,,,,,,,,
+TOP AR BALANCES,,,,,,,,,
+Customer,Balance ($M),Days Outstanding,Credit Limit,Over Limit?,Payment Terms,Last Payment,Collection Status
+,,,,"Yes/No",,,"Current/Follow-up/Escalated"
+,,,,"Yes/No",,,"Current/Follow-up/Escalated"
+,,,,"Yes/No",,,"Current/Follow-up/Escalated"
+,,,,"Yes/No",,,"Current/Follow-up/Escalated"
+,,,,,,,,,
+INVENTORY ANALYSIS,,,,,,,,,
+Category,Amount ($M),DOS,Target DOS,Variance,Prior Month,Change,Action
+Raw Materials,,,,,,,,
+Work in Process,,,,,,,,
+Finished Goods,,,,,,,,
+TOTAL INVENTORY,,,,,,,,
+,,,,,,,,,
+INVENTORY BY FAMILY,,,,,,,,,
+Product Family,Amount ($M),% of Total,DOS,Target DOS,Excess ($M),Obsolete ($M),Status
+,,,,,,,Green/Yellow/Red
+,,,,,,,Green/Yellow/Red
+,,,,,,,Green/Yellow/Red
+,,,,,,,Green/Yellow/Red
+TOTAL,,,,,,,
+,,,,,,,,,
+ACCOUNTS PAYABLE ANALYSIS,,,,,,,,,
+Aging Bucket,Amount ($M),% of Total,Prior Month,Change,Notes
+Current (within terms),,,,,,
+1-30 days past due,,,,,,
+31-60 days past due,,,,,,
+Over 60 days past due,,,,,,
+TOTAL AP,,100%,,,
+,,,,,,,,,
+WORKING CAPITAL PROJECTION,,,,,,,,,
+Period,Revenue ($M),AR ($M),Inventory ($M),AP ($M),NWC ($M),NWC % Rev,Cash Impact
+M1,,,,,,,,
+M2,,,,,,,,
+M3,,,,,,,,
+M4,,,,,,,,
+M5,,,,,,,,
+M6,,,,,,,,
+,,,,,,,,,
+WORKING CAPITAL IMPROVEMENT INITIATIVES,,,,,,,,,
+Initiative,Category,Target Improvement ($M),Target Metric Improvement,Owner,Status,Impact to Date
+,AR/Inventory/AP,,,,,"On Track/Delayed"
+,AR/Inventory/AP,,,,,"On Track/Delayed"
+,AR/Inventory/AP,,,,,"On Track/Delayed"
+,AR/Inventory/AP,,,,,"On Track/Delayed"
+,,,,,,,,,
+CASH FLOW IMPACT,,,,,,,,,
+Item,This Month ($M),Prior Month,Change,YTD ($M),Full Year Forecast
+Operating Cash Flow,,,,,,
+- Working Capital Change,,,,,,
+AR Change,,,,,,
+Inventory Change,,,,,,
+AP Change,,,,,,
+Other WC Change,,,,,,
+Net WC Impact on Cash,,,,,,

@@ -1,0 +1,73 @@
+NEW PRODUCT INTRODUCTION (NPI) PIPELINE TRACKER,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Instructions: Update weekly. Track all products from concept through launch and post-launch review.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+NPI PIPELINE SUMMARY,,,,,,,,,,,,,
+Stage,Count,Total Investment ($M),Expected Revenue Y1 ($M),Expected Revenue Y2 ($M),Avg Time in Stage,Target Time,On-Track,Delayed,At-Risk
+Concept/Ideation,,,,,,,,,
+Feasibility,,,,,,,,,
+Development,,,,,,,,,
+Testing/Validation,,,,,,,,,
+Pre-Launch,,,,,,,,,
+Launch,,,,,,,,,
+Post-Launch Review,,,,,,,,,
+TOTAL,,,,,,,,,
+,,,,,,,,,,,,,
+NPI DETAILED TRACKER,,,,,,,,,,,,,
+Project ID,Project Name,Product Family,Project Type,Stage,Stage Entry Date,Target Launch Date,Revised Launch Date,Days to Launch,Status,Risk Level,Project Manager,Executive Sponsor
+,,"","New/Extension/Refresh","Concept/Feasibility/Development/Testing/Pre-Launch/Launch",,,,,,"Green/Yellow/Red","High/Medium/Low",,
+,,"","New/Extension/Refresh","Concept/Feasibility/Development/Testing/Pre-Launch/Launch",,,,,,"Green/Yellow/Red","High/Medium/Low",,
+,,"","New/Extension/Refresh","Concept/Feasibility/Development/Testing/Pre-Launch/Launch",,,,,,"Green/Yellow/Red","High/Medium/Low",,
+,,"","New/Extension/Refresh","Concept/Feasibility/Development/Testing/Pre-Launch/Launch",,,,,,"Green/Yellow/Red","High/Medium/Low",,
+,,"","New/Extension/Refresh","Concept/Feasibility/Development/Testing/Pre-Launch/Launch",,,,,,"Green/Yellow/Red","High/Medium/Low",,
+,,,,,,,,,,,,,
+NPI FINANCIAL PROJECTIONS,,,,,,,,,,,,,
+Project ID,Project Name,Development Cost ($K),Launch Cost ($K),Total Investment ($K),Y1 Revenue ($K),Y2 Revenue ($K),Y3 Revenue ($K),Y1 GM %,Payback Period (months),NPV ($K),IRR %,Go/No-Go Status
+,,,,,,,,,,,,"Approved/Pending/Rejected"
+,,,,,,,,,,,,"Approved/Pending/Rejected"
+,,,,,,,,,,,,"Approved/Pending/Rejected"
+,,,,,,,,,,,,"Approved/Pending/Rejected"
+,,,,,,,,,,,,"Approved/Pending/Rejected"
+,,,,,,,,,,,,,
+NPI DEMAND INTEGRATION,,,,,,,,,,,,,
+Project ID,Project Name,Launch Date,M1 Forecast,M2 Forecast,M3 Forecast,M4 Forecast,M5 Forecast,M6 Forecast,Full Year Forecast,Cannibalization Impact,Net Incremental,Confidence Level
+,,,,,,,,,,,,High/Medium/Low
+,,,,,,,,,,,,High/Medium/Low
+,,,,,,,,,,,,High/Medium/Low
+,,,,,,,,,,,,High/Medium/Low
+,,,,,,,,,,,,High/Medium/Low
+,,,,,,,,,,,,,
+NPI SUPPLY READINESS,,,,,,,,,,,,,
+Project ID,Project Name,Bill of Materials Status,Supplier Qualification,Manufacturing Site,Production Line,First Article Date,Production Readiness Date,Inventory Build Plan,Supply Readiness Score,Risks,Mitigation Actions
+,,"Complete/In Progress/Not Started","Complete/In Progress/Not Started",,,,,,1-5 (5=Ready),,
+,,"Complete/In Progress/Not Started","Complete/In Progress/Not Started",,,,,,1-5 (5=Ready),,
+,,"Complete/In Progress/Not Started","Complete/In Progress/Not Started",,,,,,1-5 (5=Ready),,
+,,"Complete/In Progress/Not Started","Complete/In Progress/Not Started",,,,,,1-5 (5=Ready),,
+,,,,,,,,,,,,,
+NPI STAGE-GATE CHECKLIST,,,,,,,,,,,,,
+Project ID,Project Name,Gate,Gate Date,Criteria 1,Criteria 2,Criteria 3,Criteria 4,Criteria 5,Overall Score,Decision,Notes
+,,Gate 0 - Concept,,Market need validated,Strategic fit confirmed,Resource availability,,,,"Go/No-Go/Conditional",
+,,Gate 1 - Feasibility,,Technical feasibility,Business case approved,Customer validation,Competitive analysis,,,"Go/No-Go/Conditional",
+,,Gate 2 - Development,,Design complete,Prototype validated,Manufacturing plan,Quality standards,,,"Go/No-Go/Conditional",
+,,Gate 3 - Testing,,Testing complete,Regulatory approval,Customer trials passed,Launch plan ready,,,"Go/No-Go/Conditional",
+,,Gate 4 - Launch,,Production ready,Marketing ready,Sales trained,Inventory positioned,,,"Go/No-Go/Conditional",
+,,,,,,,,,,,,,
+NPI RISKS & ISSUES LOG,,,,,,,,,,,,,
+Project ID,Project Name,Risk/Issue ID,Type (R/I),Description,Impact,Probability,Risk Score,Owner,Mitigation Plan,Due Date,Status
+,,,"Risk/Issue",,High/Medium/Low,High/Medium/Low,,,,,Open/Closed/Monitoring
+,,,"Risk/Issue",,High/Medium/Low,High/Medium/Low,,,,,Open/Closed/Monitoring
+,,,"Risk/Issue",,High/Medium/Low,High/Medium/Low,,,,,Open/Closed/Monitoring
+,,,"Risk/Issue",,High/Medium/Low,High/Medium/Low,,,,,Open/Closed/Monitoring
+,,,,,,,,,,,,,
+NPI KEY MILESTONES,,,,,,,,,,,,,
+Project ID,Project Name,Milestone,Baseline Date,Current Date,Variance (Days),Status,Comments
+,,,,,,"On Track/Delayed/At Risk",
+,,,,,,"On Track/Delayed/At Risk",
+,,,,,,"On Track/Delayed/At Risk",
+,,,,,,"On Track/Delayed/At Risk",
+,,,,,,,
+POST-LAUNCH PERFORMANCE TRACKING,,,,,,,,,,,,,
+Project ID,Project Name,Launch Date,M1 Actual,M1 Plan,M1 %,M2 Actual,M2 Plan,M2 %,M3 Actual,M3 Plan,M3 %,Status
+,,,,,,,,,,,,"Exceeding/On Track/Below Plan"
+,,,,,,,,,,,,"Exceeding/On Track/Below Plan"
+,,,,,,,,,,,,"Exceeding/On Track/Below Plan"

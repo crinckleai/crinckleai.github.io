@@ -1,0 +1,132 @@
+FORECAST ACCURACY TRACKER,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions: Track forecast accuracy and bias monthly. Use to identify improvement opportunities and accountability.,,,,,,,,,,,
+,,,,,,,,,,,
+EXECUTIVE SUMMARY,,,,,,,,,,,
+Metric,Current Month,Prior Month,3-Month Avg,6-Month Avg,YTD,Target,vs Target,Trend
+Weighted MAPE (SKU-Location),,,,,,,,"Improving/Stable/Declining"
+Unweighted MAPE (SKU-Location),,,,,,,,"Improving/Stable/Declining"
+Forecast Bias,,,,,,,,"Improving/Stable/Declining"
+Value Added Forecast %,,,,,,,,"Improving/Stable/Declining"
+,,,,,,,,,,,
+ACCURACY BY TIME HORIZON,,,,,,,,,,,
+Lag (Months Before Actuals),Current Month Accuracy,Prior Month Accuracy,3-Month Avg,6-Month Avg,Target,Gap,Trend,
+Lag 1 (1 month prior),,,,,,,,
+Lag 2 (2 months prior),,,,,,,,
+Lag 3 (3 months prior),,,,,,,,
+Lag 6 (6 months prior),,,,,,,,
+Lag 12 (12 months prior),,,,,,,,
+,,,,,,,,,,,
+Expected accuracy degradation: ~2-3% per month of lag,,,,,,,,,,,
+,,,,,,,,,,,
+ACCURACY BY PRODUCT FAMILY,,,,,,,,,,,
+Product Family,Actual ($K),Forecast ($K),Variance ($K),MAPE %,Bias %,Accuracy %,Revenue Weight,Weighted Accuracy,Target,Status
+Family A,,,,,,,,,,"Green/Yellow/Red"
+Family B,,,,,,,,,,"Green/Yellow/Red"
+Family C,,,,,,,,,,"Green/Yellow/Red"
+Family D,,,,,,,,,,"Green/Yellow/Red"
+Family E,,,,,,,,,,"Green/Yellow/Red"
+TOTAL (Weighted),,,,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+ACCURACY BY REGION,,,,,,,,,,,
+Region,Actual ($K),Forecast ($K),Variance ($K),MAPE %,Bias %,Accuracy %,Revenue Weight,Weighted Accuracy,Target,Status
+North America,,,,,,,,,,"Green/Yellow/Red"
+Europe,,,,,,,,,,"Green/Yellow/Red"
+Asia Pacific,,,,,,,,,,"Green/Yellow/Red"
+Latin America,,,,,,,,,,"Green/Yellow/Red"
+MEA,,,,,,,,,,"Green/Yellow/Red"
+TOTAL (Weighted),,,,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+ACCURACY BY CUSTOMER SEGMENT,,,,,,,,,,,
+Segment,Actual ($K),Forecast ($K),Variance ($K),MAPE %,Bias %,Accuracy %,Revenue Weight,Weighted Accuracy,Target,Status
+Strategic Accounts,,,,,,,,,,"Green/Yellow/Red"
+Key Accounts,,,,,,,,,,"Green/Yellow/Red"
+Core Accounts,,,,,,,,,,"Green/Yellow/Red"
+Distribution,,,,,,,,,,"Green/Yellow/Red"
+TOTAL (Weighted),,,,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+ACCURACY BY ABC CLASSIFICATION,,,,,,,,,,,
+Classification,SKU Count,Actual ($K),Forecast ($K),MAPE %,Bias %,Target MAPE,Status,Planning Intensity
+A Items (Top 80% revenue),,,,,,,,"High - SKU level weekly"
+B Items (Next 15% revenue),,,,,,,,"Medium - Family level monthly"
+C Items (Bottom 5% revenue),,,,,,,,"Low - Aggregate quarterly"
+TOTAL,,,,,,,,
+,,,,,,,,,,,
+VALUE ADDED FORECAST ANALYSIS,,,,,,,,,,,
+Measure,This Month,Prior Month,3-Month Avg,6-Month Avg,YTD,Target,Status
+Statistical Forecast MAPE,,,,,,,
+Consensus Forecast MAPE,,,,,,,
+Value Added (Statistical - Consensus),,,,,,,>10%
+Sales Overlay Value Added,,,,,,,>0%
+Marketing Overlay Value Added,,,,,,,>0%
+,,,,,,,,,,,
+Value Added = (Statistical MAPE - Consensus MAPE) / Statistical MAPE,,,,,,,,,,,
+Positive value = consensus improves on statistical baseline,,,,,,,,,,,
+,,,,,,,,,,,
+BIAS ANALYSIS,,,,,,,,,,,
+Category,Count Over-Forecast,Count Under-Forecast,Total Bias ($K),Bias %,Systematic?,Root Cause,Action
+By Family A,,,,,"Yes/No",,
+By Family B,,,,,"Yes/No",,
+By Family C,,,,,"Yes/No",,
+By Region - NA,,,,,"Yes/No",,
+By Region - Europe,,,,,"Yes/No",,
+By Segment - Strategic,,,,,"Yes/No",,
+OVERALL,,,,,"Yes/No",,
+,,,,,,,,,,,
+WORST PERFORMERS - SKU LEVEL,,,,,,,,,,,
+Rank,SKU Code,Product Name,Family,Actual,Forecast,MAPE %,Bias %,Revenue,Root Cause,Action Required
+1,,,,,,,,,,
+2,,,,,,,,,,
+3,,,,,,,,,,
+4,,,,,,,,,,
+5,,,,,,,,,,
+6,,,,,,,,,,
+7,,,,,,,,,,
+8,,,,,,,,,,
+9,,,,,,,,,,
+10,,,,,,,,,,
+,,,,,,,,,,,
+BEST PERFORMERS - SKU LEVEL,,,,,,,,,,,
+Rank,SKU Code,Product Name,Family,Actual,Forecast,MAPE %,Bias %,Revenue,Success Factor,Replicate?
+1,,,,,,,,,,
+2,,,,,,,,,,
+3,,,,,,,,,,
+4,,,,,,,,,,
+5,,,,,,,,,,
+,,,,,,,,,,,
+TREND ANALYSIS - MONTHLY ACCURACY,,,,,,,,,,,
+Month,MAPE %,Bias %,Target MAPE,vs Target,Rolling 3-Mo Avg,Trend,Key Driver
+Jan-XX,,,,,,,
+Feb-XX,,,,,,,
+Mar-XX,,,,,,,
+Apr-XX,,,,,,,
+May-XX,,,,,,,
+Jun-XX,,,,,,,
+Jul-XX,,,,,,,
+Aug-XX,,,,,,,
+Sep-XX,,,,,,,
+Oct-XX,,,,,,,
+Nov-XX,,,,,,,
+Dec-XX,,,,,,,
+,,,,,,,,,,,
+ROOT CAUSE CATEGORIES,,,,,,,,,,,
+Root Cause,This Month Count,This Month Impact ($K),YTD Count,YTD Impact ($K),% of Total Misses,Trend,Action Owner
+Demand volatility (unforeseeable),,,,,,,
+NPI ramp variance,,,,,,,
+Customer order timing shift,,,,,,,
+Promotional lift variance,,,,,,,
+Competitive action,,,,,,,
+Supply constraint (demand existed),,,,,,,
+Data quality issue,,,,,,,
+Model/method issue,,,,,,,
+Sales overlay inaccuracy,,,,,,,
+Marketing overlay inaccuracy,,,,,,,
+Other,,,,,,,
+TOTAL,,,,,,,
+,,,,,,,,,,,
+IMPROVEMENT ACTIONS TRACKER,,,,,,,,,,,
+Action ID,Description,Target Improvement,Owner,Due Date,Status,Actual Improvement,ROI
+,,,,,In Progress/Complete/Delayed,,
+,,,,,In Progress/Complete/Delayed,,
+,,,,,In Progress/Complete/Delayed,,
+,,,,,In Progress/Complete/Delayed,,
