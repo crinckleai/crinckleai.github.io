@@ -1,0 +1,19 @@
+Dimension,Question_ID,Question,Weight,Score_1_Description,Score_2_Description,Score_3_Description,Score_4_Description,Score_5_Description,Assessment_1_Date,Assessment_1_Score,Assessment_2_Date,Assessment_2_Score,Assessment_3_Date,Assessment_3_Score,Gap_to_Target,Priority,Actions_Required
+Sponsorship,SPON-01,Executive sponsorship is visible and active,15%,No sponsor identified,Sponsor identified but not visible,Sponsor engaged occasionally,Sponsor regularly visible and engaged,Sponsor championing actively,2026-01-15,4,,,,,0.5,Medium,Increase sponsor visibility in communications
+Sponsorship,SPON-02,Middle management supports the change,10%,Active resistance,Passive resistance,Neutral,Generally supportive,Actively championing,2026-01-15,3,,,,,1.5,High,WIIFM sessions for middle managers
+Sponsorship,SPON-03,Resources are allocated adequately,10%,No resources,Minimal resources,Adequate resources,Good resources,Excellent resources,2026-01-15,4,,,,,0.5,Medium,Confirm budget for training
+Culture,CULT-01,Organization is open to change,10%,Change-resistant,Skeptical of change,Neutral toward change,Generally accepting,Change-embracing,2026-01-15,3,,,,,1.5,High,Address past change failures
+Culture,CULT-02,Cross-functional collaboration exists,10%,Siloed functions,Limited collaboration,Some collaboration,Good collaboration,Excellent collaboration,2026-01-15,3,,,,,1.5,High,Quick wins on collaboration
+Culture,CULT-03,Data-driven decision making is valued,5%,Gut feel dominant,Some data use,Growing data use,Data-driven culture,Analytics excellence,2026-01-15,4,,,,,0.5,Low,Continue analytics development
+History,HIST-01,Past change initiatives succeeded,5%,Multiple failures,Mixed results,Some successes,Generally successful,Strong track record,2026-01-15,2,,,,,2.5,High,Acknowledge past and differentiate
+History,HIST-02,Trust exists between functions,5%,No trust,Limited trust,Some trust,Good trust,High trust,2026-01-15,3,,,,,1.5,Medium,Trust-building activities
+Capability,CAP-01,Required skills exist in organization,10%,Major skill gaps,Significant gaps,Some gaps,Minor gaps,Skills in place,2026-01-15,3,,,,,1.5,High,Training program critical
+Capability,CAP-02,Learning culture is established,5%,No learning culture,Limited learning,Some L&D,Good L&D programs,Learning organization,2026-01-15,4,,,,,0.5,Low,Leverage existing L&D
+Capability,CAP-03,Technology readiness is adequate,5%,Major tech gaps,Significant gaps,Some gaps,Minor gaps,Tech ready,2026-01-15,3,,,,,1.5,Medium,IT roadmap alignment
+Communication,COMM-01,Communication channels are effective,5%,Poor communication,Limited channels,Adequate channels,Good channels,Excellent communication,2026-01-15,4,,,,,0.5,Low,Leverage existing channels
+Communication,COMM-02,Two-way feedback mechanisms exist,5%,No feedback,Limited feedback,Some feedback,Good feedback,Open dialogue,2026-01-15,3,,,,,1.5,Medium,Establish feedback loops
+,,,,,,,,,,,,,,,,
+,TOTAL SCORE,,100%,,,,,,2026-01-15,3.3,,,,,1.2,,
+,TARGET SCORE,,,,,,,4.5,,,,,,,,,
+,GAP TO TARGET,,,,,,,1.2,,,,,,,,,
+,READINESS LEVEL,,,,,,,"Moderate - Proceed with enhanced change management",,,,,,,,
