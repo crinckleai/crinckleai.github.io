@@ -1,0 +1,20 @@
+Dimension,Sub_Dimension,Current_Score,Target_Score,Gap,Gap_Priority,Root_Cause,Impact_If_Not_Addressed,Improvement_Initiative,Initiative_Owner,Timeline,Investment_Required,Expected_Score_Improvement,Dependencies,Risks
+Process,Product Review,3.5,4.0,-0.5,Medium,NPI integration timing inconsistent,NPI launches may miss demand windows,Standardize NPI integration timeline,Product Director,Q2 2026,$25K,+0.3,Training completion,Resource availability
+Process,Demand Review,3.6,4.0,-0.4,Medium,Statistical forecasting at basic level,Accuracy limited by algorithm capability,Implement ML-based forecasting pilot,Demand Planning Manager,Q3 2026,$100K,+0.4,Data quality; technology platform,Technology readiness
+Process,Supply Review,3.4,4.0,-0.6,High,Limited scenario planning capability,Unable to respond quickly to demand changes,Develop scenario planning framework,Supply Chain Director,Q2 2026,$50K,+0.4,Technology capability,Adoption resistance
+Process,Financial Review,3.3,4.0,-0.7,High,Balance sheet not integrated,Working capital not optimized,Extend financial integration scope,FP&A Director,Q3 2026,$30K,+0.3,Finance team capacity,Complexity
+Process,Executive IBP,3.5,4.0,-0.5,Medium,Decision tracking inconsistent,Accountability gaps persist,Implement decision tracking system,IBP Leader,Q1 2026,$15K,+0.3,System selection,Executive buy-in
+People,Leadership,3.5,4.0,-0.5,Medium,Not all leaders model behaviors,Inconsistent cultural signals,Leadership development program,HR Director,Q2 2026,$40K,+0.3,Executive commitment,Time availability
+People,Roles,3.8,4.0,-0.2,Low,Minor accountability gaps,Some decisions delayed,Clarify accountability in RACI,IBP Leader,Q1 2026,$5K,+0.2,None,Resistance to change
+People,Skills,2.9,4.0,-1.1,High,Analytics skills lacking,Cannot leverage advanced capabilities,Comprehensive analytics training,L&D Manager,Q2-Q4 2026,$75K,+0.5,Training content development,Skill retention
+People,Culture,2.8,4.0,-1.2,High,Data-driven culture still emerging,Gut feel decisions continue,Data literacy and culture program,Change Lead,Q1-Q4 2026,$50K,+0.4,Leadership modeling,Cultural inertia
+People,Change Management,3.0,4.0,-1.0,Medium,Sustainability not yet proven,Risk of regression,Reinforcement and sustainability program,Change Lead,Ongoing,$25K/year,+0.3,Leadership support,Change fatigue
+Technology,Systems,3.0,4.0,-1.0,High,Platform not fully utilized,Investment ROI not realized,Platform optimization project,IT Director,Q2 2026,$75K,+0.4,User training,Resource constraints
+Technology,Data,2.9,4.0,-1.1,High,Data quality gaps persist,Analytics unreliable,Data governance program,Data Steward,Q1-Q3 2026,$60K,+0.4,Executive support,Organizational silos
+Technology,Analytics,2.5,4.0,-1.5,High,No advanced analytics,Cannot predict; limited insights,Analytics capability investment,Analytics Lead,Q2-Q4 2026,$150K,+0.6,Data quality; platform,Technology complexity
+Technology,Integration,2.8,4.0,-1.2,Medium,External systems not connected,Visibility limited to internal,External integration project,IT Director,Q4 2026,$100K,+0.3,Partner readiness,Security concerns
+Performance,KPIs,3.8,4.0,-0.2,Low,Leading indicators missing,Reactive vs. proactive management,Add leading indicators,IBP Leader,Q1 2026,$10K,+0.2,None,None significant
+Performance,Tracking,3.6,4.0,-0.4,Low,Manual tracking elements,Inefficient review process,Automate performance tracking,Analytics Lead,Q2 2026,$30K,+0.2,Technology platform,None significant
+Performance,Benchmark,3.2,4.0,-0.8,Medium,Infrequent benchmarking,Not tracking vs. best practice,Establish benchmark program,IBP Leader,Q2 2026,$25K,+0.3,External data access,Cost of benchmarking
+Performance,Impact,3.3,4.0,-0.7,Medium,Benefits not comprehensively tracked,Cannot prove IBP value,Implement benefit tracking,Finance Director,Q1 2026,$20K,+0.3,Baseline data,Attribution challenges
+Performance,Improvement,3.2,4.0,-0.8,Medium,CI not formalized,Improvements ad-hoc,Formalize CI program,IBP Leader,Q2 2026,$15K,+0.3,None,Competing priorities
