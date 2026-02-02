@@ -1,0 +1,13 @@
+Action_ID,Meeting_Date,Action_Description,Category,Owner,Due_Date,Priority,Status,Completion_Date,Percent_Complete,Blockers,Notes,Related_Decision
+ACT-2026-001,2026-01-15,Finalize Q2 overtime schedule and communicate to operations,Capacity,John Smith,2026-01-22,High,Complete,2026-01-20,100,,Schedule published and acknowledged by all shift supervisors,DEC-2026-001
+ACT-2026-002,2026-01-15,Complete customer notification for SKU rationalization phase 2,Portfolio,Lisa Wang,2026-01-31,High,In Progress,,80,5 customers require special handling,20 of 25 notifications sent; 5 key accounts pending direct outreach,DEC-2026-004
+ACT-2026-003,2026-01-15,Submit capital request for demand planning pilot,Technology,Amy Foster,2026-01-25,Medium,Complete,2026-01-24,100,,Capital request approved; PO issued to vendor,DEC-2026-006
+ACT-2026-004,2026-01-15,Develop customer communication plan for Q2 price increase,Commercial,David Lee,2026-02-15,High,In Progress,,40,,Draft plan under review by Sales leadership,DEC-2026-005
+ACT-2026-005,2026-01-15,Complete supplier qualification documentation for Supplier B,Supply Chain,Mike Chen,2026-02-28,Medium,In Progress,,30,Awaiting quality audit results,Initial samples approved; full audit scheduled for Feb 10,DEC-2026-003
+ACT-2026-006,2026-01-15,Update demand plan to reflect Product Alpha pilot launch volumes,Demand,Sarah Johnson,2026-01-20,High,Complete,2026-01-19,100,,Pilot volumes incorporated into consensus demand,DEC-2026-002
+ACT-2026-007,2026-01-15,Analyze impact of safety stock increase on warehouse capacity,Inventory,Operations Team,2026-01-29,Medium,In Progress,,60,,Preliminary analysis shows 5% capacity impact; mitigation plan in development,DEC-2026-007
+ACT-2026-008,2025-12-18,Prepare quarterly business review presentation for board,Reporting,Finance Team,2026-01-10,High,Complete,2026-01-09,100,,Presented to board on Jan 12,
+ACT-2026-009,2025-12-18,Conduct root cause analysis on Q4 forecast accuracy decline,Process,Demand Planning,2026-01-15,High,Complete,2026-01-14,100,,Root cause identified: NPI launch timing assumptions; corrective action implemented,
+ACT-2026-010,2025-12-18,Review and update IBP meeting cadence for new fiscal year,Governance,IBP Leader,2026-01-05,Medium,Complete,2026-01-04,100,,Calendar updated and distributed to all stakeholders,
+ACT-2026-011,2025-11-20,Benchmark inventory levels against industry peers,Analysis,Supply Chain,2025-12-15,Low,Complete,2025-12-14,100,,Benchmark complete; we are 10% above industry average,
+ACT-2026-012,2025-11-20,Develop scenario planning framework for 2026,Process,IBP Leader,2025-12-31,Medium,Complete,2025-12-28,100,,Framework approved; training scheduled for January,
