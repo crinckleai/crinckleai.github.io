@@ -1,12 +1,12 @@
-# IBP Maturity Assessment Report Deck
+# AI-Powered IBP Maturity Assessment Report Deck
 ## PowerPoint Presentation Template
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** IBP Maturity Assessment
-**Subtitle:** [Assessment Period] Results & Improvement Roadmap
+**Title:** AI-Powered IBP Maturity Assessment
+**Subtitle:** [Assessment Period] Results & AI Transformation Roadmap
 **Assessment Date:** [Date]
 **Prepared by:** [IBP Leader / Assessor]
 
@@ -14,20 +14,21 @@
 
 ## Slide 2: Agenda
 
-1. Assessment Overview (10 min)
+1. Assessment Overview & AI Maturity Model (10 min)
 2. Overall Maturity Results (15 min)
-3. Dimension Deep Dive (30 min)
-4. Gap Analysis (15 min)
-5. Improvement Roadmap (20 min)
-6. Next Steps (10 min)
+3. AI Capability Deep Dive (20 min)
+4. Dimension Analysis (20 min)
+5. Gap Analysis - AI Focus (15 min)
+6. AI-Prioritized Improvement Roadmap (15 min)
+7. Next Steps (10 min)
 
-**Total Duration:** 100 minutes
+**Total Duration:** 105 minutes
 
 ---
 
 ## Slide 3: Assessment Overview
 
-**Visual:** Assessment scope and methodology
+**Visual:** Assessment scope and AI-enhanced methodology
 
 **Assessment Scope:**
 - Business units covered: [List]
@@ -35,467 +36,409 @@
 - Time period: [Period]
 - Participants: [Number] stakeholders
 
-**Methodology:**
-- Self-assessment questionnaire
+**AI-Enhanced Methodology:**
+- Self-assessment questionnaire + AI analysis
 - Interviews with key stakeholders
-- Process observation
-- Document review
-- Benchmark comparison
+- Process observation + ML pattern detection
+- Document review + NLP analysis
+- AI benchmark comparison
 
-**Maturity Framework:** 5-Level IBP Maturity Model
+**Maturity Framework:** 5-Level AI-Enabled IBP Maturity Model
 
 ---
 
-## Slide 4: IBP Maturity Model
+## Slide 4: AI-Enabled IBP Maturity Model
 
-**Visual:** 5-level pyramid
+**Visual:** 5-level maturity progression
 
 ```
-Level 5: LEADING
-│ • Predictive analytics
-│ • Autonomous planning
-│ • Industry benchmark
-│ • Ecosystem integration
-│
-Level 4: ADVANCED
-│ • Scenario planning
-│ • Financial integration
-│ • External collaboration
-│ • Continuous improvement
-│
-Level 3: INTEGRATED
-│ • Cross-functional IBP
-│ • Single plan of record
-│ • Executive engagement
-│ • Structured decisions
-│
-Level 2: DEVELOPING
-│ • Basic S&OP process
-│ • Departmental planning
-│ • Limited integration
-│ • Inconsistent execution
-│
-Level 1: INITIAL
-│ • Ad-hoc planning
-│ • Spreadsheet-based
-│ • Reactive firefighting
-│ • No clear ownership
+MATURITY LEVELS
+
+Level 5 │ AUTONOMOUS       │ AI-driven, self-optimizing, lights-out planning
+        │ ████████████████ │ for routine decisions, humans on strategy
+        │                  │
+Level 4 │ AI-ENABLED       │ ML forecasting, AI optimization, LLM insights,
+        │ ████████████     │ exception-based reviews, predictive analytics
+        │                  │
+Level 3 │ INTEGRATED       │ Cross-functional alignment, scenario planning,
+        │ ████████         │ basic analytics, structured process
+        │                  │
+Level 2 │ DEVELOPING       │ S&OP in place, some integration, manual
+        │ ████             │ processes, limited analytics
+        │                  │
+Level 1 │ REACTIVE         │ Siloed planning, firefighting, no formal
+        │ ██               │ process, spreadsheet-based
+        │                  │
+        └──────────────────────────────────────────────────────
 ```
+
+**Target State:** Level 4 (AI-Enabled) with pathway to Level 5 (Autonomous)
 
 ---
 
 ## Slide 5: Overall Maturity Results
 
-**Visual:** Summary dashboard
+**Visual:** Maturity scorecard with AI dimensions
 
-```
-OVERALL IBP MATURITY SCORE
+**Overall Maturity Score: X.X / 5.0**
 
-Current Score:    3.2 / 5.0
-Target Score:     4.0 / 5.0
-Gap:             -0.8
+| Dimension | Score | Level | vs Prior | Target Gap |
+|-----------|-------|-------|----------|------------|
+| Process | X.X/5 | [Level] | +X.X | -X.X |
+| Data & Technology | X.X/5 | [Level] | +X.X | -X.X |
+| AI/ML Capability | X.X/5 | [Level] | +X.X | -X.X |
+| Organization & People | X.X/5 | [Level] | +X.X | -X.X |
+| Governance | X.X/5 | [Level] | +X.X | -X.X |
+| Performance | X.X/5 | [Level] | +X.X | -X.X |
+| **OVERALL** | **X.X/5** | **[Level]** | **+X.X** | **-X.X** |
 
-Maturity Level:   INTEGRATED (Level 3)
-Target Level:     ADVANCED (Level 4)
-
-Progress vs Prior Assessment: +0.4 (from 2.8)
-```
-
-**Key Findings:**
-- Strong progress in process discipline
-- Financial integration advancing
-- Opportunities in technology and analytics
-- Change management showing results
+**Maturity Level Assessment:**
+> "Current state: [Level X - Name]. Organization has [strengths] but needs to develop [areas] to reach AI-Enabled (Level 4)."
 
 ---
 
-## Slide 6: Maturity by Dimension
+## Slide 6: AI/ML Capability Deep Dive
 
-**Visual:** Radar chart
+**Visual:** AI capability maturity radar
 
+**AI Capability Assessment:**
+
+| AI Capability | Maturity | Score | Evidence | Gap to L4 |
+|---------------|----------|-------|----------|-----------|
+| ML Demand Forecasting | [Level] | X.X | [Evidence] | X.X |
+| Demand Sensing | [Level] | X.X | [Evidence] | X.X |
+| AI Inventory Optimization | [Level] | X.X | [Evidence] | X.X |
+| Scenario Generation | [Level] | X.X | [Evidence] | X.X |
+| Risk Quantification | [Level] | X.X | [Evidence] | X.X |
+| LLM/GenAI Tools | [Level] | X.X | [Evidence] | X.X |
+| Automation Coverage | [Level] | X.X | [Evidence] | X.X |
+| **AI OVERALL** | **[Level]** | **X.X** | | **X.X** |
+
+**AI Capability Radar:**
 ```
-                    PROCESS
-                       5
-                      ╱│╲
-                    ╱  │  ╲
-                  ╱    │    ╲
-       PEOPLE ──•──────┼──────•── TECHNOLOGY
-                 ╲     │     ╱
-                   ╲   │   ╱
-                     ╲ │ ╱
-                       1
-                  PERFORMANCE
-
-Dimension Scores:
-• Process:      3.5 / 5.0 (Target: 4.0)
-• People:       3.0 / 5.0 (Target: 4.0)
-• Technology:   2.8 / 5.0 (Target: 4.0)
-• Performance:  3.5 / 5.0 (Target: 4.0)
-```
-
----
-
-## Slide 7: Dimension Comparison
-
-**Visual:** Bar chart comparison
-
-| Dimension | Current | Target | Gap | vs Prior | Status |
-|-----------|---------|--------|-----|----------|--------|
-| Process | 3.5 | 4.0 | -0.5 | +0.5 | [Y] |
-| People | 3.0 | 4.0 | -1.0 | +0.3 | [Y] |
-| Technology | 2.8 | 4.0 | -1.2 | +0.2 | [R] |
-| Performance | 3.5 | 4.0 | -0.5 | +0.6 | [Y] |
-| **Overall** | **3.2** | **4.0** | **-0.8** | **+0.4** | **[Y]** |
-
-**Key Insights:**
-- Process showing strongest improvement
-- Technology remains biggest gap
-- People development needed for sustainability
-
----
-
-## Slide 8: Process Dimension Deep Dive
-
-**Visual:** Process sub-dimension scores
-
-| Sub-Dimension | Score | Strengths | Gaps |
-|---------------|-------|-----------|------|
-| Product Review | 3.5 | Portfolio discipline | NPI integration |
-| Demand Review | 3.8 | Consensus process | Demand sensing |
-| Supply Review | 3.5 | Capacity planning | Scenario planning |
-| Financial Review | 3.2 | Gap analysis | Rolling forecast |
-| Executive IBP | 3.5 | Meeting discipline | Decision velocity |
-| **Average** | **3.5** | | |
-
-**Process Maturity Assessment:**
-
-| Characteristic | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|----------------|---------|---------|---------|---------|---------|
-| Documented process | | | ✓ | | |
-| Consistent execution | | | ✓ | | |
-| Cross-functional | | | ✓ | | |
-| Scenario planning | | ✓ | | | |
-| Financial integration | | ✓ | | | |
-
----
-
-## Slide 9: People Dimension Deep Dive
-
-**Visual:** People sub-dimension scores
-
-| Sub-Dimension | Score | Strengths | Gaps |
-|---------------|-------|-----------|------|
-| Leadership Engagement | 3.5 | Executive participation | Sponsorship depth |
-| Roles & Responsibilities | 3.2 | Clear ownership | Accountability |
-| Skills & Capabilities | 2.8 | Process knowledge | Analytics skills |
-| Culture & Behaviors | 2.8 | Collaboration improving | Bias and resistance |
-| Change Management | 3.0 | Program in place | Sustainability |
-| **Average** | **3.0** | | |
-
-**People Maturity Assessment:**
-
-| Characteristic | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|----------------|---------|---------|---------|---------|---------|
-| Dedicated IBP leader | | | ✓ | | |
-| Cross-functional teams | | | ✓ | | |
-| Training program | | ✓ | | | |
-| Performance incentives | | ✓ | | | |
-| Continuous learning | | ✓ | | | |
-
----
-
-## Slide 10: Technology Dimension Deep Dive
-
-**Visual:** Technology sub-dimension scores
-
-| Sub-Dimension | Score | Strengths | Gaps |
-|---------------|-------|-----------|------|
-| Planning Systems | 3.0 | Core platform | Advanced features |
-| Data Management | 2.8 | Data availability | Quality and governance |
-| Analytics | 2.5 | Basic reporting | Predictive analytics |
-| Integration | 2.8 | ERP connectivity | End-to-end visibility |
-| Automation | 2.5 | Some automation | Intelligent planning |
-| **Average** | **2.8** | | |
-
-**Technology Maturity Assessment:**
-
-| Characteristic | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|----------------|---------|---------|---------|---------|---------|
-| Integrated platform | | ✓ | | | |
-| Single source of truth | | ✓ | | | |
-| Automated forecasting | | ✓ | | | |
-| Scenario modeling | | ✓ | | | |
-| AI/ML capabilities | ✓ | | | | |
-
----
-
-## Slide 11: Performance Dimension Deep Dive
-
-**Visual:** Performance sub-dimension scores
-
-| Sub-Dimension | Score | Strengths | Gaps |
-|---------------|-------|-----------|------|
-| KPI Framework | 3.8 | Comprehensive metrics | Leading indicators |
-| Performance Tracking | 3.5 | Regular reviews | Root cause depth |
-| Benchmark Position | 3.2 | Industry awareness | Best practice adoption |
-| Business Impact | 3.5 | Measurable improvements | Full benefit capture |
-| Continuous Improvement | 3.2 | Improvement mindset | Structured approach |
-| **Average** | **3.5** | | |
-
-**Performance Maturity Assessment:**
-
-| Characteristic | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|----------------|---------|---------|---------|---------|---------|
-| KPIs defined | | | ✓ | | |
-| Regular tracking | | | ✓ | | |
-| Industry benchmarking | | | ✓ | | |
-| Demonstrated ROI | | ✓ | | | |
-| Leading practice | | ✓ | | | |
-
----
-
-## Slide 12: Gap Analysis Summary
-
-**Visual:** Gap waterfall
-
-```
-GAP ANALYSIS - CURRENT TO TARGET
-
-Technology Gap        ████████████████████  -1.2
-People Gap            ██████████████        -1.0
-Process Gap           ████████              -0.5
-Performance Gap       ████████              -0.5
-────────────────────────────────────────────────
-Total Gap                                   -0.8
-
-Priority Focus: Technology and People
-```
-
-**Root Causes of Gaps:**
-
-| Gap Area | Root Cause | Impact |
-|----------|------------|--------|
-| Technology | Underinvestment in analytics | Unable to enable advanced capabilities |
-| People | Skill development lagging | Sustainability at risk |
-| Process | Scenario planning immature | Decision quality limited |
-| Performance | Benefits not fully tracked | ROI case weakened |
-
----
-
-## Slide 13: Maturity Progression
-
-**Visual:** Maturity journey chart
-
-```
-MATURITY PROGRESSION
-
-5.0 |                                         ⭐ Target
-    |                                    ╱
-4.0 |                               ╱
-    |                          ╱   Year 3
-3.0 |                     ●───────────────── Current
-    |                ╱
-2.0 |           ●
-    |      ╱   Year 1
-1.0 | ●
-    |_Year 0________________________________Time
-```
-
-**Progression Summary:**
-
-| Assessment | Score | Level | Key Achievement |
-|------------|-------|-------|-----------------|
-| Year 0 (Baseline) | 1.8 | Initial | Process launched |
-| Year 1 | 2.8 | Developing | Consistent execution |
-| Current | 3.2 | Integrated | Cross-functional |
-| Year 3 (Target) | 4.0 | Advanced | Full integration |
-
----
-
-## Slide 14: Improvement Priorities
-
-**Visual:** Priority matrix
-
-```
-                    HIGH IMPACT
-                         │
-        ┌────────────────┼────────────────┐
-        │   QUICK WINS   │   BIG BETS     │
-        │ • Process docs │ • Analytics    │
-        │ • Templates    │   platform     │
-        │ • Training     │ • Scenario     │
-        │   refresh      │   capability   │
-   LOW ─┼────────────────┼────────────────┼─ HIGH
- EFFORT │   FILL INS     │   LONG TERM    │ EFFORT
-        │ • Minor fixes  │ • Culture      │
-        │ • Tool tweaks  │   transformation│
-        │                │ • System       │
-        │                │   replacement  │
-        └────────────────┼────────────────┘
-                    LOW IMPACT
+          ML Forecasting
+               ▲
+              /|\
+             / | \
+            /  |  \
+Automation ◄───┼───► Demand Sensing
+            \  |  /
+             \ | /
+              \|/
+               ▼
+         LLM/GenAI
 ```
 
 ---
 
-## Slide 15: Improvement Roadmap Overview
+## Slide 7: AI Maturity by IBP Step
 
-**Visual:** Roadmap timeline
+**Visual:** AI maturity heat map by process step
+
+**AI Capability by IBP Review:**
+
+| IBP Step | Data Automation | ML Models | AI Insights | LLM Tools | Overall |
+|----------|-----------------|-----------|-------------|-----------|---------|
+| Product Review | [L1-5] | [L1-5] | [L1-5] | [L1-5] | [L1-5] |
+| Demand Review | [L1-5] | [L1-5] | [L1-5] | [L1-5] | [L1-5] |
+| Supply Review | [L1-5] | [L1-5] | [L1-5] | [L1-5] | [L1-5] |
+| Financial Review | [L1-5] | [L1-5] | [L1-5] | [L1-5] | [L1-5] |
+| Executive IBP | [L1-5] | [L1-5] | [L1-5] | [L1-5] | [L1-5] |
+
+**Color Key:**
+- 🔴 Level 1-2: Reactive/Developing - No AI
+- 🟡 Level 3: Integrated - Basic analytics
+- 🟢 Level 4: AI-Enabled - ML/AI in production
+- 🔵 Level 5: Autonomous - Self-optimizing
+
+---
+
+## Slide 8: Process Dimension Analysis
+
+**Visual:** Process maturity details
+
+**Process Maturity: X.X/5.0 (Level X)**
+
+| Sub-Dimension | Score | Findings | Recommendation |
+|---------------|-------|----------|----------------|
+| Process Design | X.X | [Finding] | [Recommendation] |
+| Integration | X.X | [Finding] | [Recommendation] |
+| Cycle Efficiency | X.X | [Finding] | [Recommendation] |
+| Decision Making | X.X | [Finding] | [Recommendation] |
+| Exception Focus | X.X | [Finding] | [Recommendation] |
+
+**Key Strengths:**
+- [Strength 1]
+- [Strength 2]
+
+**Key Gaps:**
+- [Gap 1]: Need for AI-enabled exception-only reviews
+- [Gap 2]: Opportunity for automated data collection
+
+---
+
+## Slide 9: Data & Technology Dimension
+
+**Visual:** Technology maturity assessment
+
+**Data & Technology Maturity: X.X/5.0 (Level X)**
+
+| Sub-Dimension | Score | Findings | AI Readiness |
+|---------------|-------|----------|--------------|
+| Data Quality | X.X | [Finding] | [High/Med/Low] |
+| Data Integration | X.X | [Finding] | [High/Med/Low] |
+| Planning System | X.X | [Finding] | [High/Med/Low] |
+| ML Infrastructure | X.X | [Finding] | [High/Med/Low] |
+| Real-time Capability | X.X | [Finding] | [High/Med/Low] |
+
+**AI Infrastructure Assessment:**
+- ML Platform: [Available/Needed]
+- Data Lake: [Available/Needed]
+- Feature Store: [Available/Needed]
+- MLOps: [Available/Needed]
+- LLM Access: [Available/Needed]
+
+---
+
+## Slide 10: Organization & People Dimension
+
+**Visual:** People capability assessment
+
+**Organization & People Maturity: X.X/5.0 (Level X)**
+
+| Sub-Dimension | Score | Findings | AI Skills Gap |
+|---------------|-------|----------|---------------|
+| Skills & Competencies | X.X | [Finding] | [High/Med/Low] |
+| AI Literacy | X.X | [Finding] | [High/Med/Low] |
+| Roles & Responsibilities | X.X | [Finding] | [High/Med/Low] |
+| Cross-functional Collaboration | X.X | [Finding] | [High/Med/Low] |
+| Change Readiness | X.X | [Finding] | [High/Med/Low] |
+
+**AI Skills Assessment:**
+| Skill | Current Level | Target Level | Gap |
+|-------|---------------|--------------|-----|
+| AI/ML interpretation | XX% | >80% | XX% |
+| Exception management | XX% | >85% | XX% |
+| Data literacy | XX% | >90% | XX% |
+| Human-AI collaboration | XX% | >75% | XX% |
+
+---
+
+## Slide 11: Governance Dimension
+
+**Visual:** Governance maturity assessment
+
+**Governance Maturity: X.X/5.0 (Level X)**
+
+| Sub-Dimension | Score | Findings | AI Governance |
+|---------------|-------|----------|---------------|
+| Process Governance | X.X | [Finding] | [Strength/Gap] |
+| Decision Rights | X.X | [Finding] | [Strength/Gap] |
+| Performance Management | X.X | [Finding] | [Strength/Gap] |
+| AI Governance | X.X | [Finding] | [Strength/Gap] |
+| Continuous Improvement | X.X | [Finding] | [Strength/Gap] |
+
+**AI Governance Requirements:**
+- [ ] AI model performance monitoring
+- [ ] Bias detection and correction
+- [ ] Human override protocols
+- [ ] AI decision audit trails
+- [ ] Model refresh governance
+
+---
+
+## Slide 12: Performance Dimension
+
+**Visual:** Performance outcomes assessment
+
+**Performance Maturity: X.X/5.0 (Level X)**
+
+| Sub-Dimension | Score | Current | Target | Gap |
+|---------------|-------|---------|--------|-----|
+| Forecast Accuracy | X.X | XX% | >90% | XX% |
+| Service Level | X.X | XX% | >95% | XX% |
+| Inventory Turns | X.X | X.X | X.X | X.X |
+| Planning Efficiency | X.X | X days | <3 days | X days |
+| AI Value Delivery | X.X | $X.XM | $X.XM | $X.XM |
+
+**AI-Enabled Performance Potential:**
+| Metric | Current | With AI (Target) | Improvement |
+|--------|---------|------------------|-------------|
+| Forecast Accuracy | XX% | >90% | +XX pts |
+| Planning Cycle | X days | <3 days | -XX% |
+| Inventory | $XXM | $XXM | -XX% |
+| Manual Effort | XX hrs | XX hrs | -XX% |
+
+---
+
+## Slide 13: Gap Analysis Summary
+
+**Visual:** Priority gap matrix
+
+**Critical Gaps to AI-Enabled (Level 4):**
+
+| Gap | Current | Target | Priority | Impact | Effort |
+|-----|---------|--------|----------|--------|--------|
+| ML Demand Forecasting | L2 | L4 | 🔴 Critical | High | High |
+| Data Automation | L2 | L4 | 🔴 Critical | High | Medium |
+| AI Inventory Optimization | L1 | L4 | 🔴 Critical | High | High |
+| Exception-Based Process | L2 | L4 | 🟡 High | Medium | Medium |
+| LLM Tools | L1 | L3 | 🟡 High | Medium | Low |
+| AI Skills | L2 | L4 | 🟡 High | High | Medium |
+
+**Gap Prioritization Matrix:**
+```
+          HIGH IMPACT
+              │
+    ┌─────────┼─────────┐
+    │  ML Fcst│ Data    │
+    │         │ Automat │
+    │─────────┼─────────│
+    │ LLM     │ SS Opt  │
+    │ Tools   │         │
+    └─────────┼─────────┘
+              │
+  LOW EFFORT ─┼─ HIGH EFFORT
+```
+
+---
+
+## Slide 14: AI-Prioritized Improvement Roadmap
+
+**Visual:** Phased improvement plan
+
+**AI Transformation Roadmap:**
 
 ```
-Year 1 (Current → 3.5)    Year 2 (3.5 → 3.8)    Year 3 (3.8 → 4.0+)
-────────────────────────────────────────────────────────────────────→
+Phase 1: AI FOUNDATION        Phase 2: AI EXPANSION        Phase 3: AI OPTIMIZATION
+(Months 1-6)                  (Months 7-12)                (Months 13-18)
+─────────────────             ─────────────────            ──────────────────
 
-PROCESS
-├─ Scenario planning      ├─ External collab     ├─ Predictive planning
-├─ Financial integration  ├─ Advanced scenarios  └─ Autonomous alerts
-└─ Process optimization   └─ Best practice share
+MATURITY TARGETS:             MATURITY TARGETS:            MATURITY TARGETS:
+• Overall: L2.5 → L3.2       • Overall: L3.2 → L3.8      • Overall: L3.8 → L4.2
+• AI: L1.5 → L2.8            • AI: L2.8 → L3.5           • AI: L3.5 → L4.2
 
-PEOPLE
-├─ Analytics training     ├─ Advanced cert       ├─ Expert development
-├─ Change reinforcement   ├─ Culture programs    └─ Industry networking
-└─ Performance mgmt       └─ Leadership dev
+INITIATIVES:                  INITIATIVES:                 INITIATIVES:
+• ML forecasting pilot        • ML all products            • LLM executive pack
+• Data automation            • AI safety stock             • Autonomous planning
+• AI skills training         • Scenario generation         • Predictive risk
+• Exception process          • AI KPI monitoring           • Self-improving AI
 
-TECHNOLOGY
-├─ Analytics pilot        ├─ ML deployment       ├─ AI integration
-├─ Data governance        ├─ Platform upgrade    └─ Ecosystem connect
-└─ Dashboard enhancement  └─ Automation
-
-PERFORMANCE
-├─ Benefit tracking       ├─ Benchmark program   ├─ Industry leading
-├─ Root cause program     ├─ Continuous improv   └─ Innovation
-└─ KPI refinement         └─ ROI optimization
+INVESTMENT: $X.XM             INVESTMENT: $X.XM            INVESTMENT: $X.XM
+ROI: X.Xx (18 mo)            ROI: X.Xx (24 mo)            ROI: X.Xx (30 mo)
 ```
 
 ---
 
-## Slide 16: Year 1 Improvement Plan
+## Slide 15: Initiative Details
 
-**Visual:** Detailed Year 1 initiatives
+**Visual:** Initiative cards
 
-| Initiative | Target | Start | End | Owner | Investment |
-|------------|--------|-------|-----|-------|------------|
-| Scenario planning capability | +0.5 in Process | Q1 | Q2 | IBP Leader | $50K |
-| Analytics training program | +0.3 in People | Q1 | Q3 | L&D | $75K |
-| Data governance framework | +0.3 in Technology | Q1 | Q2 | IT | $100K |
-| Analytics pilot (ML forecast) | +0.2 in Technology | Q2 | Q4 | Analytics | $150K |
-| Benefit tracking program | +0.2 in Performance | Q1 | Q2 | Finance | $25K |
-| **Total Investment** | | | | | **$400K** |
+**Priority Initiative 1: ML Demand Forecasting**
+| Attribute | Details |
+|-----------|---------|
+| Current State | Manual statistical forecasting, 65% accuracy |
+| Target State | ML ensemble, 90% accuracy, auto model selection |
+| Timeline | 6 months |
+| Investment | $X.XM |
+| Expected Benefits | +25% accuracy, -80% manual effort |
+| Dependencies | Data platform, ML infrastructure |
 
-**Expected Outcome:** Maturity score improvement from 3.2 to 3.5
-
----
-
-## Slide 17: Investment Requirements
-
-**Visual:** Investment breakdown
-
-| Category | Year 1 | Year 2 | Year 3 | Total |
-|----------|--------|--------|--------|-------|
-| Technology | $250K | $300K | $200K | $750K |
-| Training | $100K | $75K | $50K | $225K |
-| External Support | $50K | $50K | $25K | $125K |
-| **Total** | **$400K** | **$425K** | **$275K** | **$1.1M** |
-
-**Expected Benefits:**
-
-| Benefit | Year 1 | Year 2 | Year 3 | Total |
-|---------|--------|--------|--------|-------|
-| Inventory reduction | $500K | $750K | $500K | $1.75M |
-| Service improvement | $200K | $300K | $200K | $700K |
-| Planning efficiency | $100K | $150K | $100K | $350K |
-| **Total Benefits** | **$800K** | **$1.2M** | **$800K** | **$2.8M** |
-
-**ROI:** 2.5x over 3 years
+**Priority Initiative 2: Data Automation**
+| Attribute | Details |
+|-----------|---------|
+| Current State | Manual data collection, 40% automated |
+| Target State | Real-time data pipelines, 95% automated |
+| Timeline | 4 months |
+| Investment | $X.XM |
+| Expected Benefits | -95% manual effort, improved timeliness |
+| Dependencies | System integration, data governance |
 
 ---
 
-## Slide 18: Success Metrics
+## Slide 16: Benchmark Comparison
 
-**Visual:** Success criteria table
+**Visual:** Industry benchmark positioning
 
-| Metric | Current | Year 1 Target | Year 2 Target | Year 3 Target |
-|--------|---------|---------------|---------------|---------------|
-| Overall Maturity Score | 3.2 | 3.5 | 3.8 | 4.0+ |
-| Process Dimension | 3.5 | 3.8 | 4.0 | 4.2 |
-| People Dimension | 3.0 | 3.4 | 3.8 | 4.0 |
-| Technology Dimension | 2.8 | 3.2 | 3.6 | 4.0 |
-| Performance Dimension | 3.5 | 3.8 | 4.0 | 4.2 |
+**Maturity vs Industry Benchmarks:**
 
-**Business KPI Targets:**
+| Dimension | Our Score | Industry Avg | Best-in-Class | Position |
+|-----------|-----------|--------------|---------------|----------|
+| Process | X.X | X.X | X.X | [Above/Below] |
+| Data & Tech | X.X | X.X | X.X | [Above/Below] |
+| AI/ML | X.X | X.X | X.X | [Above/Below] |
+| Organization | X.X | X.X | X.X | [Above/Below] |
+| Governance | X.X | X.X | X.X | [Above/Below] |
+| Performance | X.X | X.X | X.X | [Above/Below] |
 
-| KPI | Current | Year 3 Target | Improvement |
-|-----|---------|---------------|-------------|
-| Forecast Accuracy | 70% | 80% | +10 pts |
-| OTIF | 94% | 97% | +3 pts |
-| Inventory Turns | 5.7 | 7.0 | +1.3 |
+**Benchmark Insight:**
+> "Organization is [above/below] industry average, with particular [strength/gap] in AI/ML capabilities. Best-in-class performers have achieved Level 4+ through [key enablers]."
 
 ---
 
-## Slide 19: Risks & Mitigation
+## Slide 17: Investment & ROI
 
-**Visual:** Risk summary
+**Visual:** Business case summary
 
-| Risk | Probability | Impact | Mitigation |
-|------|-------------|--------|------------|
-| Resource constraints | Medium | High | Prioritize initiatives; phased approach |
-| Technology delays | Medium | Medium | Agile implementation; parallel workstreams |
-| Change fatigue | Low | High | Integrate with BAU; celebrate wins |
-| Skill availability | Medium | Medium | Build internal capability; external support |
-| Executive attention | Low | High | Regular progress updates; quick wins |
+**AI Transformation Investment:**
 
----
+| Phase | Investment | Timing | ROI | Payback |
+|-------|------------|--------|-----|---------|
+| Phase 1 (Foundation) | $X.XM | Months 1-6 | X.Xx | X months |
+| Phase 2 (Expansion) | $X.XM | Months 7-12 | X.Xx | X months |
+| Phase 3 (Optimization) | $X.XM | Months 13-18 | X.Xx | X months |
+| **TOTAL** | **$X.XM** | **18 months** | **X.Xx** | **X months** |
 
-## Slide 20: Next Steps
-
-**Visual:** Action items
-
-**Immediate Actions (Next 30 Days):**
-
-| # | Action | Owner | Due Date |
-|---|--------|-------|----------|
-| 1 | Approve improvement roadmap | Executive Sponsor | [Date] |
-| 2 | Allocate Year 1 budget | CFO | [Date] |
-| 3 | Launch scenario planning initiative | IBP Leader | [Date] |
-| 4 | Initiate analytics training program | L&D | [Date] |
-| 5 | Establish benefit tracking baseline | Finance | [Date] |
-
-**Next Assessment:** [Date - typically 6-12 months]
+**Expected Value Creation:**
+| Benefit Category | Annual Value | 3-Year NPV |
+|------------------|--------------|------------|
+| Forecast improvement | $X.XM | $X.XM |
+| Inventory reduction | $X.XM | $X.XM |
+| Planning efficiency | $X.XM | $X.XM |
+| Service improvement | $X.XM | $X.XM |
+| **TOTAL** | **$X.XM** | **$X.XM** |
 
 ---
 
-## Slide 21: Appendix - Full Assessment Results
+## Slide 18: Next Steps
 
-[Reference to Maturity_Assessment_Tool.csv]
+**Visual:** Immediate action plan
 
----
+**Recommended Next Steps:**
 
-## Slide 22: Appendix - Gap Analysis Detail
+| # | Action | Owner | Timeline | Priority |
+|---|--------|-------|----------|----------|
+| 1 | Present maturity results to leadership | [Name] | Week 1 | Critical |
+| 2 | Approve AI transformation roadmap | Leadership | Week 2 | Critical |
+| 3 | Secure Phase 1 funding | [Name] | Week 3 | Critical |
+| 4 | Initiate ML forecasting pilot | [Name] | Month 1 | High |
+| 5 | Launch AI skills training | [Name] | Month 1 | High |
+| 6 | Begin data automation project | [Name] | Month 2 | High |
 
-[Reference to Gap_Analysis_By_Dimension.csv]
-
----
-
-## Slide 23: Appendix - Improvement Roadmap Detail
-
-[Reference to Improvement_Roadmap.csv]
+**Success Criteria for Phase 1:**
+- ML forecasting accuracy >85%
+- Data automation >80%
+- AI skills training >90% completion
+- Maturity score improvement +0.5
 
 ---
 
 ## Design Guidelines
 
-**Color Coding:**
-- Green: At or above target
-- Yellow: Within 0.5 of target
-- Red: More than 0.5 below target
+**Maturity Visual Indicators:**
+- Level colors (L1=red, L2=orange, L3=yellow, L4=green, L5=blue)
+- Progress bars for dimension scores
+- Gap visualization
+- Roadmap timelines
 
-**Key Visuals:**
-- Maturity pyramid
-- Radar chart by dimension
-- Progression timeline
-- Priority matrix
-- Roadmap Gantt
+**Charts to Include:**
+- Maturity radar charts
+- Gap analysis matrices
+- Investment ROI curves
+- Benchmark comparisons
 
 **Data Sources:**
-- Maturity_Assessment_Tool.csv
-- Gap_Analysis_By_Dimension.csv
-- Improvement_Roadmap.csv
+- Maturity_Assessment_Survey.py
+- AI_Capability_Scorer.py
+- Benchmark_Database.py
+- ROI_Calculator.py

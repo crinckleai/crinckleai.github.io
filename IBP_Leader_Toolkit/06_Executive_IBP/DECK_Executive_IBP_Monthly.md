@@ -1,489 +1,417 @@
-# Monthly Executive IBP Deck
+# AI-Powered Monthly Executive IBP Deck
 ## PowerPoint Presentation Template
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** Executive IBP Review
-**Subtitle:** [Month Year] Management Business Review
+**Title:** AI-Powered Executive IBP
+**Subtitle:** [Month Year] Decision Forum
 **Meeting Date:** [Date]
-**Facilitated by:** [IBP Process Owner]
+**Prepared by:** [IBP Process Owner]
+**AI Executive Pack Generated:** [Timestamp]
 
 ---
 
 ## Slide 2: Agenda
 
-1. Business Performance Summary (20 min)
-2. Integrated Plan Review (30 min)
-3. Gap Analysis & Scenarios (30 min)
-4. Decisions & Commitments (30 min)
-5. Actions & Communication (10 min)
+1. AI Executive Summary (10 min)
+2. AI Decision Dashboard (10 min)
+3. Plan Performance vs AI Predictions (15 min)
+4. AI-Flagged Exceptions & Decisions (30 min)
+5. AI Scenario Recommendations (15 min)
+6. AI Risk Assessment (15 min)
+7. Commitments & AI Action Tracking (15 min)
 
 **Total Duration:** 120 minutes
 
 **Meeting Objectives:**
 - Approve integrated operating plan
-- Make decisions on escalated issues
+- Make decisions on AI-escalated issues
 - Commit resources to close gaps
 - Align on communication
 
 ---
 
-## Slide 3: Executive Summary
+## Slide 3: AI Executive Summary
 
-**Visual:** Traffic light summary dashboard
+**LLM-Generated Executive Summary:**
 
-| Area | Status | Key Message | Decision Required |
-|------|--------|-------------|-------------------|
-| Overall Business Performance | [G/Y/R] | [One-line summary] | No |
-| Demand | [G/Y/R] | [One-line summary] | [Yes/No] |
-| Supply | [G/Y/R] | [One-line summary] | [Yes/No] |
-| Financial | [G/Y/R] | [One-line summary] | [Yes/No] |
-| Portfolio/NPI | [G/Y/R] | [One-line summary] | [Yes/No] |
+> "[AI-generated paragraph summarizing: Business performance, key developments, critical decisions needed, and recommended actions. This summary is auto-generated from all IBP review data, highlighting only exception items requiring executive attention.]"
 
-**Top 3 Priorities This Meeting:**
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
+**AI Business Health Score:** XX/100
 
----
-
-## Slide 4: Business Performance Dashboard
-
-**Visual:** KPI scorecard with gauges
-
-| KPI | Actual | Target | Status | Trend | vs Prior Month |
-|-----|--------|--------|--------|-------|----------------|
-| Revenue (YTD) | $XX.XM | $XX.XM | [G/Y/R] | ↑/↓/→ | +X% |
-| Gross Margin % | XX.X% | XX.X% | [G/Y/R] | ↑/↓/→ | +X bps |
-| OTIF | XX% | >95% | [G/Y/R] | ↑/↓/→ | +X% |
-| Forecast Accuracy | XX% | >70% | [G/Y/R] | ↑/↓/→ | +X% |
-| Inventory DOS | XX | XX | [G/Y/R] | ↑/↓/→ | -X days |
-| Working Capital % | XX% | XX% | [G/Y/R] | ↑/↓/→ | -X% |
-
-**Performance Commentary:**
-- [Key positive]
-- [Key concern and action]
+| Dimension | Score | Trend | AI Assessment |
+|-----------|-------|-------|---------------|
+| Revenue Performance | XX/100 | ↑/↓/→ | [One-line AI insight] |
+| Margin Health | XX/100 | ↑/↓/→ | [One-line AI insight] |
+| Service Excellence | XX/100 | ↑/↓/→ | [One-line AI insight] |
+| Plan Alignment | XX/100 | ↑/↓/→ | [One-line AI insight] |
+| Risk Position | XX/100 | ↑/↓/→ | [One-line AI insight] |
 
 ---
 
-## Slide 5: YTD Performance vs Plan
+## Slide 4: AI Decision Dashboard
 
-**Visual:** Waterfall showing YTD variance
+**Visual:** Exception-only dashboard
 
+**Decisions Required This Month:**
+
+| # | Decision | Source | Impact | AI Recommendation | Confidence | Urgency |
+|---|----------|--------|--------|-------------------|------------|---------|
+| 1 | [Title] | Product | $X.XM | [Option X] | XX% | 🔴 Urgent |
+| 2 | [Title] | Demand | $X.XM | [Option Y] | XX% | 🟡 Soon |
+| 3 | [Title] | Supply | $X.XM | [Option Z] | XX% | 🟡 Soon |
+| 4 | [Title] | Finance | $X.XM | [Option A] | XX% | 🟢 Plan |
+
+**AI Decision Summary:**
+- Total decisions this month: X
+- Decisions with AI recommendation: X (XX%)
+- Estimated impact if all approved: +$X.XM
+- Estimated impact if delayed: -$X.XM
+
+---
+
+## Slide 5: Plan Performance - AI Analysis
+
+**Visual:** AI-analyzed performance summary
+
+**IBP Plan vs Actual vs AI Prediction:**
+
+| Metric | Plan | Actual | Variance | AI Predicted | AI Accuracy |
+|--------|------|--------|----------|--------------|-------------|
+| Revenue | $XX.XM | $XX.XM | +X.X% | $XX.XM | XX% |
+| Gross Margin | XX.X% | XX.X% | +XX bps | XX.X% | XX% |
+| OTIF | XX.X% | XX.X% | +X.X pp | XX.X% | XX% |
+| Inventory Days | XX | XX | -X days | XX | XX% |
+| Forecast Accuracy | XX% | XX% | +X pp | XX% | XX% |
+
+**AI Performance Commentary:**
+> "[LLM-generated analysis of performance drivers, highlighting where AI predictions were accurate and where adjustments are needed]"
+
+---
+
+## Slide 6: Exception Highlight - AI Flags Only
+
+**Visual:** AI-filtered exception list
+
+**AI-Flagged Exceptions Requiring Executive Attention:**
+
+| Area | Exception | Impact | Root Cause (AI) | Recommended Action |
+|------|-----------|--------|-----------------|-------------------|
+| Product | NPI X delayed 6 weeks | -$X.XM Q2 | [AI root cause] | [AI recommendation] |
+| Demand | Customer B -15% vs plan | -$X.XM FY | [AI root cause] | [AI recommendation] |
+| Supply | Supplier B risk elevated | $X.XM at risk | [AI root cause] | [AI recommendation] |
+| Finance | WC $X.XM above target | Cash impact | [AI root cause] | [AI recommendation] |
+
+**Items NOT Escalated (On Track):**
+- XX other metrics meeting AI thresholds
+- All managed within review-level authority
+
+---
+
+## Slide 7: Decision 1 - [Title]
+
+**Visual:** AI decision card with full analysis
+
+**Decision:** [Clear statement of what needs to be decided]
+
+**Context (AI-Generated):**
+> "[LLM summary of background, why decision is needed now, and what happens if delayed]"
+
+**Options Analysis:**
+
+| Option | Description | Revenue | Cost | NPV | Risk | AI Score |
+|--------|-------------|---------|------|-----|------|----------|
+| A | [Option A] | +$X.XM | $X.XM | $X.XM | Low | 72/100 |
+| B | [Option B] | +$X.XM | $X.XM | $X.XM | Med | 85/100 |
+| C | [Option C] | +$X.XM | $X.XM | $X.XM | High | 65/100 |
+
+**AI Recommendation:** Option B
+**Confidence:** XX%
+**Rationale:** "[AI-generated rationale based on NPV, risk-adjusted return, and strategic fit]"
+
+**Decision: [ ] A  [ ] B  [ ] C  [ ] Defer  [ ] Other: ____**
+
+---
+
+## Slide 8: Decision 2 - [Title]
+
+**Visual:** AI decision card
+
+**Decision:** [Clear statement of what needs to be decided]
+
+**Context (AI-Generated):**
+> "[LLM summary]"
+
+**Options Analysis:**
+
+| Option | Description | Impact | AI Assessment |
+|--------|-------------|--------|---------------|
+| A | [Option A] | +$X.XM | Pros: [X] Cons: [Y] |
+| B | [Option B] | +$X.XM | Pros: [X] Cons: [Y] |
+
+**AI Recommendation:** Option A
+**Confidence:** XX%
+
+**Trade-off Visualization:**
 ```
-YTD PERFORMANCE WATERFALL
+Option A: Higher short-term cost, better long-term ROI
+          ├── Year 1: -$X.XM
+          ├── Year 2: +$X.XM
+          └── Year 3: +$X.XM (cumulative positive)
 
-Budget:                    $XX.X M
-────────────────────────────────────
-+ Volume performance       +$X.X M
-- Price/Mix impact         -$X.X M
-+ Margin improvement       +$X.X M
-- Cost headwinds           -$X.X M
-────────────────────────────────────
-= Actual:                  $XX.X M
-────────────────────────────────────
-YTD Variance:              $X.X M (+/-X%)
-```
-
-**Key Drivers:**
-- [Driver 1 with context]
-- [Driver 2 with context]
-- [Driver 3 with context]
-
----
-
-## Slide 6: 24-Month Rolling Demand Outlook
-
-**Visual:** Demand trend chart
-
-| Quarter | Prior Forecast | Current Forecast | Change | vs Budget | Confidence |
-|---------|----------------|------------------|--------|-----------|------------|
-| Q1 CY | $XX.X | $XX.X | +X% | +X% | High |
-| Q2 CY | $XX.X | $XX.X | +X% | +X% | High |
-| Q3 CY | $XX.X | $XX.X | -X% | -X% | Medium |
-| Q4 CY | $XX.X | $XX.X | -X% | -X% | Medium |
-| **FY CY** | **$XX.X** | **$XX.X** | **+X%** | **+X%** | |
-| H1 NY | $XX.X | $XX.X | +X% | N/A | Low |
-| H2 NY | $XX.X | $XX.X | +X% | N/A | Low |
-| **FY NY** | **$XX.X** | **$XX.X** | **+X%** | | |
-
-**Demand Assumptions:**
-- [Key assumption 1]
-- [Key assumption 2]
-
----
-
-## Slide 7: Supply Plan Summary
-
-**Visual:** Supply capacity vs demand chart
-
-| Quarter | Demand | Supply Capacity | Gap | Constraint | Status |
-|---------|--------|-----------------|-----|------------|--------|
-| Q1 | $XX.X | $XX.X | $0 | None | [G] |
-| Q2 | $XX.X | $XX.X | -$X.X | [Constraint] | [Y] |
-| Q3 | $XX.X | $XX.X | -$X.X | [Constraint] | [R] |
-| Q4 | $XX.X | $XX.X | $0 | None | [G] |
-
-**Supply Response:**
-- Constraints identified and mitigation in place
-- Scenario flexibility prepared for ±10% demand variation
-- Key supplier risks being managed
-
-**Capacity Actions Required:** [See Decision section]
-
----
-
-## Slide 8: Integrated Financial Projection
-
-**Visual:** P&L summary
-
-| Line Item | YTD Actual | FY Forecast | FY Budget | Variance | Status |
-|-----------|------------|-------------|-----------|----------|--------|
-| Net Revenue | $XX.X | $XX.X | $XX.X | $X.X (+X%) | [G/Y/R] |
-| Gross Margin $ | $XX.X | $XX.X | $XX.X | $X.X (+X%) | [G/Y/R] |
-| Gross Margin % | XX.X% | XX.X% | XX.X% | +X bps | [G/Y/R] |
-| Operating Expense | $X.X | $X.X | $X.X | $X.X | [G/Y/R] |
-| Operating Income | $X.X | $X.X | $X.X | $X.X (+X%) | [G/Y/R] |
-| Operating Margin % | X.X% | X.X% | X.X% | +X bps | [G/Y/R] |
-
-**One Number Alignment:** ✓ Demand, Supply, and Finance aligned
-
----
-
-## Slide 9: Gap Analysis Summary
-
-**Visual:** Gap bridge
-
-```
-FULL YEAR GAP TO BUDGET
-
-Budget Operating Income:         $XX.X M
-─────────────────────────────────────────
-Current Forecast:                $XX.X M
-─────────────────────────────────────────
-GROSS GAP:                       -$X.X M
-
-Gap Sources:
-├── Revenue shortfall            -$X.X M
-├── Margin compression           -$X.X M
-├── Cost increases               -$X.X M
-└── FX impact                    -$X.X M
-
-Gap Closure Initiatives:         +$X.X M
-├── [Initiative 1]               +$X.X M
-├── [Initiative 2]               +$X.X M
-└── [Initiative 3]               +$X.X M
-─────────────────────────────────────────
-NET GAP (After Initiatives):     -$X.X M
+Option B: Lower cost, lower return
+          ├── Year 1: $0
+          ├── Year 2: +$X.XM
+          └── Year 3: +$X.XM (cumulative positive but lower)
 ```
 
----
-
-## Slide 10: Scenario Summary
-
-**Visual:** Scenario comparison table
-
-| Scenario | Revenue | GM% | Op Income | Probability | Key Assumptions |
-|----------|---------|-----|-----------|-------------|-----------------|
-| **Base** | $XX.X | XX% | $X.X | 60% | Current plan assumptions |
-| Upside | $XX.X | XX% | $X.X | 25% | [Key upside drivers] |
-| Downside | $XX.X | XX% | $X.X | 15% | [Key downside risks] |
-
-**Scenario Actions:**
-- **Upside triggers:** [What would trigger upside actions]
-- **Downside triggers:** [What would trigger downside actions]
-- **Prepared actions:** [List of ready-to-deploy actions]
+**Decision: [ ] A  [ ] B  [ ] Defer  [ ] Other: ____**
 
 ---
 
-## Slide 11: Portfolio & NPI Summary
+## Slide 9: AI Scenario Summary
 
-**Visual:** Portfolio status
+**Visual:** Probability-weighted scenarios
 
-| Area | Status | Key Update |
-|------|--------|------------|
-| Portfolio Vitality | [G/Y/R] | XX% revenue from products <3 years |
-| NPI Pipeline | [G/Y/R] | XX projects, $XXM potential |
-| Rationalization | [G/Y/R] | XX SKUs sunset YTD |
+**AI-Generated Scenarios:**
 
-**Key NPI Updates:**
+| Scenario | Revenue | EBITDA | Probability | Key Triggers |
+|----------|---------|--------|-------------|--------------|
+| Strong Upside | $XX.XM | $XX.XM | 10% | All NPIs succeed, market +5% |
+| Moderate Upside | $XX.XM | $XX.XM | 20% | Most initiatives succeed |
+| **Base Case** | **$XX.XM** | **$XX.XM** | **40%** | Current trends |
+| Moderate Downside | $XX.XM | $XX.XM | 20% | Competition, delays |
+| Severe Downside | $XX.XM | $XX.XM | 10% | Major disruption |
 
-| Project | Status | Launch | Revenue Impact |
-|---------|--------|--------|----------------|
-| [NPI 1] | [G/Y/R] | [Date] | $X.XM Y1 |
-| [NPI 2] | [G/Y/R] | [Date] | $X.XM Y1 |
+**Expected Value (Probability-Weighted):**
+- Revenue: $XX.XM
+- EBITDA: $XX.XM
 
-**Gate Decisions Required:** [See Decision section]
-
----
-
-## Slide 12: Risk Register Summary
-
-**Visual:** Risk matrix
-
-**Top Risks:**
-
-| Rank | Risk | Probability | Impact ($M) | Mitigation | Owner | Status |
-|------|------|-------------|-------------|------------|-------|--------|
-| 1 | [Risk] | High | $X.X | [Mitigation] | [Name] | [Y] |
-| 2 | [Risk] | Medium | $X.X | [Mitigation] | [Name] | [G] |
-| 3 | [Risk] | Medium | $X.X | [Mitigation] | [Name] | [Y] |
-| 4 | [Risk] | Low | $X.X | [Mitigation] | [Name] | [G] |
-| 5 | [Risk] | Low | $X.X | [Mitigation] | [Name] | [G] |
-
-**Net Risk Exposure:** $X.XM (probability-weighted)
+**AI Scenario Recommendation:**
+> "Plan to Base Case. Prepare contingencies for Moderate Downside (20% probability). Key trigger to monitor: [specific indicator]."
 
 ---
 
-## Slide 13: Decisions Required - Overview
+## Slide 10: AI Risk Assessment
 
-**Visual:** Decision summary
+**Visual:** Risk dashboard
 
-**Decisions for This Meeting:**
+**AI-Quantified Risk Portfolio:**
 
-| # | Decision | Category | Impact | Requestor | Urgency |
-|---|----------|----------|--------|-----------|---------|
-| 1 | [Decision title] | Capacity | $X.XM | [Name] | High |
-| 2 | [Decision title] | Investment | $X.XM | [Name] | Medium |
-| 3 | [Decision title] | Portfolio | $X.XM | [Name] | High |
-| 4 | [Decision title] | Policy | N/A | [Name] | Low |
+| Risk | Probability | Impact | Expected Loss | Mitigation Status | AI Priority |
+|------|-------------|--------|---------------|-------------------|-------------|
+| Supplier B failure | 35% | $X.XM | $X.XM | In progress | 🔴 Critical |
+| Customer A loss | 15% | $X.XM | $X.XM | Monitoring | 🟡 Watch |
+| NPI Y failure | 20% | $X.XM | $X.XM | Contingency ready | 🟢 Managed |
+| Commodity spike | 25% | $X.XM | $X.XM | Hedge in place | 🟢 Managed |
+| **TOTAL EXPOSURE** | | | **$X.XM** | | |
 
-**Decisions Delegated from Pre-Read:** [List if any]
-
----
-
-## Slide 14: Decision 1 - [Title]
-
-**Visual:** Decision card format
-
-**Decision Required:** [Clear statement of what needs to be decided]
-
-**Context:**
-- [Background point 1]
-- [Background point 2]
-- [Why decision is needed now]
-
-**Options:**
-
-| Option | Description | Pros | Cons | Financial Impact |
-|--------|-------------|------|------|------------------|
-| A | [Description] | [Pros] | [Cons] | $X.XM / XX% ROI |
-| B | [Description] | [Pros] | [Cons] | $X.XM / XX% ROI |
-| C | [Description] | [Pros] | [Cons] | $X.XM / XX% ROI |
-
-**Recommendation:** Option [X]
-**Rationale:** [Why this option is recommended]
-
-**Decision Owner:** [Name]
-**Implementation Timeline:** [Timeline if approved]
+**AI Risk Summary:**
+- Total unmitigated exposure: $X.XM
+- Risk-adjusted EBITDA: $XX.XM (vs base $XX.XM)
+- Mitigation actions in progress: X
+- Mitigation investment: $XXK (NPV positive)
 
 ---
 
-## Slide 15: Decision 2 - [Title]
+## Slide 11: Machine & Sleeve Business AI Summary
 
-**Visual:** Decision card format
+**Visual:** Equipment + Consumables dashboard
 
-**Decision Required:** [Clear statement]
+**Machine Pipeline Executive Summary:**
 
-**Context:**
-- [Background]
+| Metric | Value | vs Target | AI Assessment |
+|--------|-------|-----------|---------------|
+| Active Pipeline | $X.XM | +XX% | 🟢 Healthy |
+| Probability-Weighted | $X.XM | +XX% | 🟢 Strong |
+| Machines Deploying | XX | On plan | ✓ |
+| Machines Installed | XX | +XX% vs PY | 🟢 Growth |
 
-**Options:**
+**Sleeve Revenue Impact:**
+| Source | Revenue | % of Total | Growth |
+|--------|---------|------------|--------|
+| Installed Base | $XX.XM | XX% | +X% |
+| New Deployments | $X.XM | XX% | +XX% |
+| Pipeline (Weighted) | $X.XM | XX% | Potential |
 
-| Option | Description | Investment | Return | Risk |
-|--------|-------------|------------|--------|------|
-| A | [Description] | $X.XM | $X.XM | Low |
-| B | [Description] | $X.XM | $X.XM | Medium |
-
-**Recommendation:** Option [X]
-
-**Decision Owner:** [Name]
-
----
-
-## Slide 16: Decision 3 - [Title]
-
-**Visual:** Decision card format
-
-**Decision Required:** [Clear statement]
-
-**Context:**
-- [Background]
-
-**Options:**
-
-| Option | Description | Pros | Cons |
-|--------|-------------|------|------|
-| A | [Description] | [Pros] | [Cons] |
-| B | [Description] | [Pros] | [Cons] |
-
-**Recommendation:** Option [X]
-
-**Decision Owner:** [Name]
+**AI Strategic Insight:**
+> "Machine business driving XX% of sleeve revenue growth. Pipeline conversion rate critical - recommend executive engagement on [key opportunities]."
 
 ---
 
-## Slide 17: Strategic Initiatives Update
+## Slide 12: One Number Plan - AI Alignment
 
-**Visual:** Initiative tracker
+**Visual:** Plan alignment matrix
 
-| Initiative | Owner | Status | Milestone | On Track |
-|------------|-------|--------|-----------|----------|
-| [Initiative 1] | [Name] | [Phase] | [Next milestone] | [G/Y/R] |
-| [Initiative 2] | [Name] | [Phase] | [Next milestone] | [G/Y/R] |
-| [Initiative 3] | [Name] | [Phase] | [Next milestone] | [G/Y/R] |
-| [Initiative 4] | [Name] | [Phase] | [Next milestone] | [G/Y/R] |
+**AI Plan Alignment Check:**
 
-**Initiatives Requiring Attention:**
-- [Initiative with issue and required action]
+| Dimension | Demand Plan | Supply Plan | Financial Plan | Aligned |
+|-----------|-------------|-------------|----------------|---------|
+| Q1 Volume | XXK | XXK | XXK | ✓ |
+| Q2 Volume | XXK | XXK | XXK | ✓ |
+| Q3 Volume | XXK | XXK | ⚠️ XXK gap | ⚠️ Review |
+| Q4 Volume | XXK | XXK | XXK | ✓ |
 
----
+**AI Alignment Issues:**
+- Q3: $X.XM gap between Financial and Supply plans
+- AI Root Cause: Capacity constraint not reflected in Financial
+- AI Recommendation: Update Financial plan or approve capacity investment
 
-## Slide 18: Actions from Prior Meeting
-
-**Visual:** Action status
-
-| # | Action | Owner | Due | Status |
-|---|--------|-------|-----|--------|
-| 1 | [Action] | [Name] | [Date] | ✓ Complete |
-| 2 | [Action] | [Name] | [Date] | ✓ Complete |
-| 3 | [Action] | [Name] | [Date] | → In Progress |
-| 4 | [Action] | [Name] | [Date] | ✗ Delayed |
-
-**Completion Rate:** XX%
-**Overdue Actions:** X
-
-**Delayed Action Resolution:**
-- [Action 4]: [Reason for delay and new commitment]
+**Plan Commitment:**
+- Revenue: $XX.XM (XX% confidence)
+- EBITDA: $XX.XM (XX% confidence)
+- Cash Flow: $XX.XM (XX% confidence)
 
 ---
 
-## Slide 19: Decisions Made & Commitments
+## Slide 13: Action Commitment Tracker
 
-**Visual:** Decision log
+**Visual:** AI-managed action log
+
+**Prior Month Actions - AI Status:**
+
+| # | Action | Owner | Committed | AI Status | Result |
+|---|--------|-------|-----------|-----------|--------|
+| 1 | [Action from last month] | [Name] | [Date] | ✅ Complete | On time |
+| 2 | [Action from last month] | [Name] | [Date] | ⚠️ At Risk | 2 days late |
+| 3 | [Action from last month] | [Name] | [Date] | 🔄 In Progress | On track |
+| 4 | [Action from last month] | [Name] | [Date] | 🔴 Overdue | Escalated |
+
+**AI Action Analytics:**
+- Completion rate: XX% (target >90%)
+- Average days to complete: X.X days
+- Overdue actions: X
+- AI escalation triggered: X times
+
+---
+
+## Slide 14: New Action Commitments
+
+**Visual:** This meeting's action list
+
+**Actions from This Meeting (AI-Generated):**
+
+| # | Action | Owner | Due Date | Decision Link | AI Priority |
+|---|--------|-------|----------|---------------|-------------|
+| 1 | [Action from Decision 1] | [Name] | [Date] | Decision 1 | 🔴 Critical |
+| 2 | [Action from Decision 2] | [Name] | [Date] | Decision 2 | 🔴 Critical |
+| 3 | [Action from Discussion] | [Name] | [Date] | Risk mitigation | 🟡 High |
+| 4 | [Action from Discussion] | [Name] | [Date] | Process | 🟢 Normal |
+
+**AI Action Features:**
+- Automated reminders at 50%, 75%, and 100% of due date
+- Escalation to executive sponsor if overdue >3 days
+- Integration with calendar and project management tools
+- Natural language status updates accepted
+
+---
+
+## Slide 15: AI Process Health Report
+
+**Visual:** IBP process KPIs
+
+**AI IBP Process Metrics:**
+
+| Metric | Actual | Target | Status | Trend |
+|--------|--------|--------|--------|-------|
+| Meeting adherence | XX% | 100% | [G/Y/R] | ↑/↓/→ |
+| Data submission on-time | XX% | 100% | [G/Y/R] | ↑/↓/→ |
+| Decision cycle time | X days | <3 days | [G/Y/R] | ↑/↓/→ |
+| Action completion rate | XX% | >90% | [G/Y/R] | ↑/↓/→ |
+| Forecast accuracy | XX% | >85% | [G/Y/R] | ↑/↓/→ |
+| AI model accuracy | XX% | >90% | [G/Y/R] | ↑/↓/→ |
+
+**AI Process Insights:**
+> "[AI-generated assessment of IBP process health, improvement opportunities, and recommendations]"
+
+---
+
+## Slide 16: Next Month Preview
+
+**Visual:** Looking ahead
+
+**AI-Predicted Focus Areas for Next Month:**
+
+| Area | Predicted Issue | Probability | Recommended Prep |
+|------|-----------------|-------------|------------------|
+| Product | [NPI Y go/no-go decision] | 85% | Prepare gate review |
+| Demand | [Q3 demand uncertainty] | 70% | Scenario planning |
+| Supply | [Capacity decision] | 90% | Business case ready |
+| Finance | [Budget reforecast] | 95% | Guidance preparation |
+
+**AI Calendar Alerts:**
+- [Date]: NPI Y gate decision deadline
+- [Date]: Capital approval required for Q3
+- [Date]: Board reporting deadline
+
+---
+
+## Slide 17: Executive Commitments Summary
+
+**Visual:** Commitment tracker
 
 **Decisions Made This Meeting:**
 
-| # | Decision | Outcome | Owner | Implementation Date |
-|---|----------|---------|-------|---------------------|
-| 1 | [Decision] | [Approved/Modified/Deferred] | [Name] | [Date] |
-| 2 | [Decision] | [Approved/Modified/Deferred] | [Name] | [Date] |
-| 3 | [Decision] | [Approved/Modified/Deferred] | [Name] | [Date] |
+| Decision | Choice | Owner | Financial Impact |
+|----------|--------|-------|------------------|
+| [Decision 1] | [Approved/Option B] | [Name] | +$X.XM |
+| [Decision 2] | [Approved/Option A] | [Name] | +$X.XM |
+| [Decision 3] | [Deferred to Date] | [Name] | TBD |
 
-**Resource Commitments:**
-- [Commitment 1]
-- [Commitment 2]
+**Plan Commitments:**
+- **Revenue:** $XX.XM ± X% (Committed)
+- **EBITDA:** $XX.XM ± X% (Committed)
+- **Service Level:** XX% (Committed)
 
----
-
-## Slide 20: New Actions
-
-**Visual:** Action tracker
-
-**Actions from This Meeting:**
-
-| # | Action | Owner | Due Date | Priority |
-|---|--------|-------|----------|----------|
-| 1 | [Action] | [Name] | [Date] | High |
-| 2 | [Action] | [Name] | [Date] | High |
-| 3 | [Action] | [Name] | [Date] | Medium |
-| 4 | [Action] | [Name] | [Date] | Medium |
-| 5 | [Action] | [Name] | [Date] | Low |
+**Next Executive IBP:** [Date, Time]
 
 ---
 
-## Slide 21: Communication Plan
+## Slide 18: Appendix - AI Model Performance
 
-**Visual:** Communication cascade
+**Visual:** AI system health
 
-**Key Messages to Communicate:**
+**AI System Health Dashboard:**
 
-| Audience | Message | Owner | When | Medium |
-|----------|---------|-------|------|--------|
-| Leadership Team | [Key decisions and plan] | [Name] | [Date] | [Method] |
-| All Employees | [High-level update] | [Name] | [Date] | [Method] |
-| Board/Investors | [Performance summary] | [Name] | [Date] | [Method] |
-| Key Customers | [Relevant updates] | [Name] | [Date] | [Method] |
-| Suppliers | [Relevant updates] | [Name] | [Date] | [Method] |
+| AI Capability | Status | Accuracy | Last Refresh |
+|---------------|--------|----------|--------------|
+| ML Demand Forecasting | ✓ Online | 91% | [Date] |
+| Inventory Optimizer | ✓ Online | 94% | [Date] |
+| Scenario Generator | ✓ Online | N/A | [Date] |
+| Risk Quantifier | ✓ Online | 85% | [Date] |
+| LLM Executive Summary | ✓ Online | N/A | [Date] |
+| Root Cause Bot | ✓ Online | 88% | [Date] |
+| Action Tracker | ✓ Online | 99% | Real-time |
 
----
-
-## Slide 22: Next Meeting Preview
-
-**Visual:** Preview card
-
-**Next Executive IBP Meeting:** [Date]
-
-**Expected Key Topics:**
-1. [Anticipated topic 1]
-2. [Anticipated topic 2]
-3. [Anticipated topic 3]
-
-**Pre-Read Distribution:** [Date]
-
-**Preparation Required:**
-- [Preparation item 1]
-- [Preparation item 2]
+**AI Value Delivered This Month:**
+- Forecast accuracy improvement: +XX points
+- Planning cycle time reduction: -XX%
+- Manual effort saved: XX hours
+- Decision speed improvement: -XX%
 
 ---
 
-## Slide 23: Appendix - Detailed KPIs
+## Design Guidelines
 
-[Reference to Executive_Dashboard.csv]
+**Executive Deck Principles:**
+- Exception-only presentation
+- AI recommendations clearly marked
+- Decision-ready format
+- Confidence levels on all predictions
+- Action-oriented outcomes
 
----
-
-## Slide 24: Appendix - Risk Register Detail
-
-[Reference to Risk_Register.csv]
-
----
-
-## Slide 25: Appendix - Decision Log History
-
-[Reference to Decision_Log.csv]
-
----
-
-## Meeting Facilitation Notes
-
-**Before the Meeting:**
-- Distribute pre-read 48 hours in advance
-- Confirm attendance of all decision-makers
-- Validate all data and recommendations
-- Prepare decision cards for each item
-
-**During the Meeting:**
-- Start on time, end on time
-- Focus on decisions, not presentations
-- Capture decisions and actions in real-time
-- Ensure clear ownership and timelines
-
-**After the Meeting:**
-- Distribute meeting minutes within 24 hours
-- Update decision log and action tracker
-- Initiate communication cascade
-- Schedule follow-up as needed
-
-**Design Guidelines:**
-
-**Color Coding:**
-- Green: On track, favorable
-- Yellow: At risk, attention needed
-- Red: Off track, action required
-
-**Key Charts:**
-- Executive dashboard gauges
-- Performance waterfall
-- Gap bridge
-- Scenario comparison
-- Decision matrices
+**AI Visual Indicators:**
+- 🤖 AI-generated content
+- Confidence percentages
+- Decision scorecards
+- Risk heat maps
+- Trend indicators
 
 **Data Sources:**
-- Executive_Dashboard.csv
-- Decision_Log.csv
-- Action_Item_Tracker.csv
-- Risk_Register.csv
-- Strategic_Initiatives_Tracker.csv
+- All IBP review outputs (automated feed)
+- LLM_Executive_Summary_Generator.py
+- AI_Decision_Recommender.py
+- Action_Item_AI_Tracker.py
+- Root_Cause_Bot.py

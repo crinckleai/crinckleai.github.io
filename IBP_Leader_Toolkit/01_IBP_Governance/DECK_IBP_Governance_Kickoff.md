@@ -1,12 +1,12 @@
-# IBP Governance Kickoff Deck
+# AI-Powered IBP Governance Kickoff Deck
 ## PowerPoint Presentation Outline
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** Integrated Business Planning (IBP)
-**Subtitle:** Governance Framework & Process Launch
+**Title:** AI-Powered Integrated Business Planning (IBP)
+**Subtitle:** Governance Framework & Intelligent Planning Launch
 **Presented by:** [IBP Process Owner Name]
 **Date:** [Date]
 **Company Logo:** [Insert]
@@ -15,123 +15,165 @@
 
 ## Slide 2: Agenda
 
-1. What is IBP and Why Now?
-2. IBP Vision & Objectives
-3. Process Overview
-4. Governance Structure
-5. Roles & Responsibilities
-6. Monthly Cycle & Calendar
-7. Key Performance Indicators
-8. Technology & Tools
-9. Implementation Timeline
+1. What is AI-Powered IBP and Why Now?
+2. AI-Enhanced IBP Vision & Objectives
+3. Process Overview with AI Integration
+4. AI Technology Stack & Capabilities
+5. Governance Structure
+6. Roles & Responsibilities (Human + AI)
+7. Monthly Cycle & Automation Calendar
+8. AI-Driven KPIs & Alerts
+9. Implementation Roadmap
 10. Next Steps & Call to Action
 
 ---
 
-## Slide 3: What is Integrated Business Planning?
+## Slide 3: What is AI-Powered IBP?
 
-**Key Message:** IBP bridges strategy to execution through integrated planning
+**Key Message:** AI transforms IBP from manual processes to intelligent, self-optimizing workflows
 
 **Visual:** Process evolution diagram
 ```
-Traditional Planning → S&OP → Integrated Business Planning
-(Siloed)              (Operational)  (Strategic + Financial + Operational)
+Traditional    →    S&OP        →    IBP           →    AI-POWERED IBP
+Planning           (Manual)         (Integrated)       (Intelligent)
+(Siloed)                                                    
+                                                      • ML Forecasting
+                                                      • Auto-Optimization
+                                                      • LLM Insights
+                                                      • Real-time Alerts
 ```
 
 **Definition Box:**
-> "IBP is a leadership-driven process that aligns strategic, financial, and operational plans, enabling the organization to allocate resources optimally and respond quickly to market changes."
+> "AI-Powered IBP leverages machine learning, automation, and generative AI to transform planning from periodic manual processes into continuous, self-optimizing workflows that predict, recommend, and act."
 
-**Key Differentiators:**
-- Extended planning horizon (24-36 months)
-- Full financial integration (P&L, Balance Sheet)
-- Executive decision-making forum
-- Scenario-based planning
-
----
-
-## Slide 4: Why IBP? The Business Case
-
-**Visual:** Before/After comparison or benefits chart
-
-| Challenge (Before IBP) | Solution (With IBP) |
-|------------------------|---------------------|
-| Disconnected plans | Single integrated plan |
-| Reactive firefighting | Proactive planning |
-| Functional silos | Cross-functional alignment |
-| Budget surprises | Financial visibility |
-| Slow decisions | Rapid response |
-
-**Expected Benefits:**
-- Forecast accuracy: +20-50%
-- Inventory reduction: 15-30%
-- Customer service: +5-15%
-- Planning cycle time: -50-75%
-- Revenue growth: 2-5%
+**AI Differentiators:**
+- ML ensemble forecasting (85-95% accuracy vs 60-70% traditional)
+- Real-time demand sensing with external signals
+- Automated exception detection and alerts
+- LLM-generated executive summaries and root cause analysis
+- 100+ scenario simulation vs 2-3 manual scenarios
 
 ---
 
-## Slide 5: IBP Vision & Objectives
+## Slide 4: Why AI-Powered IBP? The Business Case
+
+**Visual:** AI Benefits Matrix
+
+| Capability | Traditional | AI-Enabled | Improvement |
+|------------|-------------|------------|-------------|
+| Forecast Accuracy | 60-70% | 85-95% | +25-35 pts |
+| Planning Cycle Time | 3-4 weeks | 2-3 days | -80% |
+| Exception Detection | Manual review | Real-time alerts | Instant |
+| Scenario Analysis | 2-3 scenarios | 100+ scenarios | 50x |
+| Decision Speed | Days | Minutes | -95% |
+| Data Collection | Manual | Fully automated | -95% effort |
+
+**AI-Driven Expected Benefits:**
+- Forecast accuracy: +25-35 percentage points
+- Inventory reduction: 20-40%
+- Planning cycle time: -80%
+- Customer service: +10-20%
+- Manual effort: -60%
+
+---
+
+## Slide 5: AI-Powered IBP Vision & Objectives
 
 **Vision Statement:**
-> "[Company] will achieve best-in-class planning performance, delivering consistent financial results through an integrated, forward-looking planning process that aligns the entire organization."
+> "[Company] will achieve autonomous, AI-driven planning excellence, where intelligent systems predict demand, optimize supply, and enable rapid decisions while planners focus on strategic exceptions and business relationships."
 
-**Strategic Objectives:**
+**AI-Enhanced Strategic Objectives:**
 
-| Objective | Measure | Target |
-|-----------|---------|--------|
-| One Number Plan | Plan consistency | 100% alignment |
-| Financial Integration | Plan vs Actual variance | ±3% |
-| Decision Velocity | Issue resolution time | <48 hours |
-| Service Excellence | OTIF | >95% |
-| Inventory Optimization | Days of Supply | -X days |
+| Objective | AI Enabler | Measure | Target |
+|-----------|------------|---------|--------|
+| Intelligent Forecasting | ML Ensemble Models | Forecast Accuracy | >90% |
+| Real-time Sensing | External Signal Integration | Demand Sensing Lag | <24 hours |
+| Auto-Optimization | AI Solvers | Inventory vs Service | Pareto optimal |
+| Predictive Alerts | Anomaly Detection | Alert Lead Time | >7 days |
+| Executive Intelligence | LLM Summaries | Prep Time Reduction | -80% |
 
 ---
 
-## Slide 6: IBP Process Overview
+## Slide 6: AI-Powered IBP Process Overview
 
-**Visual:** Process flow diagram (use icons)
+**Visual:** AI-integrated process flow diagram
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    MONTHLY IBP CYCLE                         │
-│                                                              │
-│   Week 1         Week 2         Week 3         Week 4       │
-│  ┌───────┐      ┌───────┐      ┌───────┐      ┌───────┐    │
-│  │Product│  →   │Demand │  →   │Supply │  →   │Exec   │    │
-│  │Review │      │Review │      │Review │      │IBP    │    │
-│  └───────┘      └───────┘      └───────┘      └───────┘    │
-│      ↓              ↓              ↓              ↓         │
-│  Portfolio      Consensus      Supply        Approved      │
-│  Decisions      Demand         Response      Plan          │
-│                                                              │
-│  ←──────────── Financial Integration Throughout ──────────→│
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    AI ORCHESTRATION LAYER                               │
+│    LLM Agents │ ML Models │ Automation │ Decision Support               │
+└────────────────────────────────┬────────────────────────────────────────┘
+                                 │
+┌────────────────────────────────┴────────────────────────────────────────┐
+│                    MONTHLY AI-POWERED IBP CYCLE                          │
+│                                                                          │
+│   Week 1           Week 2           Week 3           Week 4             │
+│  ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐       │
+│  │AI Product│  →  │AI Demand │  →  │AI Supply │  →  │AI Exec   │       │
+│  │ Review   │     │ Review   │     │ Review   │     │ IBP      │       │
+│  └──────────┘     └──────────┘     └──────────┘     └──────────┘       │
+│       ↓                ↓                ↓                ↓              │
+│  • Auto NPI       • ML Forecast    • Auto Safety    • LLM Executive    │
+│    Scoring        • Demand           Stock            Summary          │
+│  • AI Portfolio     Sensing        • Capacity       • AI Decision      │
+│    Analysis       • Bias Auto-       Optimizer        Recommender      │
+│  • Machine          Correction     • Risk Scoring   • Action AI        │
+│    Pipeline AI                                                          │
+│                                                                          │
+│  ←─────────────── Continuous AI Monitoring Throughout ─────────────────→│
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Slide 7: The Five IBP Reviews
+## Slide 7: The Five AI-Enabled IBP Reviews
 
-**Visual:** Five connected boxes with icons
+**Visual:** Five connected boxes with AI capabilities
 
-| Review | Purpose | Key Output |
-|--------|---------|------------|
-| **Product Review** | Align portfolio with strategy | Product roadmap, NPI status |
-| **Demand Review** | Create consensus demand | Unconstrained demand plan |
-| **Supply Review** | Develop supply response | Constrained supply plan |
-| **Financial Review** | Integrate financials | P&L projection, gap analysis |
-| **Executive IBP** | Decide and commit | Approved plan, actions |
+| Review | AI Capabilities | Key Automation | Human Focus |
+|--------|-----------------|----------------|-------------|
+| **AI Product Review** | Auto portfolio scoring, NPI prediction, Machine Pipeline AI | Product scoring, cannibalization calc, sleeve forecasting | Strategic decisions |
+| **AI Demand Review** | ML ensemble forecasting, demand sensing | Auto model selection, bias correction | Exception review |
+| **AI Supply Review** | Inventory optimization, capacity solver | Safety stock calc, allocation | Constraint resolution |
+| **AI Financial Review** | Auto P&L, scenario generation | Financial translation, gap detection | Risk decisions |
+| **AI Executive IBP** | LLM summaries, decision recommender | Pack generation, action tracking | Final approvals |
 
-**Speaker Notes:**
-- Each review builds on the previous
-- Financial integration runs throughout
-- Executive IBP is the apex decision forum
+**Key Principle:** AI handles routine computation; humans handle exceptions and strategy
 
 ---
 
-## Slide 8: Governance Structure
+## Slide 8: AI Technology Stack
 
-**Visual:** Org chart style diagram
+**Visual:** Technology architecture diagram
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     GENERATIVE AI LAYER                             │
+│  Claude/GPT LLMs │ Root Cause Bot │ Exec Summary Generator         │
+├─────────────────────────────────────────────────────────────────────┤
+│                     MACHINE LEARNING LAYER                          │
+│  XGBoost │ LightGBM │ Prophet │ LSTM │ Ensemble Selection          │
+├─────────────────────────────────────────────────────────────────────┤
+│                     AUTOMATION LAYER                                │
+│  RPA Data Collection │ Alert Engine │ Workflow Orchestration       │
+├─────────────────────────────────────────────────────────────────────┤
+│                     DATA PLATFORM                                   │
+│  Real-time APIs │ Data Lake │ Feature Store │ External Signals     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**AI Model Portfolio:**
+- Demand Forecasting: 10+ algorithm ensemble
+- Inventory Optimization: Mathematical solvers
+- Risk Scoring: Gradient boosting classifiers
+- Text Generation: Large Language Models
+- Anomaly Detection: Statistical + ML hybrid
+
+---
+
+## Slide 9: Governance Structure (Human + AI)
+
+**Visual:** AI-augmented org chart
 
 ```
                     ┌─────────────────┐
@@ -140,321 +182,326 @@ Traditional Planning → S&OP → Integrated Business Planning
                     └────────┬────────┘
                              │
                     ┌────────┴────────┐
-                    │  EXECUTIVE IBP   │
-                    │    COUNCIL       │
-                    │ (C-Suite/VPs)    │
+                    │  EXECUTIVE IBP   │◄── AI Decision Recommender
+                    │    COUNCIL       │    LLM Executive Pack
                     └────────┬────────┘
                              │
                     ┌────────┴────────┐
-                    │  IBP PROCESS     │
-                    │    OWNER         │
+                    │  IBP PROCESS     │◄── AI Orchestration Layer
+                    │    OWNER         │    Model Performance Monitor
                     └────────┬────────┘
             ┌────────────────┼────────────────┐
             │                │                │
       ┌─────┴─────┐    ┌─────┴─────┐    ┌─────┴─────┐
       │  DEMAND   │    │  SUPPLY   │    │ FINANCIAL │
-      │  REVIEW   │    │  REVIEW   │    │  REVIEW   │
+      │  REVIEW   │◄──►│  REVIEW   │◄──►│  REVIEW   │
       │   OWNER   │    │   OWNER   │    │   OWNER   │
-      └───────────┘    └───────────┘    └───────────┘
+      └─────┬─────┘    └─────┬─────┘    └─────┬─────┘
+            │                │                │
+         ML Fcst          Optimizer        Auto P&L
+         Engine           Engine           Engine
 ```
 
----
-
-## Slide 9: RACI Overview
-
-**Visual:** Simplified RACI matrix
-
-| Activity | CEO | CFO | CSO | CSCO | IBP Leader |
-|----------|-----|-----|-----|------|------------|
-| Strategy Setting | **A** | C | C | C | I |
-| Demand Plan | I | C | **A** | C | R |
-| Supply Plan | I | C | C | **A** | R |
-| Financial Plan | I | **A** | C | C | R |
-| Plan Approval | **A** | R | R | R | R |
-
-**Legend:** A = Accountable | R = Responsible | C = Consulted | I = Informed
-
-**Speaker Notes:**
-- Clear accountability prevents confusion
-- Single "A" per activity ensures ownership
-- Full RACI available in governance documentation
+**AI Governance Principles:**
+- AI recommends, humans decide on strategic matters
+- Model performance continuously monitored
+- Bias and drift detection automated
+- Escalation thresholds configurable
 
 ---
 
-## Slide 10: Key Roles & Responsibilities
+## Slide 10: AI-Augmented RACI
 
-**Visual:** Role cards or icons with bullets
+**Visual:** RACI with AI roles
+
+| Activity | AI System | IBP Leader | Business Owner | Executive |
+|----------|-----------|------------|----------------|-----------|
+| Baseline Forecast | **Executes** | Monitors | Reviews | Informed |
+| Demand Sensing | **Executes** | Monitors | Reviews | Informed |
+| Bias Detection | **Alerts** | Investigates | Validates | Informed |
+| Supply Optimization | **Recommends** | Reviews | Decides | Informed |
+| Scenario Generation | **Generates** | Curates | Reviews | Decides |
+| Executive Summary | **Drafts** | Reviews | Contributes | Approves |
+| Exception Handling | Flags | Investigates | **Decides** | Escalation |
+
+**Legend:** AI Executes = Fully automated | AI Recommends = Human approval required
+
+---
+
+## Slide 11: Key Roles in AI-Powered IBP
+
+**Visual:** Role cards with AI partnership
 
 **Executive Sponsor (CEO/COO)**
-- Champion IBP at board level
-- Remove barriers
-- Hold leaders accountable
+- Champion AI-powered IBP transformation
+- Review AI decision recommendations
+- Hold leaders accountable for AI adoption
 
 **IBP Process Owner**
-- Design and maintain process
-- Facilitate monthly cycle
-- Drive improvement
+- Oversee AI model performance
+- Manage human-AI workflow integration
+- Drive continuous AI improvement
 
 **Review Owners**
-- Lead respective reviews
-- Ensure quality inputs
-- Drive decisions
+- Review AI-generated insights and exceptions
+- Validate AI recommendations
+- Focus on strategic decisions
 
-**Planning Teams**
-- Prepare analysis
-- Generate forecasts
-- Execute plan
-
----
-
-## Slide 11: Monthly Calendar
-
-**Visual:** Calendar view with color-coded weeks
-
-```
-WEEK 1                  WEEK 2                  WEEK 3                  WEEK 4
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│ Data Prep       │    │ Sales Input     │    │ Capacity        │    │ Financial       │
-│ Statistical Fcst│    │ Marketing Input │    │ Analysis        │    │ Integration     │
-│ Product Review  │    │ Demand Review   │    │ Scenarios       │    │ Gap Analysis    │
-│ Thu: Meeting    │    │ Thu: Meeting    │    │ Supply Review   │    │ Executive IBP   │
-└─────────────────┘    └─────────────────┘    │ Thu: Meeting    │    │ Thu: Meeting    │
-                                               └─────────────────┘    └─────────────────┘
-```
-
-**Key Deadlines:**
-- Sales input: Week 2 Monday
-- Supply response: Week 3 Wednesday
-- Executive pack: Week 4 Wednesday
+**AI/ML Team**
+- Maintain and improve models
+- Monitor prediction accuracy
+- Deploy new AI capabilities
 
 ---
 
-## Slide 12: Key Performance Indicators
+## Slide 12: Monthly AI-Powered Calendar
 
-**Visual:** KPI dashboard preview
+**Visual:** Calendar with automation indicators
 
-**Process KPIs:**
-| KPI | Target |
-|-----|--------|
-| Meeting adherence | 100% |
-| Preparation compliance | 100% |
-| Decision cycle time | <48 hrs |
-| Action completion | >90% |
+```
+WEEK 1 (AI-Assisted)      WEEK 2 (AI-Assisted)      WEEK 3 (AI-Assisted)      WEEK 4 (AI-Assisted)
+┌─────────────────────┐  ┌─────────────────────┐  ┌─────────────────────┐  ┌─────────────────────┐
+│ 🤖 Auto Data Pull   │  │ 🤖 ML Forecast Gen  │  │ 🤖 Auto Safety Stock│  │ 🤖 Auto P&L Calc    │
+│ 🤖 ML Statistical   │  │ 🤖 Demand Sensing   │  │ 🤖 Capacity Solve   │  │ 🤖 LLM Exec Pack    │
+│    Forecast         │  │ 🤖 Bias Detection   │  │ 🤖 Risk Scoring     │  │ 🤖 Scenario Gen     │
+│ 🤖 Portfolio Score  │  │ 👤 Sales Overlay    │  │ 🤖 Allocation Opt   │  │ 🤖 Gap Analysis     │
+│ 🤖 NPI Analysis     │  │ 👤 Mktg Overlay     │  │ 👤 Supply Review    │  │ 👤 Executive IBP    │
+│ 👤 Product Review   │  │ 👤 Demand Review    │  │    Meeting          │  │    Meeting          │
+│    Meeting          │  │    Meeting          │  │                     │  │                     │
+└─────────────────────┘  └─────────────────────┘  └─────────────────────┘  └─────────────────────┘
 
-**Business KPIs:**
-| KPI | Target |
-|-----|--------|
-| Forecast accuracy | >70% |
-| Forecast bias | ±3% |
-| Revenue vs plan | ±3% |
-| OTIF | >95% |
+Legend: 🤖 = AI Automated | 👤 = Human Activity
+```
+
+**Automation Coverage:** 70% of tasks fully automated, 30% human-guided
 
 ---
 
-## Slide 13: Technology & Tools
+## Slide 13: AI-Driven KPIs & Real-Time Monitoring
 
-**Visual:** Technology stack diagram
+**Visual:** AI KPI dashboard preview
 
-```
-┌─────────────────────────────────────┐
-│       ANALYTICS & REPORTING         │
-│    [Power BI / Tableau / etc.]      │
-└─────────────────────────────────────┘
-                 │
-┌─────────────────────────────────────┐
-│       PLANNING PLATFORM             │
-│  [SAP IBP / Kinaxis / o9 / etc.]    │
-└─────────────────────────────────────┘
-                 │
-┌─────────────────────────────────────┐
-│       TRANSACTIONAL SYSTEMS         │
-│     [ERP / CRM / WMS / MES]         │
-└─────────────────────────────────────┘
-```
+**Process KPIs (AI-Monitored):**
+| KPI | Target | AI Capability |
+|-----|--------|---------------|
+| ML Forecast Accuracy | >90% | Auto model selection + retraining |
+| Bias Detection | ±3% | Real-time monitoring + auto-correction |
+| Planning Cycle Time | <3 days | Automation + parallel processing |
+| Exception Resolution | <48 hrs | AI prioritization + alerts |
 
-**Collaboration Tools:**
-- Meeting platform: [Teams/Zoom/etc.]
-- Document sharing: [SharePoint/etc.]
-- Action tracking: [Tool name]
+**AI Model Performance KPIs:**
+| KPI | Target | Monitoring |
+|-----|--------|------------|
+| Model WMAPE | <15% | Continuous |
+| Feature Drift | <5% | Daily |
+| Prediction Latency | <1 sec | Real-time |
+| Model Refresh | Weekly | Automated |
 
 ---
 
-## Slide 14: Implementation Roadmap
+## Slide 14: AI Implementation Roadmap
 
-**Visual:** Timeline with phases
+**Visual:** Phased timeline with AI milestones
 
 ```
-Phase 1: Foundation     Phase 2: Integration    Phase 3: Excellence
-(Months 1-6)            (Months 7-12)           (Months 13-18)
-─────────────────────────────────────────────────────────────────→
+Phase 1: AI Foundation     Phase 2: AI Expansion      Phase 3: AI Intelligence   Phase 4: Autonomous
+(Months 1-6)               (Months 7-12)              (Months 13-18)             (Months 19-24)
+─────────────────────────────────────────────────────────────────────────────────────────────────→
 
-• Process design         • Full rollout           • Advanced analytics
-• Governance setup       • Financial integration  • Automation
-• Pilot launch          • Scenario planning      • Continuous improvement
-• Training              • Change management      • Best practice sharing
+• ML forecasting pilot     • ML all SKUs              • AI copilot for planners  • Lights-out planning
+• Automated data feeds     • Inventory optimization   • Predictive risk mgmt     • AI agents coordination
+• Basic anomaly alerts     • LLM exec summaries       • Self-improving models    • Prescriptive execution
+• AI governance setup      • Scenario generation      • Advanced demand sensing  • Continuous optimization
 
-     ▲                        ▲                        ▲
-     │                        │                        │
-  WE ARE                   TARGET                   FUTURE
-   HERE                   STATE                    STATE
+     ▲                          ▲                          ▲                          ▲
+     │                          │                          │                          │
+  WE ARE                     +50% AI                    +80% AI                    +95% AI
+   HERE                     COVERAGE                   COVERAGE                   COVERAGE
 ```
 
 ---
 
-## Slide 15: Success Factors
+## Slide 15: AI Success Factors
 
-**Visual:** Icons with key points
+**Visual:** Icons with AI-specific points
 
-1. **Executive Commitment**
-   - Visible sponsorship
-   - Active participation
-   - Resource allocation
+1. **AI Champion Leadership**
+   - Executive sponsorship of AI adoption
+   - Trust in AI recommendations
+   - Investment in AI capabilities
 
-2. **Cross-Functional Collaboration**
-   - Break down silos
-   - Shared accountability
-   - One team mindset
+2. **Data Excellence**
+   - Clean, integrated data platform
+   - Real-time data feeds
+   - External signal integration
 
-3. **Data Quality**
-   - Single source of truth
-   - Timely and accurate
-   - Trusted by all
+3. **Human-AI Collaboration**
+   - Clear AI/human responsibility split
+   - Training on AI tools
+   - Exception-focused human work
 
-4. **Process Discipline**
-   - Follow the calendar
-   - Meet deadlines
-   - Honor commitments
+4. **Continuous Learning**
+   - Model performance monitoring
+   - Feedback loops to improve AI
+   - Regular model retraining
 
-5. **Continuous Improvement**
-   - Learn from each cycle
-   - Address root causes
-   - Celebrate wins
-
----
-
-## Slide 16: What's Changing?
-
-**Visual:** Change impact summary
-
-| Area | From | To |
-|------|------|-----|
-| Planning horizon | 12 months | 24+ months |
-| Plan ownership | Functional | Cross-functional |
-| Financial view | Separate forecast | Integrated plan |
-| Decision forum | Ad-hoc | Structured monthly |
-| Executive involvement | Quarterly | Monthly |
-| Scenario planning | Reactive | Proactive |
-
-**Key Message:** "This is about how we work together, not just a new process"
+5. **Change Management**
+   - Address AI skepticism
+   - Celebrate AI wins
+   - Transparent AI decisions
 
 ---
 
-## Slide 17: Your Role in IBP Success
+## Slide 16: What's Changing with AI?
 
-**Visual:** Audience-specific call to action
+**Visual:** AI transformation summary
+
+| Area | Traditional | AI-Powered |
+|------|-------------|------------|
+| Forecasting | Expert judgment | ML ensemble models |
+| Data collection | Manual Excel | Automated pipelines |
+| Exception finding | Review everything | AI highlights only |
+| Scenario planning | 2-3 manual scenarios | 100+ AI-generated |
+| Meeting prep | Hours of deck building | LLM auto-generation |
+| Root cause | Manual investigation | AI instant analysis |
+| Bias detection | Monthly review | Real-time alerts |
+| Optimization | Rules-based | Mathematical solvers |
+
+**Key Message:** "AI handles the routine so humans can focus on strategy and relationships"
+
+---
+
+## Slide 17: Your Role in AI-Powered IBP Success
+
+**Visual:** Audience-specific AI integration
 
 **Executives:**
-- Attend Executive IBP monthly
-- Make timely decisions
-- Hold teams accountable
+- Trust AI recommendations with appropriate oversight
+- Make decisions on AI-flagged exceptions
+- Champion AI adoption across organization
 
 **Review Owners:**
-- Lead your review meetings
-- Ensure quality inputs
-- Drive consensus
+- Review AI-generated insights, not raw data
+- Validate AI recommendations before approval
+- Focus meeting time on exceptions only
 
 **Planning Teams:**
-- Meet input deadlines
-- Provide accurate data
-- Flag issues early
+- Provide feedback to improve AI models
+- Handle AI-escalated exceptions
+- Focus on customer relationships, not data entry
 
-**All Participants:**
-- Come prepared
-- Engage constructively
-- Follow through on actions
+**AI/ML Team:**
+- Monitor model performance
+- Implement new AI capabilities
+- Ensure AI governance compliance
 
 ---
 
-## Slide 18: Next Steps
+## Slide 18: AI Workflow Quick Reference
 
-**Visual:** Checklist or timeline
+**Visual:** AI automation by task
+
+| Task | AI Solution | Human Role |
+|------|-------------|------------|
+| Generate baseline forecast | ML auto-generates | Review exceptions |
+| Detect forecast bias | AI monitors continuously | Approve corrections |
+| Calculate safety stock | AI optimizes dynamically | Set service targets |
+| Identify supply constraints | AI flags automatically | Resolve escalations |
+| Create executive summary | LLM generates draft | Edit and approve |
+| Track action items | AI monitors + reminds | Own completion |
+| Analyze root causes | AI explains instantly | Validate and act |
+| Generate scenarios | AI creates 100+ options | Select strategies |
+| Machine pipeline scoring | AI predicts win probability | Strategic pursuits |
+| Sleeve volume forecast | ML predicts consumption | Customer validation |
+
+---
+
+## Slide 19: Next Steps
+
+**Visual:** AI implementation checklist
 
 **Immediate (This Month):**
-- [ ] Finalize governance documentation
-- [ ] Confirm review owners and attendees
-- [ ] Set up recurring meetings
-- [ ] Complete baseline training
+- [ ] Finalize AI governance documentation
+- [ ] Confirm AI/human role assignments
+- [ ] Set up ML model monitoring
+- [ ] Complete AI tools training
+- [ ] Validate data pipeline automation
 
 **Short-term (Next 30 Days):**
-- [ ] Execute first full IBP cycle
-- [ ] Establish KPI baselines
-- [ ] Launch communication cascade
-- [ ] Schedule coaching sessions
+- [ ] Execute first AI-assisted IBP cycle
+- [ ] Establish AI model baselines
+- [ ] Configure alert thresholds
+- [ ] Launch LLM summary pilot
 
 **Ongoing:**
-- [ ] Monthly process execution
-- [ ] Quarterly health reviews
-- [ ] Continuous improvement
+- [ ] Weekly model performance review
+- [ ] Monthly AI capability expansion
+- [ ] Continuous feedback loop
 
 ---
 
-## Slide 19: Q&A
+## Slide 20: Q&A
 
 **Title:** Questions & Discussion
 
-**Visual:** Q&A icon or image
+**Visual:** Q&A icon
 
 **Prompt Questions:**
-- What concerns do you have about the process?
-- What barriers do you anticipate?
-- What support do you need to be successful?
+- How comfortable are you with AI-generated recommendations?
+- What concerns do you have about AI in planning?
+- Where do you see the biggest AI opportunity?
+- What training would help your team?
 
 ---
 
-## Slide 20: Appendix - Meeting Schedule Detail
+## Slide 21: Appendix - AI Model Details
 
-**Visual:** Full calendar with all meeting details
+**ML Forecasting Models:**
+- XGBoost: Gradient boosting for structured data
+- LightGBM: Fast gradient boosting
+- Prophet: Facebook's time series model
+- LSTM: Deep learning for sequences
+- Ensemble: Weighted combination of all
 
-| Meeting | Week | Day | Time | Duration | Location |
-|---------|------|-----|------|----------|----------|
-| Product Review | 1 | Thu | [Time] | 90 min | [Room] |
-| Demand Review | 2 | Thu | [Time] | 90 min | [Room] |
-| Supply Review | 3 | Thu | [Time] | 90 min | [Room] |
-| Financial Review | 4 | Tue | [Time] | 60 min | [Room] |
-| Executive IBP | 4 | Thu | [Time] | 120 min | [Room] |
+**LLM Capabilities:**
+- Executive summary generation
+- Root cause analysis
+- Action item tracking
+- Natural language queries
 
 ---
 
-## Slide 21: Appendix - Glossary
-
-**Visual:** Two-column glossary
+## Slide 22: Appendix - AI Glossary
 
 | Term | Definition |
 |------|------------|
-| IBP | Integrated Business Planning |
-| S&OP | Sales & Operations Planning |
-| Consensus Demand | Agreed demand after cross-functional review |
-| Constrained Plan | Supply plan reflecting capacity limits |
-| OTIF | On-Time In-Full delivery metric |
-| Rolling Forecast | Continuously updated forward projection |
+| ML | Machine Learning - algorithms that improve from data |
+| LLM | Large Language Model - AI for text generation |
+| Ensemble | Combining multiple models for better accuracy |
+| Demand Sensing | Using external signals for near-term forecasting |
+| Feature Engineering | Creating predictive variables from raw data |
+| Anomaly Detection | AI identification of unusual patterns |
+| Auto Safety Stock | Dynamic inventory optimization |
+| Root Cause Bot | LLM that explains forecast variances |
 
 ---
 
-## Slide 22: Appendix - Contact Information
+## Slide 23: Appendix - Contact Information
 
 **IBP Process Owner:**
 - Name: [Name]
 - Email: [Email]
 - Phone: [Phone]
 
-**IBP Coordinator:**
+**AI/ML Team Lead:**
 - Name: [Name]
 - Email: [Email]
 
 **Resources:**
 - IBP SharePoint: [Link]
-- Training materials: [Link]
-- Process documentation: [Link]
+- AI Training Materials: [Link]
+- Model Documentation: [Link]
+- AI Workflow Guides: [Link]
 
 ---
 
@@ -462,24 +509,19 @@ Phase 1: Foundation     Phase 2: Integration    Phase 3: Excellence
 
 **Color Scheme:**
 - Primary: Corporate blue/brand color
-- Secondary: Accent colors for different reviews
-- Alert: Red for gaps/risks, Green for on-track
+- AI Accent: Purple/teal for AI elements
+- Automation: Green for automated tasks
+- Human: Blue for human tasks
 
-**Icons to Use:**
-- Product Review: Package/box icon
-- Demand Review: Chart trending up
-- Supply Review: Factory/gear icon
-- Financial Review: Dollar sign/calculator
-- Executive IBP: Leadership/handshake icon
+**AI Icons to Use:**
+- Robot/AI chip for automation
+- Brain for ML
+- Chat bubble for LLM
+- Lightning bolt for real-time
+- Dashboard for monitoring
 
 **Charts to Include:**
-- Process flow diagrams
-- Timeline/Gantt for implementation
-- KPI gauges/dashboards
-- Before/after comparisons
-
-**Recommended Template:**
-- Clean, professional design
-- Minimal text per slide
-- Strong visuals
-- Consistent formatting
+- AI improvement metrics
+- Automation coverage pie
+- Model accuracy trends
+- Human vs AI task split

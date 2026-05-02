@@ -1,12 +1,12 @@
-# IBP Change Management Program Deck
+# AI-Powered IBP Change Management Program Deck
 ## PowerPoint Presentation Template
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** IBP Change Management Program
-**Subtitle:** Driving Sustainable Transformation
+**Title:** AI-Powered IBP Change Management Program
+**Subtitle:** Driving Sustainable AI Transformation
 **Date:** [Date]
 **Prepared by:** [Change Lead / IBP Leader]
 
@@ -14,483 +14,377 @@
 
 ## Slide 2: Agenda
 
-1. Change Vision & Objectives (10 min)
-2. Stakeholder Analysis (15 min)
-3. Impact Assessment (15 min)
-4. Communication Strategy (15 min)
-5. Training & Capability Building (15 min)
-6. Adoption Tracking & Reinforcement (15 min)
-7. Risks & Mitigation (10 min)
-8. Roadmap & Next Steps (10 min)
+1. AI Transformation Vision & Objectives (10 min)
+2. AI Readiness Assessment (15 min)
+3. Stakeholder Analysis & AI Adoption (15 min)
+4. AI Impact Assessment (15 min)
+5. AI Communication Strategy (10 min)
+6. AI Training & Capability Building (15 min)
+7. AI Adoption Tracking (15 min)
+8. Risks, Mitigation & Roadmap (10 min)
 
 **Total Duration:** 105 minutes
 
 ---
 
-## Slide 3: Why Change Management Matters
+## Slide 3: Why AI Change Management Matters
 
-**Visual:** Change success statistics
+**Visual:** AI transformation success factors
 
-**Without Change Management:**
-- 70% of change initiatives fail
-- Low adoption and sustainability
-- Employee resistance and fatigue
+**Without AI Change Management:**
+- 70% of AI initiatives fail to deliver value
+- Low adoption of AI recommendations
+- "Black box" distrust of ML models
 - Benefits not realized
 
-**With Effective Change Management:**
-- 6x more likely to achieve objectives
-- Higher adoption rates
-- Sustainable behavior change
-- Full benefits realization
+**With Effective AI Change Management:**
+- 6x more likely to achieve AI benefits
+- Higher trust in AI-generated insights
+- Sustainable human-AI collaboration
+- Full automation potential realized
 
-**IBP is NOT just a process change - it's a cultural transformation**
+**AI-IBP is NOT just a technology change - it's a cultural shift from "I know" to "Let's see what the data says"**
 
 ---
 
-## Slide 4: The IBP Culture Shift
+## Slide 4: The AI-IBP Culture Shift
 
-**Visual:** From/To comparison
+**Visual:** Transformation journey
 
-| FROM | TO |
+**FROM Traditional IBP:**
+- Expert-driven forecasting
+- Manual data gathering
+- Review everything approach
+- Experience-based decisions
+- Quarterly process improvement
+
+**TO AI-Powered IBP:**
+- ML-driven forecasting with human oversight
+- Automated data pipelines
+- Exception-only focus
+- Data-driven recommendations
+- Continuous AI-driven optimization
+
+**Key Mindset Shifts:**
+| From | To |
 |------|-----|
-| Functional silos | Cross-functional teams |
-| Reactive firefighting | Proactive planning |
-| Gut feel decisions | Data-driven choices |
-| Blame culture | Root cause focus |
-| Perfect information | Decide with uncertainty |
-| Local optimization | Enterprise optimization |
-| Budget gaming | One number transparency |
-| Monthly surprises | Forward-looking visibility |
-
-**Key Message:** This transformation requires new mindsets, not just new processes
+| "I forecast based on my experience" | "ML forecasts, I validate and add intelligence" |
+| "I review all data" | "AI highlights exceptions, I investigate" |
+| "I create scenarios manually" | "AI generates scenarios, I select strategy" |
+| "I explain variances" | "Root Cause Bot explains, I validate and act" |
 
 ---
 
-## Slide 5: Change Vision
+## Slide 5: AI Readiness Assessment
 
-**Visual:** Vision statement with supporting elements
+**Visual:** Organization AI readiness scorecard
 
-**Vision Statement:**
-> "Transform [Company] into a truly integrated business where cross-functional collaboration drives superior business outcomes and competitive advantage."
+**AI Readiness Dimensions:**
 
-**What Success Looks Like:**
-- One integrated plan drives the organization
-- Decisions made at appropriate levels with speed
-- Cross-functional trust and collaboration
-- Continuous improvement mindset
-- Industry-leading performance
+| Dimension | Score | Readiness Level | Gap to Target |
+|-----------|-------|-----------------|---------------|
+| Data Quality | X.X/5 | [Low/Med/High] | [Actions needed] |
+| Technical Infrastructure | X.X/5 | [Low/Med/High] | [Actions needed] |
+| Leadership Support | X.X/5 | [Low/Med/High] | [Actions needed] |
+| Workforce Skills | X.X/5 | [Low/Med/High] | [Actions needed] |
+| Change Capacity | X.X/5 | [Low/Med/High] | [Actions needed] |
+| AI Trust | X.X/5 | [Low/Med/High] | [Actions needed] |
+| **Overall Readiness** | **X.X/5** | **[Level]** | |
 
-**Success Metrics:**
-- IBP maturity Level 4 achieved
-- Process KPIs consistently on target
-- High engagement scores
-- Benefits fully realized
-
----
-
-## Slide 6: Change Objectives
-
-**Visual:** SMART objectives
-
-| Objective | Measure | Target | Timeline |
-|-----------|---------|--------|----------|
-| Process Adoption | Meeting compliance | 100% | Month 6 |
-| Behavior Change | Cross-functional survey | 4.0/5 | Month 12 |
-| Capability Building | Certification rate | 80% | Month 9 |
-| Performance Impact | KPI achievement | All green | Month 18 |
-| Sustainability | 12-month retention | >90% | Month 24 |
+**Critical Readiness Gaps:**
+1. [Gap 1]: [Impact and mitigation]
+2. [Gap 2]: [Impact and mitigation]
 
 ---
 
-## Slide 7: ADKAR Change Model
+## Slide 6: Stakeholder Analysis - AI Impact
 
-**Visual:** ADKAR framework
+**Visual:** Stakeholder map with AI change impact
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    ADKAR MODEL                               │
-├─────────────┬─────────────┬─────────────┬─────────────┬─────┤
-│  AWARENESS  │   DESIRE    │  KNOWLEDGE  │   ABILITY   │REIN.│
-│  Why change │  Want to    │  How to     │  Can do     │Make │
-│  is needed  │  change     │  change     │  the change │stick│
-├─────────────┼─────────────┼─────────────┼─────────────┼─────┤
-│ Communicate │ WIIFM       │ Training    │ Coaching    │Recog│
-│ urgency &   │ Address     │ programs    │ Practice    │Perf │
-│ business    │ resistance  │ Job aids    │ Support     │Audit│
-│ case        │ Involve     │ Knowledge   │ Remove      │Celeb│
-│             │             │ checks      │ barriers    │     │
-└─────────────┴─────────────┴─────────────┴─────────────┴─────┘
-```
+**Stakeholder AI Impact Assessment:**
 
-**Current Focus:** [Indicate current phase]
+| Stakeholder | Current Role | AI Impact | Concern Level | Support Needed |
+|-------------|--------------|-----------|---------------|----------------|
+| Demand Planners | Manual forecasting | ML does forecasting | High | Skill transition |
+| Sales Team | Provides overlays | AI validates overlays | Medium | Trust building |
+| Supply Planners | Inventory rules | AI optimizes SS | Medium | Training |
+| Finance | Manual P&L | Auto-translation | Low | Process change |
+| Executives | Review all data | Exception-only | Low | Benefit clarity |
 
----
+**AI Change Champions:**
+- [Name]: [Role] - [Why they are champions]
+- [Name]: [Role] - [Why they are champions]
 
-## Slide 8: Stakeholder Analysis Overview
-
-**Visual:** Stakeholder matrix
-
-```
-                    HIGH INFLUENCE
-                          │
-           KEEP SATISFIED │ MANAGE CLOSELY
-              (Monitor)   │   (Partners)
-                          │
-    LOW ──────────────────┼────────────────── HIGH
-    INTEREST              │                INTEREST
-                          │
-              MONITOR     │ KEEP INFORMED
-            (Minimal)     │  (Supporters)
-                          │
-                    LOW INFLUENCE
-```
-
-**Stakeholder Categories:**
-- **Manage Closely:** Executive sponsors, review owners
-- **Keep Satisfied:** Board, external partners
-- **Keep Informed:** Planning teams, broader org
-- **Monitor:** Peripheral stakeholders
+**Potential Resistance:**
+- [Role/Group]: [Concern] - [Mitigation strategy]
 
 ---
 
-## Slide 9: Key Stakeholder Groups
+## Slide 7: AI Impact Assessment
 
-**Visual:** Stakeholder cards
+**Visual:** Change impact matrix
 
-| Stakeholder Group | Current State | Desired State | Gap | Strategy |
-|-------------------|---------------|---------------|-----|----------|
-| Executive Team | Supportive | Champion | Low | Engage in governance |
-| Sales Leadership | Skeptical | Advocate | High | Demonstrate value |
-| Operations | Neutral | Engaged | Medium | Show efficiency gains |
-| Finance | Supportive | Partner | Low | Integrate planning |
-| Planning Teams | Eager | Expert | Medium | Training investment |
-| Broader Org | Unaware | Informed | High | Communication cascade |
+**Impact on Key Processes:**
 
----
+| Process | Current State | AI-Enabled State | Impact Level | Transition Plan |
+|---------|---------------|------------------|--------------|-----------------|
+| Statistical Forecasting | Excel/Manual | ML Ensemble | 🔴 High | Phase 1 |
+| Demand Sensing | None | Real-time ML | 🔴 High | Phase 1 |
+| Bias Detection | Monthly review | Continuous AI | 🟡 Medium | Phase 1 |
+| Safety Stock | Rules-based | ML-optimized | 🔴 High | Phase 2 |
+| Scenario Planning | 2-3 manual | 100+ AI-generated | 🟡 Medium | Phase 2 |
+| Executive Summary | Manual deck | LLM-generated | 🟡 Medium | Phase 3 |
+| Action Tracking | Spreadsheet | AI monitoring | 🟢 Low | Phase 2 |
 
-## Slide 10: Resistance Analysis
-
-**Visual:** Resistance heat map
-
-**Sources of Resistance:**
-
-| Source | Level | Root Cause | Mitigation |
-|--------|-------|------------|------------|
-| Loss of autonomy | High | Functions losing control over their plans | Involve in design; show benefits |
-| Increased workload | Medium | New process feels like extra work | Streamline; show efficiency gains |
-| Fear of exposure | High | Transparency reveals performance issues | Safe environment; blame-free culture |
-| Skill gaps | Medium | Lack of confidence in new tools | Training and support |
-| Past failures | Medium | Previous change initiatives failed | Different approach; quick wins |
-| Unclear benefits | Low | Don't see personal value | WIIFM communication |
-
-**Resistance Management Strategy:** [Key approach]
+**Job Role Transformation:**
+| Role | Tasks Automated | New Focus | Skill Gap |
+|------|-----------------|-----------|-----------|
+| Demand Planner | 60% | Exception mgmt, customer intelligence | AI interpretation |
+| Supply Planner | 50% | Constraint resolution, supplier relations | Optimization tools |
+| FP&A Analyst | 70% | Strategy, scenario selection | AI governance |
 
 ---
 
-## Slide 11: Impact Assessment
+## Slide 8: AI Communication Strategy
 
-**Visual:** Impact by group and area
+**Visual:** Multi-channel communication plan
 
-**Process Impact:**
+**AI Communication Principles:**
+1. **Transparency**: Explain how AI makes decisions
+2. **Trust Building**: Show AI accuracy and value
+3. **Empowerment**: Position AI as copilot, not replacement
+4. **Continuous**: Regular updates on AI performance
 
-| Area | Change Description | Impact Level | Affected Roles |
-|------|-------------------|--------------|----------------|
-| Planning Cadence | Monthly structured cycle | High | All planners |
-| Decision Making | Structured escalation | Medium | Managers |
-| Reporting | New formats and KPIs | Medium | Analysts |
-| Collaboration | Cross-functional meetings | High | All functions |
-| Systems | New planning tools | Medium | Planners |
+**Communication Plan:**
 
-**Role Impact:**
-
-| Role | Current State | Future State | Change Magnitude |
-|------|---------------|--------------|------------------|
-| Demand Planner | Functional focus | Cross-functional facilitator | High |
-| Sales Manager | Own forecast | Consensus contributor | High |
-| Operations Lead | Reactive | Proactive, scenario-based | Medium |
-| Finance Partner | Separate forecast | Integrated plan owner | High |
-
----
-
-## Slide 12: Communication Strategy
-
-**Visual:** Communication framework
-
-**Communication Principles:**
-1. Transparent and honest
-2. Consistent messages across channels
-3. Two-way dialogue
-4. Timely and relevant
-5. Leader-led cascade
+| Audience | Message Theme | Channel | Frequency | Owner |
+|----------|---------------|---------|-----------|-------|
+| Executives | AI value delivery | Exec briefing | Monthly | IBP Leader |
+| Planners | AI as copilot | Team meetings | Weekly | Managers |
+| All Employees | Transformation journey | Newsletter | Monthly | HR/Comms |
+| IT | Technical progress | Tech forums | Bi-weekly | IT Lead |
 
 **Key Messages:**
-- **Why:** [Burning platform and opportunity]
-- **What:** [Vision and objectives]
-- **How:** [Approach and timeline]
-- **WIIFM:** [Benefits by stakeholder group]
+- "AI handles the routine so you can focus on strategy"
+- "AI recommends, you decide"
+- "AI amplifies your expertise, doesn't replace it"
 
 ---
 
-## Slide 13: Communication Plan
+## Slide 9: AI Trust Building Program
 
-**Visual:** Communication calendar
+**Visual:** Trust-building journey
 
-| Audience | Message | Channel | Frequency | Owner |
-|----------|---------|---------|-----------|-------|
-| All Employees | Program updates | Town hall | Monthly | CEO |
-| Leadership | Detailed progress | Leadership meeting | Bi-weekly | Sponsor |
-| Review Participants | Process info | Email/Teams | Weekly | IBP Leader |
-| Planning Teams | Training/support | Team meetings | Weekly | Managers |
-| Champions | Deep dive | Champion network | Bi-weekly | Change Lead |
+**Building Trust in AI:**
 
-**Communication Milestones:**
+```
+TRUST JOURNEY
 
-| Milestone | Date | Key Messages | Channel |
-|-----------|------|--------------|---------|
-| Program Launch | [Date] | Vision, timeline, expectations | All-hands |
-| Pilot Kick-off | [Date] | Pilot scope, success criteria | Pilot teams |
-| Pilot Results | [Date] | Results, learnings, next steps | All-hands |
-| Full Rollout | [Date] | Rollout plan, support available | All-hands |
-| Celebration | [Date] | Success stories, recognition | All-hands |
+Phase 1: AWARENESS          Phase 2: UNDERSTANDING       Phase 3: ACCEPTANCE
+──────────────────          ────────────────────────      ──────────────────
+• What AI does              • How AI makes decisions     • AI is reliable
+• Why we're using AI        • AI accuracy metrics        • AI makes me better
+• AI vs human roles         • When AI is wrong           • I trust AI recommendations
 
----
+TACTICS:                    TACTICS:                      TACTICS:
+• Demo sessions             • Explainable AI             • Performance proof points
+• Use case examples         • "Why did AI say this?"     • Success stories
+• Q&A forums                • Side-by-side comparisons   • Recognition programs
+```
 
-## Slide 14: Training Strategy
-
-**Visual:** Training curriculum overview
-
-**Training Philosophy:**
-- Role-based, relevant content
-- Blend of methods (classroom, eLearning, OJT)
-- Just-in-time delivery
-- Practical application focus
-- Certification pathway
-
-**Training Curriculum:**
-
-| Course | Audience | Duration | Delivery | Timing |
-|--------|----------|----------|----------|--------|
-| IBP Foundations | All participants | 2 hours | eLearning | Pre-launch |
-| IBP Process Deep Dive | Review owners | 4 hours | Classroom | Launch |
-| Meeting Facilitation | Facilitators | 4 hours | Workshop | Launch |
-| Systems Training | Planners | 8 hours | Hands-on | Launch |
-| Advanced Analytics | Power users | 8 hours | Workshop | Post-launch |
+**Trust Metrics:**
+| Metric | Baseline | Current | Target |
+|--------|----------|---------|--------|
+| AI recommendation adoption | XX% | XX% | >80% |
+| User satisfaction with AI | X.X/5 | X.X/5 | >4.0 |
+| Requests for AI override | XX% | XX% | <15% |
 
 ---
 
-## Slide 15: Capability Building Program
+## Slide 10: AI Training & Capability Building
 
-**Visual:** Capability framework
+**Visual:** Training curriculum
 
-**Competency Model:**
+**AI Training Program:**
 
-| Competency | Foundational | Proficient | Expert |
-|------------|--------------|------------|--------|
-| Process Knowledge | Understand steps | Execute independently | Coach others |
-| Analytical Skills | Use templates | Analyze scenarios | Design solutions |
-| Collaboration | Participate | Facilitate | Lead |
-| Decision Making | Support decisions | Make recommendations | Drive outcomes |
-| Systems | Basic navigation | Advanced features | Configure/optimize |
+| Module | Audience | Duration | Format | Timing |
+|--------|----------|----------|--------|--------|
+| AI Fundamentals | All IBP users | 2 hours | eLearning | Phase 1 |
+| ML Forecasting | Demand planners | 4 hours | Workshop | Phase 1 |
+| Interpreting AI Outputs | All planners | 3 hours | Workshop | Phase 1 |
+| AI Safety Stock | Supply planners | 4 hours | Workshop | Phase 2 |
+| Scenario Analysis | FP&A | 3 hours | Workshop | Phase 2 |
+| LLM Tools Usage | All users | 2 hours | eLearning | Phase 3 |
+| AI Governance | Leaders | 2 hours | Briefing | Phase 1 |
 
-**Certification Pathway:**
-1. Complete eLearning modules
-2. Pass knowledge assessment
-3. Demonstrate in live cycle
-4. Receive certification
-
----
-
-## Slide 16: Adoption Tracking
-
-**Visual:** Adoption dashboard
-
-**Adoption Metrics:**
-
-| Metric | Target | Current | Trend |
-|--------|--------|---------|-------|
-| Training Completion | 100% | XX% | ↑ |
-| Meeting Attendance | 100% | XX% | ↑ |
-| Process Compliance | 100% | XX% | ↑ |
-| System Usage | 100% | XX% | ↑ |
-| Engagement Score | 4.0 | X.X | ↑ |
-
-**Adoption by Group:**
-
-| Group | Training | Attendance | Compliance | Overall |
-|-------|----------|------------|------------|---------|
-| Sales | XX% | XX% | XX% | [G/Y/R] |
-| Operations | XX% | XX% | XX% | [G/Y/R] |
-| Finance | XX% | XX% | XX% | [G/Y/R] |
-| Product | XX% | XX% | XX% | [G/Y/R] |
+**Skill Building Focus:**
+| Skill | Current Level | Target Level | Gap Closure |
+|-------|---------------|--------------|-------------|
+| AI literacy | XX% | >90% | Training + practice |
+| Exception management | XX% | >85% | Role redefinition |
+| AI output interpretation | XX% | >80% | Coaching |
+| Human-AI collaboration | XX% | >85% | Process change |
 
 ---
 
-## Slide 17: Reinforcement Strategy
+## Slide 11: AI Adoption Tracking Dashboard
 
-**Visual:** Reinforcement mechanisms
+**Visual:** Adoption metrics and trends
+
+**AI Adoption Metrics:**
+
+| Metric | Target | Current | Trend | Action |
+|--------|--------|---------|-------|--------|
+| ML forecast usage | 100% | XX% | ↑/↓/→ | [Action] |
+| AI recommendation adoption | >80% | XX% | ↑/↓/→ | [Action] |
+| Override frequency | <15% | XX% | ↑/↓/→ | [Action] |
+| Time spent on exceptions | >70% | XX% | ↑/↓/→ | [Action] |
+| AI tool login frequency | Daily | [Freq] | ↑/↓/→ | [Action] |
+
+**Adoption by Team:**
+| Team | Adoption Rate | Champion | Blockers |
+|------|---------------|----------|----------|
+| Demand Planning | XX% | [Name] | [Blockers] |
+| Supply Planning | XX% | [Name] | [Blockers] |
+| Finance | XX% | [Name] | [Blockers] |
+| Product Management | XX% | [Name] | [Blockers] |
+
+---
+
+## Slide 12: AI Resistance Management
+
+**Visual:** Resistance categories and responses
+
+**Common AI Resistance & Responses:**
+
+| Resistance | Root Cause | Response Strategy |
+|------------|------------|-------------------|
+| "AI will replace my job" | Fear | Reframe as copilot, show new opportunities |
+| "AI doesn't understand our business" | Distrust | Show AI learning from business data |
+| "I know better than AI" | Pride | Show accuracy comparisons, gradual trust |
+| "AI is a black box" | Lack of understanding | Explainable AI, "why did AI say this?" |
+| "I don't have time to learn AI" | Overload | Show time savings, simplify onboarding |
+
+**Resistance Early Warning Signals:**
+- Low login rates to AI tools
+- High override frequency without documentation
+- Negative sentiment in surveys
+- Questions about job security
+
+---
+
+## Slide 13: Change Reinforcement
+
+**Visual:** Sustainability mechanisms
 
 **Reinforcement Mechanisms:**
 
-1. **Recognition Program**
-   - Monthly IBP champion awards
-   - Success story spotlights
-   - Executive shout-outs
+| Mechanism | Description | Owner | Frequency |
+|-----------|-------------|-------|-----------|
+| AI Champion Network | Peer support and advocacy | Change Lead | Ongoing |
+| Success Story Sharing | Celebrate AI wins | Comms | Monthly |
+| Performance Integration | AI adoption in reviews | HR | Quarterly |
+| Executive Recognition | Highlight top adopters | Leadership | Monthly |
+| Continuous Training | Refresher and advanced | L&D | Quarterly |
 
-2. **Performance Integration**
-   - IBP KPIs in scorecards
-   - Participation in reviews
-   - Behavior-based feedback
-
-3. **Coaching & Support**
-   - Ongoing coaching availability
-   - Help desk for questions
-   - Peer mentor network
-
-4. **Process Audits**
-   - Monthly compliance checks
-   - Feedback and improvement
-   - Best practice sharing
+**Sustainability Checklist:**
+- [ ] AI adoption in job descriptions
+- [ ] AI usage in performance metrics
+- [ ] AI champions identified and activated
+- [ ] Regular AI value communication
+- [ ] Feedback loop to AI team
 
 ---
 
-## Slide 18: Change Network
-
-**Visual:** Network structure
-
-```
-                    EXECUTIVE SPONSOR
-                          │
-                    CHANGE LEAD
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-      CHANGE AGENTS  CHANGE AGENTS  CHANGE AGENTS
-       (Function A)   (Function B)   (Function C)
-            │             │             │
-         CHAMPIONS     CHAMPIONS     CHAMPIONS
-         (Local)       (Local)       (Local)
-```
-
-**Roles:**
-- **Executive Sponsor:** Visible commitment, remove barriers
-- **Change Lead:** Overall program management
-- **Change Agents:** Function-level facilitation
-- **Champions:** Local advocates and support
-
----
-
-## Slide 19: Risk Assessment
+## Slide 14: AI Transformation Risks
 
 **Visual:** Risk matrix
 
+**AI Change Risks:**
+
 | Risk | Probability | Impact | Mitigation | Owner |
 |------|-------------|--------|------------|-------|
-| Executive attention wanes | Medium | High | Regular engagement; quick wins | Sponsor |
-| Resistance from Sales | High | High | WIIFM focus; early involvement | Change Lead |
-| Resource constraints | Medium | Medium | Dedicated team; prioritization | PMO |
-| Technology issues | Low | High | Robust testing; support plan | IT |
-| Change fatigue | Medium | Medium | Integrate with other initiatives | Change Lead |
-| Skill gaps persist | Medium | Medium | Extended training; coaching | HR |
+| Low AI adoption | Medium | High | Champion network, training | Change Lead |
+| AI distrust | Medium | High | Explainable AI, accuracy proof | IBP Leader |
+| Skill gaps | High | Medium | Training program, hiring | HR |
+| Technical issues | Low | High | IT support, backup processes | IT Lead |
+| Change fatigue | Medium | Medium | Phased approach, quick wins | Change Lead |
+
+**Risk Monitoring:**
+- Weekly adoption metrics review
+- Monthly stakeholder pulse surveys
+- Quarterly change health assessment
 
 ---
 
-## Slide 20: Change Roadmap
+## Slide 15: AI Transformation Roadmap
 
-**Visual:** Timeline with phases
+**Visual:** Phased transformation timeline
+
+**AI Change Management Roadmap:**
 
 ```
-Phase 1: Prepare          Phase 2: Implement       Phase 3: Sustain
-(Month 1-3)               (Month 4-9)              (Month 10-18)
-───────────────────────────────────────────────────────────────────→
+Phase 1: FOUNDATION        Phase 2: EXPANSION         Phase 3: OPTIMIZATION
+(Months 1-6)               (Months 7-12)              (Months 13-18)
+─────────────────          ─────────────────          ──────────────────
 
-• Stakeholder analysis    • Pilot execution        • Continuous improvement
-• Communication launch    • Training delivery      • Reinforcement
-• Training development    • Full rollout           • Coaching
-• Change network setup    • Adoption tracking      • Benefits realization
-• Readiness assessment    • Issue resolution       • Knowledge transfer
+CHANGES:                   CHANGES:                   CHANGES:
+• ML forecasting pilot     • ML all SKUs              • LLM tools
+• AI safety stock pilot    • AI scenario generation   • Autonomous planning
+• Exception-based reviews  • AI executive summaries   • Continuous AI
 
-Key Milestones:
-├── M1: Program launch
-├── M3: Pilot start
-├── M6: Full rollout
-├── M9: Adoption milestone
-└── M18: Sustainability confirmed
+TRAINING:                  TRAINING:                  TRAINING:
+• AI fundamentals          • Advanced AI tools        • AI governance
+• ML interpretation        • Scenario analysis        • New capability
+
+ADOPTION TARGET:           ADOPTION TARGET:           ADOPTION TARGET:
+• 50% of users             • 80% of users             • 95% of users
+
+     ▲                          ▲                          ▲
+  WE ARE                     SCALE                     OPTIMIZE
+   HERE                        UP                       & SUSTAIN
 ```
 
 ---
 
-## Slide 21: Success Measures
+## Slide 16: Next Steps & Actions
 
-**Visual:** Success criteria
-
-| Phase | Success Measure | Target | Actual |
-|-------|-----------------|--------|--------|
-| Prepare | Readiness score | >3.5/5 | |
-| Prepare | Communication reach | 100% | |
-| Implement | Training completion | 100% | |
-| Implement | Process compliance | >95% | |
-| Implement | Adoption score | >4.0/5 | |
-| Sustain | 6-month retention | >90% | |
-| Sustain | Performance KPIs | All green | |
-| Sustain | Engagement score | >4.0/5 | |
-
----
-
-## Slide 22: Next Steps
-
-**Visual:** Action list
+**Visual:** Action plan
 
 **Immediate Actions (Next 30 Days):**
 
 | # | Action | Owner | Due Date |
 |---|--------|-------|----------|
-| 1 | Finalize stakeholder analysis | [Name] | [Date] |
-| 2 | Launch communication campaign | [Name] | [Date] |
-| 3 | Establish change network | [Name] | [Date] |
-| 4 | Complete training materials | [Name] | [Date] |
-| 5 | Conduct readiness assessment | [Name] | [Date] |
+| 1 | Complete AI readiness assessment | [Name] | [Date] |
+| 2 | Identify AI change champions | [Name] | [Date] |
+| 3 | Launch AI awareness campaign | [Name] | [Date] |
+| 4 | Schedule first AI training cohort | [Name] | [Date] |
+| 5 | Set up adoption tracking dashboard | [Name] | [Date] |
 
-**Support Required:**
-- [Support item 1]
-- [Support item 2]
-
----
-
-## Slide 23: Appendix - Stakeholder Detail
-
-[Reference to Stakeholder_Analysis.csv]
-
----
-
-## Slide 24: Appendix - Communication Calendar
-
-[Reference to Communication_Plan.csv]
-
----
-
-## Slide 25: Appendix - Training Curriculum
-
-[Reference to Training_Curriculum.csv]
+**Key Success Factors:**
+1. Executive visible sponsorship of AI transformation
+2. Early wins to demonstrate AI value
+3. Continuous communication and trust building
+4. Training ahead of AI deployment
+5. Champion network activation
 
 ---
 
 ## Design Guidelines
 
-**Color Coding:**
-- Green: On track, positive
-- Yellow: At risk, attention needed
-- Red: Off track, action required
+**Change Visual Indicators:**
+- Trust journey progression
+- Adoption rate tracking
+- Resistance indicators
+- Success stories
 
-**Key Visuals:**
-- ADKAR model diagram
-- Stakeholder matrix
-- Change roadmap timeline
-- Adoption dashboards
-- Risk matrix
+**Charts to Include:**
+- Stakeholder impact map
+- Adoption trend lines
+- Training completion
+- Change readiness radar
 
-**Data Sources:**
-- Stakeholder_Analysis.csv
-- Communication_Plan.csv
-- Training_Curriculum.csv
-- Change_Readiness_Assessment.csv
-- Adoption_Tracker.csv
+**Key Messages:**
+- "AI is your copilot, not your replacement"
+- "Trust is built through transparency"
+- "We're transforming how we work together"

@@ -1,417 +1,367 @@
-# Quarterly IBP Performance Review Deck
+# AI-Powered Quarterly IBP Performance Review Deck
 ## PowerPoint Presentation Template
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** IBP Performance Review
+**Title:** AI-Powered IBP Performance Review
 **Subtitle:** [Quarter] [Year] Assessment
 **Meeting Date:** [Date]
 **Prepared by:** [IBP Process Owner]
+**AI Analysis Generated:** [Timestamp]
 
 ---
 
 ## Slide 2: Agenda
 
-1. Executive Summary (10 min)
-2. Business KPI Performance (20 min)
-3. Process KPI Performance (20 min)
-4. Process Health Assessment (15 min)
-5. Benchmark Comparison (15 min)
-6. Improvement Priorities (15 min)
-7. Next Quarter Focus (10 min)
+1. AI Executive Summary & Health Score (10 min)
+2. AI-Analyzed Business KPI Performance (20 min)
+3. ML Model Performance & Accuracy (15 min)
+4. Process KPI Performance (15 min)
+5. AI Process Health Assessment (15 min)
+6. AI Benchmark Comparison (15 min)
+7. AI-Prioritized Improvement Actions (15 min)
 
 **Total Duration:** 105 minutes
 
 ---
 
-## Slide 3: Executive Summary
+## Slide 3: AI Executive Summary
 
-**Visual:** Balanced scorecard summary
+**Visual:** AI-generated scorecard summary
 
-| Perspective | Score | Target | Status | vs Prior Qtr |
-|-------------|-------|--------|--------|--------------|
-| Customer | X.X/5 | 4.0 | [G/Y/R] | +X.X |
-| Financial | X.X/5 | 4.0 | [G/Y/R] | +X.X |
-| Process | X.X/5 | 4.0 | [G/Y/R] | +X.X |
-| Enabler | X.X/5 | 4.0 | [G/Y/R] | +X.X |
-| **Overall IBP Score** | **X.X/5** | **4.0** | **[G/Y/R]** | **+X.X** |
+**AI-Generated Business Health Score:** XX/100
 
-**Key Achievements:**
-1. [Achievement 1]
-2. [Achievement 2]
+| Perspective | Score | Target | AI Status | vs Prior Qtr | AI Trend |
+|-------------|-------|--------|-----------|--------------|----------|
+| Customer Service | X.X/5 | 4.0 | [G/Y/R] | +X.X | ↑/↓/→ |
+| Financial Performance | X.X/5 | 4.0 | [G/Y/R] | +X.X | ↑/↓/→ |
+| Process Excellence | X.X/5 | 4.0 | [G/Y/R] | +X.X | ↑/↓/→ |
+| AI Enablement | X.X/5 | 4.0 | [G/Y/R] | +X.X | ↑/↓/→ |
+| **Overall IBP Score** | **X.X/5** | **4.0** | **[G/Y/R]** | **+X.X** | |
 
-**Key Concerns:**
-1. [Concern 1]
-2. [Concern 2]
+**AI-Generated Summary:**
+> "[LLM-generated executive summary highlighting key achievements, concerns, and recommended actions for next quarter]"
 
 ---
 
-## Slide 4: IBP Balanced Scorecard
+## Slide 4: AI Model Performance Dashboard
 
-**Visual:** Four-quadrant scorecard
+**Visual:** ML model health and accuracy tracking
+
+**ML Forecasting Model Performance:**
+
+| Model | WMAPE | Bias | vs Target | Trend | Status |
+|-------|-------|------|-----------|-------|--------|
+| Demand ML Ensemble | XX% | ±X% | ✓ <15% | ↑ Improving | 🟢 |
+| NPI Success Predictor | XX% | N/A | ✓ >80% | → Stable | 🟢 |
+| Sleeve Volume Model | XX% | ±X% | ✓ <12% | ↑ Improving | 🟢 |
+| Supplier Risk Scorer | XX% | N/A | ⚠️ >85% | ↓ Drift | 🟡 |
+| Win Probability | XX% | N/A | ✓ >75% | → Stable | 🟢 |
+
+**AI Value Delivered This Quarter:**
+| Metric | Traditional | With AI | Improvement |
+|--------|-------------|---------|-------------|
+| Forecast Accuracy | XX% | XX% | +XX pts |
+| Planning Cycle | X weeks | X days | -XX% |
+| Manual Effort | XX hrs/mo | XX hrs/mo | -XX% |
+| Scenario Coverage | X | XX+ | +XX% |
+
+---
+
+## Slide 5: Business KPI Performance - AI Analysis
+
+**Visual:** AI-analyzed KPI dashboard
+
+**Financial KPIs (AI-Monitored):**
+
+| KPI | Q Actual | Q Target | YTD | YTD Target | AI Assessment |
+|-----|----------|----------|-----|------------|---------------|
+| Revenue vs Plan | XX% | 100% | XX% | 100% | [AI insight] |
+| Gross Margin vs Plan | XX% | 100% | XX% | 100% | [AI insight] |
+| EBITDA vs Plan | XX% | 100% | XX% | 100% | [AI insight] |
+
+**Service KPIs (AI-Monitored):**
+
+| KPI | Q Actual | Q Target | Trend | AI Root Cause |
+|-----|----------|----------|-------|---------------|
+| OTIF | XX% | 95% | ↑/↓/→ | [AI explanation] |
+| Fill Rate | XX% | 98% | ↑/↓/→ | [AI explanation] |
+| Lead Time | XX days | XX days | ↑/↓/→ | [AI explanation] |
+
+---
+
+## Slide 6: ML Forecast Accuracy Deep Dive
+
+**Visual:** Accuracy trends and analysis
+
+**Quarterly Forecast Accuracy Trend:**
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                   IBP BALANCED SCORECARD                     │
-├──────────────────────────┬──────────────────────────────────┤
-│      CUSTOMER            │         FINANCIAL                │
-│  ┌─────────────────────┐ │  ┌─────────────────────────────┐ │
-│  │ OTIF: XX% [G]       │ │  │ Revenue vs Plan: +X% [G]   │ │
-│  │ Perfect Order: XX%  │ │  │ Gross Margin: XX.X% [Y]    │ │
-│  │ Lead Time: X days   │ │  │ Working Capital: XX% [G]   │ │
-│  │ CSAT: X.X/5 [G]     │ │  │ Cost to Serve: $XX [Y]     │ │
-│  └─────────────────────┘ │  └─────────────────────────────┘ │
-├──────────────────────────┼──────────────────────────────────┤
-│      PROCESS             │         ENABLER                  │
-│  ┌─────────────────────┐ │  ┌─────────────────────────────┐ │
-│  │ Forecast Acc: XX%   │ │  │ Meeting Effectiveness: X.X │ │
-│  │ Bias: X% [G]        │ │  │ Decision Cycle: XX hrs [G] │ │
-│  │ Plan Adherence: XX% │ │  │ Action Completion: XX% [Y] │ │
-│  │ Stability: X% [G]   │ │  │ Data Quality: XX% [G]      │ │
-│  └─────────────────────┘ │  └─────────────────────────────┘ │
-└──────────────────────────┴──────────────────────────────────┘
+FORECAST ACCURACY EVOLUTION (WMAPE)
+
+35% │                            Target: <15%
+30% │ Traditional
+25% │ ●────●
+20% │      ●────●
+15% │           ●────●  ML Introduction
+10% │                ●────●────●────●  AI Ensemble
+ 5% │                               ●──●
+    └─────────────────────────────────────────
+      Q1    Q2    Q3    Q4    Q1    Q2    Q3    Q4
+     Last Year                 This Year
+
+AI IMPACT: +XX percentage point improvement
+```
+
+**AI Model Contribution:**
+| Model Type | Weight | Accuracy | Value Add |
+|------------|--------|----------|-----------|
+| XGBoost | XX% | XX% | +X pts |
+| LightGBM | XX% | XX% | +X pts |
+| Prophet | XX% | XX% | +X pts |
+| LSTM | XX% | XX% | +X pts |
+| Ensemble | 100% | XX% | Best pick |
+
+---
+
+## Slide 7: Bias Detection & Auto-Correction Results
+
+**Visual:** Bias trend with AI intervention
+
+**Quarterly Bias Performance:**
+
+| Period | Bias Before AI | AI Detected | Auto-Corrected | Residual Bias |
+|--------|----------------|-------------|----------------|---------------|
+| Q1 | +X% | ✓ | ✓ | ±X% |
+| Q2 | -X% | ✓ | ✓ | ±X% |
+| Q3 | +X% | ✓ | ✓ | ±X% |
+| **Average** | **±X%** | | | **±X%** |
+
+**AI Bias Detection Stats:**
+- Bias patterns detected: XX instances
+- Auto-corrections applied: XX (XX% of detections)
+- Manual interventions required: XX
+- Bias reduction achieved: -XX%
+
+---
+
+## Slide 8: Process KPI Performance
+
+**Visual:** IBP process health metrics
+
+**Process Efficiency KPIs (AI-Monitored):**
+
+| KPI | Q Actual | Q Target | Status | AI Analysis |
+|-----|----------|----------|--------|-------------|
+| Planning Cycle Time | X days | <5 days | [G/Y/R] | [AI insight] |
+| Data Timeliness | XX% | >95% | [G/Y/R] | [AI insight] |
+| Meeting Adherence | XX% | 100% | [G/Y/R] | [AI insight] |
+| Decision Cycle Time | X days | <3 days | [G/Y/R] | [AI insight] |
+
+**Process Quality KPIs:**
+
+| KPI | Q Actual | Q Target | Status | AI Analysis |
+|-----|----------|----------|--------|-------------|
+| Forecast Accuracy | XX% | >85% | [G/Y/R] | [AI insight] |
+| Plan Stability | XX% | <10% churn | [G/Y/R] | [AI insight] |
+| Assumption Validation | XX% | >90% | [G/Y/R] | [AI insight] |
+| Action Completion | XX% | >90% | [G/Y/R] | [AI insight] |
+
+---
+
+## Slide 9: AI Automation Coverage
+
+**Visual:** Automation progress tracking
+
+**AI Automation by IBP Step:**
+
+| IBP Step | Tasks | Automated | Human | Coverage | Target |
+|----------|-------|-----------|-------|----------|--------|
+| Data Collection | XX | XX | XX | XX% | 95% |
+| Statistical Forecast | XX | XX | XX | XX% | 100% |
+| Demand Sensing | XX | XX | XX | XX% | 90% |
+| Safety Stock | XX | XX | XX | XX% | 100% |
+| Scenario Analysis | XX | XX | XX | XX% | 95% |
+| Executive Summary | XX | XX | XX | XX% | 80% |
+| Action Tracking | XX | XX | XX | XX% | 90% |
+| **TOTAL** | **XX** | **XX** | **XX** | **XX%** | **90%** |
+
+**Automation Progress:**
+```
+Target: ████████████████████░░ 90%
+Actual: ████████████████░░░░░░ 75%
+Gap:    ░░░░░░░░░░░░░░░░████░░ 15%
 ```
 
 ---
 
-## Slide 5: Customer Performance Trend
+## Slide 10: AI Process Health Assessment
 
-**Visual:** Line chart showing quarterly trends
+**Visual:** AI-generated process health report
 
-| KPI | Q-4 | Q-3 | Q-2 | Q-1 | Current | Target | Trend |
-|-----|-----|-----|-----|-----|---------|--------|-------|
-| OTIF % | XX | XX | XX | XX | XX | 95 | ↑ |
-| Perfect Order % | XX | XX | XX | XX | XX | 92 | ↑ |
-| Lead Time (days) | XX | XX | XX | XX | XX | 8 | ↓ |
-| Customer Sat | X.X | X.X | X.X | X.X | X.X | 4.3 | ↑ |
+**AI Process Health Analysis:**
 
-**Commentary:**
-- OTIF improved X% driven by [reason]
-- Lead time reduction achieved through [action]
-- Customer satisfaction trending positively
+| Dimension | Score | Issues Detected | AI Recommendations |
+|-----------|-------|-----------------|-------------------|
+| Data Quality | XX/100 | [X issues] | [AI suggestions] |
+| Model Performance | XX/100 | [X issues] | [AI suggestions] |
+| User Adoption | XX/100 | [X issues] | [AI suggestions] |
+| Integration | XX/100 | [X issues] | [AI suggestions] |
+| Governance | XX/100 | [X issues] | [AI suggestions] |
 
----
-
-## Slide 6: Financial Performance Trend
-
-**Visual:** Line chart showing quarterly trends
-
-| KPI | Q-4 | Q-3 | Q-2 | Q-1 | Current | Target | Trend |
-|-----|-----|-----|-----|-----|---------|--------|-------|
-| Revenue vs Plan % | XX | XX | XX | XX | XX | ±3% | ↑ |
-| Gross Margin % | XX | XX | XX | XX | XX | XX% | → |
-| Inventory Turns | X.X | X.X | X.X | X.X | X.X | X.X | ↑ |
-| Working Capital % | XX | XX | XX | XX | XX | XX% | ↓ |
-
-**Commentary:**
-- Revenue achievement improved due to [reason]
-- Inventory turns showing steady improvement
-- Working capital optimization on track
+**AI-Detected Process Anomalies:**
+1. [Anomaly 1]: [AI description and impact]
+2. [Anomaly 2]: [AI description and impact]
+3. [Anomaly 3]: [AI description and impact]
 
 ---
 
-## Slide 7: Process Performance Trend
+## Slide 11: Machine Pipeline & Sleeve Performance
 
-**Visual:** Line chart showing quarterly trends
+**Visual:** Equipment + Consumables KPIs
 
-| KPI | Q-4 | Q-3 | Q-2 | Q-1 | Current | Target | Trend |
-|-----|-----|-----|-----|-----|---------|--------|-------|
-| Forecast Accuracy % | XX | XX | XX | XX | XX | 70% | ↑ |
-| Forecast Bias % | X | X | X | X | X | ±3% | → |
-| Demand Plan Adherence % | XX | XX | XX | XX | XX | 90% | ↑ |
-| Supply Plan Adherence % | XX | XX | XX | XX | XX | 95% | ↑ |
-| Plan Stability % | XX | XX | XX | XX | XX | <10% | ↓ |
+**Machine Business KPIs:**
 
-**Commentary:**
-- Forecast accuracy improved through [action]
-- Bias remains within control limits
-- Plan stability improving month-over-month
+| KPI | Q Actual | Q Target | Status | AI Analysis |
+|-----|----------|----------|--------|-------------|
+| Pipeline Value | $X.XM | $X.XM | [G/Y/R] | [AI insight] |
+| Win Rate | XX% | XX% | [G/Y/R] | [AI insight] |
+| Deployment On-Time | XX% | >90% | [G/Y/R] | [AI insight] |
+| Sleeve Forecast Accuracy | XX% | >90% | [G/Y/R] | [AI insight] |
 
----
+**Sleeve Revenue KPIs:**
 
-## Slide 8: Forecast Accuracy Deep Dive
-
-**Visual:** Accuracy breakdown charts
-
-**By Product Family:**
-
-| Family | Q Accuracy | vs Target | vs Prior Q | Root Cause |
-|--------|------------|-----------|------------|------------|
-| Family A | XX% | +X% | +X% | [N/A or root cause] |
-| Family B | XX% | -X% | +X% | [Root cause] |
-| Family C | XX% | +X% | -X% | [Root cause] |
-| Family D | XX% | -X% | -X% | [Root cause and action] |
-
-**By Region:**
-
-| Region | Q Accuracy | vs Target | vs Prior Q |
-|--------|------------|-----------|------------|
-| NA | XX% | +X% | +X% |
-| Europe | XX% | -X% | +X% |
-| APAC | XX% | +X% | -X% |
+| Source | Revenue | vs Target | Growth | AI Forecast Next Q |
+|--------|---------|-----------|--------|-------------------|
+| Installed Base | $XX.XM | +X% | +X% YoY | $XX.XM |
+| New Machines | $X.XM | +X% | +XX% YoY | $X.XM |
+| **Total Sleeve** | **$XX.XM** | **+X%** | **+X%** | **$XX.XM** |
 
 ---
 
-## Slide 9: Value-Added Forecasting Analysis
+## Slide 12: AI Benchmark Comparison
 
-**Visual:** Statistical vs consensus comparison
+**Visual:** Industry benchmark comparison
 
-```
-VALUE-ADDED FORECAST ASSESSMENT
+**IBP Performance vs AI-Enabled Benchmarks:**
 
-Statistical Baseline Accuracy:    XX%
-Consensus Forecast Accuracy:      XX%
-──────────────────────────────────────
-Value Added:                      +X%
+| Metric | Our Performance | Industry Avg | Best-in-Class | Gap to Best |
+|--------|-----------------|--------------|---------------|-------------|
+| Forecast Accuracy | XX% | XX% | >90% | -XX pts |
+| Planning Cycle | X days | X days | <3 days | -X days |
+| Automation Rate | XX% | XX% | >85% | -XX pts |
+| AI Model Accuracy | XX% | XX% | >92% | -XX pts |
+| Exception-Based Review | XX% | XX% | >80% | -XX pts |
 
-By Function:
-├── Sales Input:                  +X%
-├── Marketing Input:              +X%
-├── Customer Collaboration:       +X%
-└── Product Management:           +X%
-
-Target Value Add: >10%
-Status: [G/Y/R]
-```
-
-**Insights:**
-- [Function] providing highest value-add
-- [Function] needs improvement in overlay quality
+**AI Benchmark Analysis:**
+> "[AI-generated comparison highlighting strengths, gaps, and prioritized improvement opportunities]"
 
 ---
 
-## Slide 10: Enabler Performance Trend
+## Slide 13: AI-Prioritized Improvement Actions
 
-**Visual:** Enabler KPI trends
+**Visual:** AI-ranked improvement roadmap
 
-| KPI | Q-4 | Q-3 | Q-2 | Q-1 | Current | Target | Trend |
-|-----|-----|-----|-----|-----|---------|--------|-------|
-| Meeting Effectiveness | X.X | X.X | X.X | X.X | X.X | 4.0 | ↑ |
-| Decision Cycle (hrs) | XX | XX | XX | XX | XX | <48 | ↓ |
-| Action Completion % | XX | XX | XX | XX | XX | 90% | ↑ |
-| Data Quality % | XX | XX | XX | XX | XX | 95% | ↑ |
-| Process Compliance % | XX | XX | XX | XX | XX | 100% | → |
+**AI-Recommended Improvement Priorities:**
 
-**Commentary:**
-- Meeting effectiveness improved through [action]
-- Decision cycle time reduced by [X] hours
-- Data quality initiatives showing results
+| Priority | Initiative | Current | Target | Impact | Effort | AI Score |
+|----------|------------|---------|--------|--------|--------|----------|
+| 1 | [Initiative A] | XX% | XX% | High | Medium | 92/100 |
+| 2 | [Initiative B] | XX% | XX% | High | Low | 88/100 |
+| 3 | [Initiative C] | XX% | XX% | Medium | Medium | 78/100 |
+| 4 | [Initiative D] | XX% | XX% | Medium | High | 65/100 |
 
----
-
-## Slide 11: Process Health Dashboard
-
-**Visual:** Health indicators
-
-| Process Element | Health Score | Issues | Actions |
-|-----------------|--------------|--------|---------|
-| Product Review | [G/Y/R] | [Issues if any] | [Actions if any] |
-| Demand Review | [G/Y/R] | [Issues if any] | [Actions if any] |
-| Supply Review | [G/Y/R] | [Issues if any] | [Actions if any] |
-| Financial Review | [G/Y/R] | [Issues if any] | [Actions if any] |
-| Executive IBP | [G/Y/R] | [Issues if any] | [Actions if any] |
-
-**Overall Process Health:** [G/Y/R]
-
-**Health Criteria:**
-- Green: All meetings held, KPIs on target, high engagement
-- Yellow: Minor issues, 1-2 KPIs off target
-- Red: Significant issues, multiple KPIs off target
+**AI Priority Scoring Factors:**
+- Business impact (40% weight)
+- Implementation effort (25% weight)
+- Strategic alignment (20% weight)
+- Quick win potential (15% weight)
 
 ---
 
-## Slide 12: Meeting Effectiveness Analysis
+## Slide 14: Quarterly Action Review
 
-**Visual:** Meeting scorecard
+**Visual:** AI-tracked action completion
 
-| Meeting | Attendance | Preparation | Decision Quality | Effectiveness |
-|---------|------------|-------------|------------------|---------------|
-| Product Review | XX% | X.X/5 | X.X/5 | X.X/5 |
-| Demand Review | XX% | X.X/5 | X.X/5 | X.X/5 |
-| Supply Review | XX% | X.X/5 | X.X/5 | X.X/5 |
-| Financial Review | XX% | X.X/5 | X.X/5 | X.X/5 |
-| Executive IBP | XX% | X.X/5 | X.X/5 | X.X/5 |
+**Prior Quarter Actions - AI Status:**
 
-**Key Observations:**
-- [Observation about meeting quality]
-- [Area for improvement]
+| # | Action | Owner | Target | AI Status | Impact Achieved |
+|---|--------|-------|--------|-----------|-----------------|
+| 1 | [Action 1] | [Name] | [Date] | ✅ Complete | +$X.XM |
+| 2 | [Action 2] | [Name] | [Date] | ✅ Complete | +XX% accuracy |
+| 3 | [Action 3] | [Name] | [Date] | ⚠️ Partial | Ongoing |
+| 4 | [Action 4] | [Name] | [Date] | 🔴 Not Started | At risk |
 
----
-
-## Slide 13: Industry Benchmark Comparison
-
-**Visual:** Benchmark comparison chart
-
-| KPI | Our Performance | Industry Median | Best in Class | Gap to Best |
-|-----|-----------------|-----------------|---------------|-------------|
-| Forecast Accuracy | XX% | XX% | XX% | X% |
-| OTIF | XX% | XX% | XX% | X% |
-| Inventory Turns | X.X | X.X | X.X | X.X |
-| Perfect Order | XX% | XX% | XX% | X% |
-| Plan Stability | X% | X% | X% | X% |
-
-**Benchmark Assessment:**
-- Above median: [X] KPIs
-- At median: [X] KPIs
-- Below median: [X] KPIs
-
-**Priority Gaps:** [List top gaps to address]
+**AI Action Analytics:**
+- Actions completed: XX/XX (XX%)
+- Average completion time: X.X days vs target X days
+- Impact delivered: $X.XM (XX% of projected)
+- Carryover to next quarter: X actions
 
 ---
 
-## Slide 14: Maturity Progress
+## Slide 15: Next Quarter Focus - AI Recommendations
 
-**Visual:** Maturity radar chart
+**Visual:** AI-generated Q+1 priorities
 
-```
-IBP MATURITY ASSESSMENT
+**AI-Recommended Next Quarter Focus:**
 
-                    Process
-                       5
-                       │
-                       │
-        People ────────┼──────── Technology
-                       │
-                       │
-                       1
-                   Performance
+| Area | Focus | Target | Owner | AI Rationale |
+|------|-------|--------|-------|--------------|
+| Demand | [Focus area] | XX% improvement | [Name] | [AI reasoning] |
+| Supply | [Focus area] | XX% improvement | [Name] | [AI reasoning] |
+| AI/ML | [Focus area] | XX% improvement | [Name] | [AI reasoning] |
+| Process | [Focus area] | XX% improvement | [Name] | [AI reasoning] |
 
-Current Score: X.X (Level X)
-Target Score: X.X (Level X)
-Progress: +X.X vs prior assessment
-```
+**AI Predicted Challenges:**
+1. [Challenge 1]: [AI mitigation suggestion]
+2. [Challenge 2]: [AI mitigation suggestion]
 
-**Maturity by Dimension:**
-
-| Dimension | Current | Target | Gap |
-|-----------|---------|--------|-----|
-| Process | X.X | X.X | X.X |
-| People | X.X | X.X | X.X |
-| Technology | X.X | X.X | X.X |
-| Performance | X.X | X.X | X.X |
+**AI Predicted Opportunities:**
+1. [Opportunity 1]: [AI recommended action]
+2. [Opportunity 2]: [AI recommended action]
 
 ---
 
-## Slide 15: Improvement Initiatives Status
+## Slide 16: AI Model Improvement Roadmap
 
-**Visual:** Initiative tracker
+**Visual:** ML model enhancement plan
 
-| Initiative | Owner | Target | Status | Progress |
-|------------|-------|--------|--------|----------|
-| [Initiative 1] | [Name] | [Target] | [G/Y/R] | XX% |
-| [Initiative 2] | [Name] | [Target] | [G/Y/R] | XX% |
-| [Initiative 3] | [Name] | [Target] | [G/Y/R] | XX% |
-| [Initiative 4] | [Name] | [Target] | [G/Y/R] | XX% |
+**Next Quarter AI/ML Improvements:**
 
-**Completed This Quarter:**
-- [Initiative completed and outcome]
+| Model | Current State | Enhancement | Expected Impact |
+|-------|---------------|-------------|-----------------|
+| Demand Ensemble | v2.3 | Add demand sensing | +3% accuracy |
+| Safety Stock | Rule-based | ML optimization | -15% inventory |
+| NPI Prediction | v1.5 | More features | +5% accuracy |
+| Scenario Engine | 50 scenarios | 100+ scenarios | Better coverage |
 
-**New Initiatives Added:**
-- [New initiative and rationale]
-
----
-
-## Slide 16: Root Cause Analysis Summary
-
-**Visual:** Pareto chart of issues
-
-**Top Issues Impacting Performance:**
-
-| Rank | Issue | Frequency | Impact | Root Cause | Corrective Action |
-|------|-------|-----------|--------|------------|-------------------|
-| 1 | [Issue] | XX% | High | [Root cause] | [Action] |
-| 2 | [Issue] | XX% | Medium | [Root cause] | [Action] |
-| 3 | [Issue] | XX% | Medium | [Root cause] | [Action] |
-| 4 | [Issue] | XX% | Low | [Root cause] | [Action] |
-
-**Systemic Issues Identified:**
-- [Systemic issue and planned response]
-
----
-
-## Slide 17: Next Quarter Priorities
-
-**Visual:** Priority matrix
-
-**Priority 1: [Title]**
-- Objective: [Clear objective]
-- Target: [Measurable target]
-- Owner: [Name]
-- Key Actions: [List]
-
-**Priority 2: [Title]**
-- Objective: [Clear objective]
-- Target: [Measurable target]
-- Owner: [Name]
-- Key Actions: [List]
-
-**Priority 3: [Title]**
-- Objective: [Clear objective]
-- Target: [Measurable target]
-- Owner: [Name]
-- Key Actions: [List]
-
----
-
-## Slide 18: KPI Targets Next Quarter
-
-**Visual:** Target table
-
-| KPI | Current | Q+1 Target | Stretch Target | Key Driver |
-|-----|---------|------------|----------------|------------|
-| Forecast Accuracy | XX% | XX% | XX% | [Driver] |
-| OTIF | XX% | XX% | XX% | [Driver] |
-| Bias | X% | X% | X% | [Driver] |
-| Inventory Turns | X.X | X.X | X.X | [Driver] |
-| Meeting Effectiveness | X.X | X.X | X.X | [Driver] |
-
----
-
-## Slide 19: Actions & Commitments
-
-**Visual:** Action log
-
-**Actions from This Review:**
-
-| # | Action | Owner | Due Date | Priority |
-|---|--------|-------|----------|----------|
-| 1 | [Action] | [Name] | [Date] | High |
-| 2 | [Action] | [Name] | [Date] | High |
-| 3 | [Action] | [Name] | [Date] | Medium |
-| 4 | [Action] | [Name] | [Date] | Medium |
-
-**Next Performance Review:** [Date]
-
----
-
-## Slide 20: Appendix - Full KPI Detail
-
-[Reference to IBP_KPI_Dashboard.csv]
+**AI Capability Expansion:**
+- [ ] Deploy LLM executive summary
+- [ ] Launch root cause bot
+- [ ] Implement action item AI
+- [ ] Enable natural language queries
 
 ---
 
 ## Design Guidelines
 
-**Color Coding:**
-- Green: ≥Target
-- Yellow: Within 10% of target
-- Red: >10% below target
+**AI Visual Indicators:**
+- 🤖 AI-generated insights
+- Model accuracy tracking
+- Automation coverage charts
+- Trend indicators
 
-**Trend Indicators:**
-- ↑ Improving
-- → Stable
-- ↓ Declining
-
-**Charts:**
-- Balanced scorecard quadrants
-- Trend line charts
-- Benchmark comparison bars
-- Maturity radar chart
+**Charts to Include:**
+- Accuracy trend lines
+- Automation progress bars
+- Benchmark comparisons
+- Model performance radar
 
 **Data Sources:**
-- IBP_KPI_Dashboard.csv
-- Balanced_Scorecard.csv
-- Process_Health_Metrics.csv
-- Benchmark_Comparison.csv
+- IBP_Performance_Tracker.py
+- ML_Model_Monitor.py
+- Automation_Coverage_Report.py
+- Benchmark_Comparator.py

@@ -1,437 +1,490 @@
-# Monthly Supply Review Deck
+# AI-Powered Monthly Supply Review Deck
 ## PowerPoint Presentation Template
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** Supply Review
+**Title:** AI-Powered Supply Review
 **Subtitle:** [Month Year] IBP Cycle
 **Meeting Date:** [Date]
 **Prepared by:** [Supply Planning Team]
+**AI Optimization Last Run:** [Timestamp]
 
 ---
 
 ## Slide 2: Agenda
 
-1. Supply Performance Review (15 min)
-2. Demand-Supply Balance Analysis (20 min)
-3. Capacity & Resource Review (15 min)
-4. Inventory Position & Strategy (15 min)
-5. Scenario Planning & Recommendations (15 min)
-6. Escalations & Decisions (10 min)
+1. AI Supply Performance Dashboard (10 min)
+2. ML Demand Input Summary (10 min)
+3. AI Capacity Analysis & Optimization (15 min)
+4. Inventory Optimization (ML-Driven) (20 min)
+5. AI Supplier Risk Assessment (15 min)
+6. Constraint Resolution & AI Allocation (15 min)
+7. Scenarios & AI Recommendations (10 min)
+8. Escalations & Actions (10 min)
 
 **Total Duration:** 90 minutes
 
 ---
 
-## Slide 3: Executive Summary
+## Slide 3: AI Executive Summary
 
-**Key Messages This Month:**
+**ML-Generated Supply Insights:**
 
-| Area | Status | Key Point |
-|------|--------|-----------|
-| Supply Plan Adherence | [G/Y/R] | [One-line summary] |
-| Capacity Utilization | [G/Y/R] | [One-line summary] |
-| Inventory Health | [G/Y/R] | [One-line summary] |
-| Service Level (OTIF) | [G/Y/R] | [One-line summary] |
+| Area | Status | AI Assessment | Confidence |
+|------|--------|---------------|------------|
+| Capacity Utilization | [G/Y/R] | [AI insight] | XX% |
+| Inventory Position | [G/Y/R] | [AI insight] | XX% |
+| Service Level | [G/Y/R] | [AI insight] | XX% |
+| Supplier Risk | [G/Y/R] | [AI insight] | XX% |
+| Sleeve Readiness | [G/Y/R] | [AI insight] | XX% |
 
-**Supply Response to Demand:**
-- Demand change vs prior month: [+X% / -X%]
-- Supply plan response: [Fully matched / Gap of X%]
-- Key constraints: [List if any]
+**AI-Generated Summary:**
+> "[LLM-generated supply outlook with key constraints, risks, and recommended actions]"
 
-**Critical Decisions Required:**
-1. [Decision 1]
-2. [Decision 2]
-
----
-
-## Slide 4: Supply Performance Dashboard
-
-**Visual:** KPI scorecard
-
-| Metric | Actual | Target | Status | Trend |
-|--------|--------|--------|--------|-------|
-| Production Plan Adherence | XX% | >95% | [G/Y/R] | ↑/↓/→ |
-| Capacity Utilization | XX% | 75-85% | [G/Y/R] | ↑/↓/→ |
-| OTIF (On-Time In-Full) | XX% | >95% | [G/Y/R] | ↑/↓/→ |
-| Days of Supply | XX | XX target | [G/Y/R] | ↑/↓/→ |
-| Inventory Turns | X.X | X.X | [G/Y/R] | ↑/↓/→ |
-| Supplier OTD | XX% | >95% | [G/Y/R] | ↑/↓/→ |
+**Critical AI Alerts:**
+1. [Capacity constraint flagged by AI]
+2. [Supplier risk detected by AI]
+3. [Inventory optimization opportunity]
 
 ---
 
-## Slide 5: Demand-Supply Balance Summary
+## Slide 4: AI Supply Performance Dashboard
 
-**Visual:** Supply-demand bridge chart
+**Visual:** AI-powered KPI gauges
 
+| Metric | Actual | Target | AI Status | Trend | AI Action |
+|--------|--------|--------|-----------|-------|-----------|
+| OTIF | XX% | >95% | [G/Y/R] | ↑/↓/→ | [None/Monitor/Act] |
+| Inventory Days | XX | XX | [G/Y/R] | ↑/↓/→ | [None/Monitor/Act] |
+| Capacity Util | XX% | 85% | [G/Y/R] | ↑/↓/→ | [None/Monitor/Act] |
+| Supplier OTD | XX% | >95% | [G/Y/R] | ↑/↓/→ | [None/Monitor/Act] |
+| Fill Rate | XX% | >98% | [G/Y/R] | ↑/↓/→ | [None/Monitor/Act] |
+
+**AI Performance Analysis:**
+> "[AI root cause for any metrics below target, with recommended actions]"
+
+---
+
+## Slide 5: ML Demand Input Summary
+
+**Visual:** Demand handoff from AI Demand Review
+
+**Consensus Demand Received:**
+
+| Period | Volume | Revenue | ML Confidence | Supply Response |
+|--------|--------|---------|---------------|-----------------|
+| M1 | XXK | $X.XM | 95% | ✓ Can meet |
+| M2 | XXK | $X.XM | 92% | ✓ Can meet |
+| M3 | XXK | $X.XM | 89% | ⚠️ Constraint |
+| Q2 | XXK | $X.XM | 82% | ⚠️ Review needed |
+
+**AI-Flagged Demand Changes:**
+- [+XX%] Family A surge - AI recommends capacity review
+- [-XX%] Family B decline - AI recommends inventory reduction
+- [NEW] Machine deployments driving +$X.XM sleeve demand
+
+**Machine-Driven Sleeve Demand Alert:**
+- XX machines deploying in next 90 days
+- Sleeve safety stock trigger: [Date]
+- AI recommendation: [Pre-position inventory]
+
+---
+
+## Slide 6: AI Capacity Analysis
+
+**Visual:** AI-optimized capacity utilization
+
+**Capacity by Resource (AI-Analyzed):**
+
+| Resource | Available | Required | AI Utilization | Status | AI Solution |
+|----------|-----------|----------|----------------|--------|-------------|
+| Line 1 | XXK/mo | XXK/mo | 78% | ✓ OK | - |
+| Line 2 | XXK/mo | XXK/mo | 92% | ⚠️ High | Overtime +5% |
+| Line 3 | XXK/mo | XXK/mo | 105% | 🔴 Over | Shift to Line 1 |
+| Warehouse | XXK sqft | XXK sqft | 88% | ⚠️ Watch | - |
+
+**AI Capacity Optimizer Output:**
 ```
-DEMAND-SUPPLY BALANCE
-
-Consensus Demand (from Demand Review):    $XX.X M
-─────────────────────────────────────────────────
-Beginning Inventory                       $X.X M
-+ Planned Production                      $XX.X M
-+ Supplier Receipts                       $X.X M
-- Planned Shipments (=Demand)            -$XX.X M
-= Ending Inventory                        $X.X M
-─────────────────────────────────────────────────
-Supply Plan Coverage:                     XXX%
-
-Gap Analysis:
-- Unconstrained demand met:               XX%
-- Demand at risk (constraints):           $X.X M
-```
-
----
-
-## Slide 6: Demand-Supply Match by Family
-
-**Visual:** Heat map or bar chart
-
-| Product Family | Demand ($M) | Supply Plan ($M) | Gap ($M) | Gap % | Constraint | Status |
-|----------------|-------------|------------------|----------|-------|------------|--------|
-| Family A | $X.X | $X.X | $0.0 | 0% | None | [G] |
-| Family B | $X.X | $X.X | -$0.X | -X% | Capacity | [Y] |
-| Family C | $X.X | $X.X | $0.0 | 0% | None | [G] |
-| Family D | $X.X | $X.X | -$0.X | -X% | Material | [R] |
-| **Total** | **$XX.X** | **$XX.X** | **-$X.X** | **-X%** | | |
-
-**Key Gaps:**
-- [Family B]: Capacity constraint at [Work Center] - mitigation in progress
-- [Family D]: Material shortage from [Supplier] - ETA for resolution: [Date]
-
----
-
-## Slide 7: Capacity Utilization Overview
-
-**Visual:** Utilization chart by resource
-
-```
-CAPACITY UTILIZATION BY WORK CENTER
-
-Work Center A  [████████████████████░░] 85%   ← Optimal
-Work Center B  [██████████████████████] 92%   ← HIGH - Monitor
-Work Center C  [████████████████░░░░░░] 72%   ← Below optimal
-Work Center D  [██████████████████████] 98%   ← CONSTRAINED
-Work Center E  [████████████████████░░] 82%   ← Optimal
-
-Target Range: 75-85% (Optimal)
+CONSTRAINT DETECTED: Line 3 capacity exceeded by 5%
+AI SOLUTION: 
+  1. Shift 3K units to Line 1 (available capacity)
+  2. Add 8 hours overtime on Line 2
+  3. Net result: All demand met, cost +$XXK
+  
+AI CONFIDENCE: 94%
 ```
 
-**Utilization Summary:**
-- Under-utilized (<70%): X resources
-- Optimal (70-85%): X resources
-- High (85-90%): X resources
-- Constrained (>90%): X resources ← **Action required**
-
 ---
 
-## Slide 8: Capacity by Time Period
+## Slide 7: AI Capacity Optimization Solver
 
-**Visual:** Capacity timeline chart
+**Visual:** Optimization results
 
-| Period | Available Capacity | Required Capacity | Utilization | Gap | Status |
-|--------|-------------------|-------------------|-------------|-----|--------|
-| M1 | XXX hrs | XXX hrs | XX% | XX hrs | [G/Y/R] |
-| M2 | XXX hrs | XXX hrs | XX% | XX hrs | [G/Y/R] |
-| M3 | XXX hrs | XXX hrs | XX% | XX hrs | [G/Y/R] |
-| Q2 | XXX hrs | XXX hrs | XX% | XX hrs | [G/Y/R] |
-| H2 | XXX hrs | XXX hrs | XX% | XX hrs | [G/Y/R] |
-
-**Capacity Actions:**
-- M1-M2: [Action being taken to address gaps]
-- Q2 onwards: [Planned capacity additions/changes]
-
----
-
-## Slide 9: Bottleneck Analysis
-
-**Visual:** Constraint identification
-
-**Current Bottlenecks:**
-
-| Rank | Resource | Utilization | Constraint | Impact | Mitigation | Resolution ETA |
-|------|----------|-------------|------------|--------|------------|----------------|
-| 1 | [WC-D] | 98% | Equipment | $X.XM at risk | Overtime + outsource | [Date] |
-| 2 | [WC-B] | 92% | Labor | $X.XM at risk | Temp labor | [Date] |
-| 3 | [Supplier X] | N/A | Material | $X.XM at risk | Expedite | [Date] |
-
-**Bottleneck Resolution Plan:**
-1. [Immediate action]
-2. [Short-term action]
-3. [Long-term action]
-
----
-
-## Slide 10: Inventory Position
-
-**Visual:** Inventory dashboard
-
-| Metric | Current | Target | Variance | Trend |
-|--------|---------|--------|----------|-------|
-| Total Inventory ($M) | $XX.X | $XX.X | +$X.X | ↑/↓/→ |
-| Days of Supply | XX | XX | +X days | ↑/↓/→ |
-| Inventory Turns | X.X | X.X | -0.X | ↑/↓/→ |
-| Fill Rate | XX% | >98% | -X% | ↑/↓/→ |
-| SLOB % | X.X% | <3% | +X.X% | ↑/↓/→ |
-
-**Inventory by Category:**
-
-| Category | Value ($M) | % of Total | DOS | Target DOS | Status |
-|----------|------------|------------|-----|------------|--------|
-| Raw Material | $X.X | XX% | XX | XX | [G/Y/R] |
-| WIP | $X.X | XX% | XX | XX | [G/Y/R] |
-| Finished Goods | $X.X | XX% | XX | XX | [G/Y/R] |
-
----
-
-## Slide 11: Inventory Projection
-
-**Visual:** Inventory trend chart
+**AI Solver Objective: Minimize Total Cost While Meeting Service**
 
 ```
-INVENTORY PROJECTION (Days of Supply)
+OPTIMIZATION RESULTS
 
-      M-2   M-1   Current  M+1   M+2   M+3
-DOS:  XX    XX    XX       XX    XX    XX
-       ─────────────────────────────────────
-                              Target: XX days
+┌─────────────────────────────────────────────────────────────────┐
+│ OBJECTIVE: Minimize production + inventory + shortage costs     │
+│                                                                  │
+│ CONSTRAINTS:                                                     │
+│   • Capacity limits by line                                     │
+│   • Service level ≥ 95%                                         │
+│   • Overtime ≤ 20%                                              │
+│   • Lead time requirements                                       │
+│                                                                  │
+│ AI SOLUTION:                                                     │
+│   Regular production:    $XX.XM                                 │
+│   Overtime production:   $X.XM                                  │
+│   Inventory holding:     $X.XM                                  │
+│   Expected shortages:    $X.XM                                  │
+│   ─────────────────────────────                                 │
+│   TOTAL COST:            $XX.XM                                 │
+│                                                                  │
+│   vs Baseline (no optimization): -$X.XM savings (XX%)           │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-**Inventory Build/Reduction Plan:**
+---
 
-| Period | Action | Volume | Value ($M) | Reason |
-|--------|--------|--------|------------|--------|
-| M1 | Build | +XXK | +$X.X | Seasonal demand |
-| M2 | Hold | - | - | Demand coverage |
-| M3 | Reduce | -XXK | -$X.X | Post-peak reduction |
+## Slide 8: ML Safety Stock Optimization
+
+**Visual:** Dynamic safety stock dashboard
+
+**AI Safety Stock Calculation (Auto-Updated Daily):**
+
+```
+SAFETY STOCK FORMULA (ML-OPTIMIZED):
+
+SS = Z × √(LT × σD² + D² × σLT²)
+
+Where AI automatically calculates:
+├── Z = 1.65 (from 95% service level target)
+├── σD = Demand variability (ML-measured from 24 months)
+├── σLT = Lead time variability (measured from receipts)
+├── Updates: Daily
+└── Optimization: Balance service vs inventory cost
+```
+
+**Safety Stock by Product Family:**
+
+| Family | Current SS | AI Optimal SS | Change | Service Impact | Savings |
+|--------|------------|---------------|--------|----------------|---------|
+| Family A | XXK | XXK | -XX% | Maintains 95% | $XXK |
+| Family B | XXK | XXK | +XX% | Improves to 95% | -$XXK |
+| Family C | XXK | XXK | 0% | At target | $0 |
+| **Total** | **XXK** | **XXK** | **-XX%** | **95%** | **$XXK** |
 
 ---
 
-## Slide 12: Supplier Capacity Status
+## Slide 9: ML Inventory Optimization
 
-**Visual:** Supplier status summary
+**Visual:** Inventory health dashboard
 
-**Strategic Supplier Status:**
+**AI Inventory Analysis:**
 
-| Supplier | Material | Our Demand | Their Capacity | Gap | Risk | Status |
-|----------|----------|------------|----------------|-----|------|--------|
-| [Supp A] | [Mat 1] | XXX | XXX | 0 | Low | [G] |
-| [Supp B] | [Mat 2] | XXX | XXX | -XX | High | [R] |
-| [Supp C] | [Mat 3] | XXX | XXX | 0 | Med | [Y] |
+| Category | Current | AI Target | Variance | AI Action |
+|----------|---------|-----------|----------|-----------|
+| Raw Material | $X.XM | $X.XM | +X% | Reduce orders |
+| WIP | $X.XM | $X.XM | 0% | On target |
+| Finished Goods | $X.XM | $X.XM | +XX% | Promote/discount |
+| Safety Stock | $X.XM | $X.XM | +X% | Rebalance |
+| **Total** | **$X.XM** | **$X.XM** | **+X%** | **$X.XM reduction** |
 
-**Supplier Issues:**
-- [Supplier B]: [Issue description and mitigation]
-- [Supplier C]: [Issue description and mitigation]
+**AI Inventory Optimizer Recommendations:**
+1. Reduce Family A safety stock by XX% (over-stocked vs ML target)
+2. Increase Family B safety stock by XX% (under service target)
+3. Markdown $XXK excess FG inventory (>90 days, declining demand)
 
-**Supplier Lead Times:**
-- On target: X suppliers
-- Extended: X suppliers ← [Details]
-
----
-
-## Slide 13: Constraints Summary
-
-**Visual:** Constraint log summary
-
-**Active Constraints:**
-
-| ID | Category | Description | Impact ($K) | Duration | Owner | Status |
-|----|----------|-------------|-------------|----------|-------|--------|
-| C01 | Capacity | [Description] | $XXX | X weeks | [Name] | [Y] |
-| C02 | Material | [Description] | $XXX | X weeks | [Name] | [R] |
-| C03 | Quality | [Description] | $XXX | X days | [Name] | [G] |
-
-**Constraints Resolved This Month:** X
-**New Constraints This Month:** X
-**Net Change:** [+/-X]
+**Machine Deployment Sleeve Pre-Positioning:**
+- Required sleeve inventory for new machines: $X.XM
+- AI recommendation: Pre-position by [Date]
 
 ---
 
-## Slide 14: Scenario Analysis
+## Slide 10: Sleeve Inventory for Machine Deployments
+
+**Visual:** Machine-to-sleeve inventory planning
+
+**Sleeve Inventory Readiness Dashboard:**
+
+| Machine ID | Customer | Deploy Date | Sleeve Type | Qty Needed | Status | AI Alert |
+|------------|----------|-------------|-------------|------------|--------|----------|
+| M-2026-001 | [Cust A] | Apr 15 | Type A | XXK | ✓ Ready | - |
+| M-2026-002 | [Cust B] | May 05 | Type B | XXK | ⚠️ Order | Order by Apr 10 |
+| M-2026-003 | [Cust C] | Jun 01 | Type A | XXK | 🔴 Gap | Production needed |
+
+**AI Sleeve Inventory Optimization:**
+```
+SLEEVE DEMAND FORECAST (ML-Generated)
+
+Installed Base Consumption:    XXK sleeves/month (stable)
+New Machine Ramp-up (90 days): +XXK sleeves/month
+Pipeline Weighted:             +XXK sleeves/month potential
+
+RECOMMENDED SLEEVE SAFETY STOCK INCREASE: +XX%
+AI CONFIDENCE: 91%
+```
+
+---
+
+## Slide 11: AI Supplier Risk Assessment
+
+**Visual:** ML-scored supplier risk dashboard
+
+**AI Supplier Risk Monitoring:**
+
+| Supplier | Category | AI Risk Score | Signals | Status | Mitigation |
+|----------|----------|---------------|---------|--------|------------|
+| Supplier A | Critical | 25/100 | Stable | 🟢 Low | - |
+| Supplier B | Critical | 68/100 | Financial | 🔴 High | Dual-source |
+| Supplier C | Standard | 45/100 | Logistics | 🟡 Medium | Buffer stock |
+| Supplier D | Standard | 22/100 | Stable | 🟢 Low | - |
+
+**AI Risk Factors Monitored:**
+- Financial health (credit scores, news)
+- Geopolitical risk (location-based)
+- Weather/climate events
+- Logistics disruptions
+- Quality trends
+- Capacity constraints
+
+**AI Alert - Supplier B:**
+> "Financial risk indicators elevated. Credit score declined 15% in 30 days. News sentiment negative. Recommend: Qualify alternative supplier within 60 days."
+
+---
+
+## Slide 12: AI Network Optimization
+
+**Visual:** Digital twin scenario analysis
+
+**Network Optimization Scenarios (AI-Generated):**
+
+| Scenario | Description | Cost Impact | Service Impact | AI Recommendation |
+|----------|-------------|-------------|----------------|-------------------|
+| Current State | As-is network | Baseline | 94.5% | - |
+| Scenario A | Consolidate DC | -$X.XM | 93.8% | Not recommended |
+| Scenario B | Add regional hub | +$X.XM | 96.2% | ✓ Recommended |
+| Scenario C | Nearshore mfg | +$X.XM | 95.5% | Long-term consider |
+
+**AI Digital Twin Analysis:**
+```
+SCENARIO B DEEP DIVE
+
+Investment Required:     $X.XM
+Annual Operating Cost:   +$X.XM
+Service Improvement:     +1.7%
+Inventory Reduction:     -$X.XM
+Payback Period:          X.X years
+NPV (5 years):           $X.XM
+
+AI RECOMMENDATION: Proceed to detailed business case
+```
+
+---
+
+## Slide 13: Constraint Resolution - AI Allocation
+
+**Visual:** AI allocation engine output
+
+**Constrained Items - AI Allocation:**
+
+| SKU | Demand | Supply | Gap | AI Allocation Logic | Customer Impact |
+|-----|--------|--------|-----|---------------------|-----------------|
+| SKU-A | XXK | XXK | -XXK | Margin priority | Cust 3 partial |
+| SKU-B | XXK | XXK | -XXK | Strategic customer | Cust 1 full, others partial |
+| SKU-C | XXK | XXK | -XXK | Service history | Fair share pro-rata |
+
+**AI Allocation Rules Applied:**
+1. Strategic accounts (Tier 1): 100% fill priority
+2. High-margin products: Priority allocation
+3. Contractual commitments: Protected
+4. Remaining: Pro-rata by historical share
+
+**AI Estimated Impact:**
+- Revenue at risk: $X.XM
+- Customer impact: XX accounts
+- Recommended communication: [Template generated]
+
+---
+
+## Slide 14: Supply Scenarios - AI Analysis
 
 **Visual:** Scenario comparison
 
-**Supply Scenarios for Demand Uncertainty:**
+**AI-Generated Supply Scenarios:**
 
-| Scenario | Demand | Supply Response | Feasibility | Key Levers | Cost Impact |
-|----------|--------|-----------------|-------------|------------|-------------|
-| Base | $XX.XM | Current plan | Feasible | Standard ops | Baseline |
-| Upside +10% | $XX.XM | OT + temp labor | Feasible | Overtime | +$XXK |
-| Upside +20% | $XX.XM | OT + outsource | Partial | Outsourcing | +$XXXK |
-| Downside -10% | $XX.XM | Reduce OT | Feasible | Flex down | -$XXK |
+| Scenario | Trigger | Capacity | Inventory | Service | Cost |
+|----------|---------|----------|-----------|---------|------|
+| **Base Case** | Current plan | 85% util | $XXM | 95% | Baseline |
+| **Demand Surge** | +15% demand | 98% util | $XXM | 92% | +$XM OT |
+| **Supply Disruption** | Supplier B fail | 70% util | $XXM | 85% | +$XM alt |
+| **Machine Ramp** | +20 machines | 88% util | $XXM | 94% | +$XM sleeve |
 
-**Recommendation:** Plan for Base; prepare triggers for Upside +10%
-
----
-
-## Slide 15: Scenario Trigger Points
-
-**Visual:** Decision triggers
-
-**When to Activate Each Scenario:**
-
-| Scenario | Trigger Indicator | Threshold | Current Value | Weeks to Threshold |
-|----------|------------------|-----------|---------------|-------------------|
-| Upside +10% | Order backlog | >$XXM | $XXM | X weeks |
-| Upside +20% | Firm orders M+1 | >XXK units | XXK units | X weeks |
-| Downside -10% | Order cancellation | >X% | X% | N/A |
-
-**Decision Points:**
-- [Date]: Decide on overtime authorization for M+2
-- [Date]: Confirm outsourcing for Q2 if needed
+**AI Scenario Recommendations:**
+- Base: Execute current plan
+- Surge: Pre-approve overtime budget of $XXK
+- Disruption: Accelerate Supplier B alternative qualification
+- Machine Ramp: Increase sleeve safety stock by XX%
 
 ---
 
-## Slide 16: Supply Response Recommendations
+## Slide 15: AI Working Capital Optimization
 
-**Visual:** Recommendation summary
+**Visual:** Cash flow impact analysis
 
-**Recommendations for Executive IBP:**
+**AI Working Capital Analysis:**
 
-**1. Capacity Actions**
-- **Recommendation:** Authorize XX hours overtime for [Work Center D]
-- **Impact:** +$X.XM capacity; +$XXK cost
-- **Risk if not approved:** $X.XM revenue at risk
+```
+CURRENT STATE                    AI OPTIMIZED
+─────────────────                ─────────────────
+Inventory:    $XX.XM             Inventory:    $XX.XM  (-$X.XM)
+Receivables:  $XX.XM             Receivables:  $XX.XM  (No change)
+Payables:     $XX.XM             Payables:     $XX.XM  (+$X.XM)
+─────────────────                ─────────────────
+Net WC:       $XX.XM             Net WC:       $XX.XM  (-$X.XM)
 
-**2. Inventory Strategy**
-- **Recommendation:** Approve seasonal pre-build of $X.XM
-- **Impact:** DOS increase to XX; working capital +$X.XM
-- **Risk if not approved:** Service level drop in peak
+AI ACTIONS:
+1. Reduce safety stock (as calculated): -$X.XM
+2. Extend Supplier C terms: +$X.XM payables
+3. Expedite Tier 1 collections: -$X.XM receivables
+```
 
-**3. Supplier Actions**
-- **Recommendation:** Activate alternative supplier for [Material]
-- **Impact:** Risk mitigation; +$XXK cost premium
-- **Risk if not approved:** Single source exposure
-
----
-
-## Slide 17: Customer Service Impact
-
-**Visual:** Service level projection
-
-**Service Level Projection:**
-
-| Metric | Current | M+1 Proj | M+2 Proj | M+3 Proj | Target |
-|--------|---------|----------|----------|----------|--------|
-| OTIF | XX% | XX% | XX% | XX% | >95% |
-| Fill Rate | XX% | XX% | XX% | XX% | >98% |
-| Backorder $ | $XXK | $XXK | $XXK | $XXK | <$XXK |
-
-**At-Risk Orders:**
-
-| Customer | Product | Value ($K) | Promise Date | Constraint | Action |
-|----------|---------|------------|--------------|------------|--------|
-| [Cust A] | [Prod] | $XX | [Date] | Capacity | Expedite |
-| [Cust B] | [Prod] | $XX | [Date] | Material | Partial ship |
+**AI Cash Flow Impact:**
+- Monthly improvement: $X.XM
+- Annual working capital freed: $X.XM
 
 ---
 
-## Slide 18: Decisions Required
+## Slide 16: AI Decision Recommendations
 
-**Visual:** Decision cards
+**Visual:** AI-generated decision cards
 
-**Decision 1: Overtime Authorization**
-- **Context:** [Brief background]
-- **Options:** A) XX hours B) XX hours C) No overtime
-- **Recommendation:** Option A
-- **Financial Impact:** Cost +$XXK; Revenue protected: $X.XM
-- **Decision Required By:** [Date]
+**Decision 1: Capacity Investment** - AI Recommendation: APPROVE
+- **Context:** Line 3 at 105% utilization projected Q3
+- **Options:** A) Overtime only B) Add shift C) New equipment
+- **AI Analysis:** Option B optimal (NPV +$X.XM, payback 18mo)
+- **Confidence:** 88%
+- **Risk if delayed:** $X.XM revenue at risk Q4
 
-**Decision 2: Inventory Pre-Build**
-- **Context:** [Brief background]
-- **Options:** A) Full build B) Partial build C) No build
-- **Recommendation:** Option B
-- **Financial Impact:** WC +$X.XM; Service protection: XX%
-- **Decision Required By:** [Date]
-
----
-
-## Slide 19: Risks & Escalations
-
-**Visual:** Risk matrix
-
-**Supply Risks:**
-
-| Risk | Probability | Impact | Mitigation | Owner | Escalate? |
-|------|-------------|--------|------------|-------|-----------|
-| [Risk 1] | High | High | [Action] | [Name] | Yes → Exec IBP |
-| [Risk 2] | Medium | Medium | [Action] | [Name] | No |
-| [Risk 3] | Low | High | [Action] | [Name] | Monitor |
-
-**Escalation to Executive IBP:**
-- [Issue requiring executive decision]
-- [Resource request requiring approval]
+**Decision 2: Supplier Qualification** - AI Recommendation: EXPEDITE
+- **Context:** Supplier B risk score elevated
+- **Options:** A) Monitor B) Qualify alternative C) Dual-source now
+- **AI Analysis:** Option B, target 60-day qualification
+- **Confidence:** 82%
+- **Risk if delayed:** $X.XM exposure
 
 ---
 
-## Slide 20: Actions & Next Steps
+## Slide 17: AI Risk & Escalations
 
-**Visual:** Action tracker
+**Visual:** ML-scored risk matrix
 
-**Actions from This Meeting:**
+**AI-Identified Supply Risks:**
 
-| # | Action | Owner | Due Date | Priority |
-|---|--------|-------|----------|----------|
-| 1 | [Action] | [Name] | [Date] | High |
-| 2 | [Action] | [Name] | [Date] | Medium |
-| 3 | [Action] | [Name] | [Date] | Medium |
+| Risk | AI Probability | AI Impact | Risk Score | Lead Time | Mitigation |
+|------|----------------|-----------|------------|-----------|------------|
+| Supplier B failure | 35% | $X.XM | 🔴 High | 90 days | Alt supplier |
+| Line 3 breakdown | 15% | $X.XM | 🟡 Medium | 14 days | PM schedule |
+| Material shortage | 25% | $X.XM | 🟡 Medium | 30 days | Buffer stock |
+| Logistics delay | 20% | $X.XM | 🟢 Low | 7 days | Alt carrier |
 
-**Output to Financial Review:**
-- Constrained supply plan: [Approved/Revised]
-- Inventory projection: [Attached]
-- Cost assumptions: [Baseline/with overtime/etc.]
+**Escalations to Executive IBP:**
 
-**Output to Executive IBP:**
-- Scenarios: [List scenarios being presented]
-- Decisions required: [List]
-- Investment requests: [List if any]
+| Issue | Impact | AI Recommendation | Decision Needed |
+|-------|--------|-------------------|-----------------|
+| [Capacity shortfall Q3] | $X.XM | Approve shift addition | Capital + Headcount |
+| [Supplier B risk] | $X.XM | Accelerate qualification | Emergency funding |
 
 ---
 
-## Slide 21: Appendix - Detailed Capacity Plan
+## Slide 18: Actions & AI Follow-ups
 
-[Reference to Capacity_Planning_Template.csv]
+**Visual:** AI-tracked action log
+
+**AI-Generated Actions from This Meeting:**
+
+| # | Action | Owner | Due Date | AI Priority | Auto-Reminder |
+|---|--------|-------|----------|-------------|---------------|
+| 1 | Qualify alt supplier for B | [Name] | [Date] | 🔴 Critical | ✓ |
+| 2 | Submit capacity request | [Name] | [Date] | 🔴 Critical | ✓ |
+| 3 | Rebalance safety stock | [Name] | [Date] | 🟡 Medium | ✓ |
+| 4 | Pre-position sleeve inventory | [Name] | [Date] | 🟡 Medium | ✓ |
+
+**AI Action Tracking (Previous Meeting):**
+
+| # | Action | Owner | Due | AI Status | Result |
+|---|--------|-------|-----|-----------|--------|
+| 1 | [Action] | [Name] | [Date] | ✅ Complete | On time |
+| 2 | [Action] | [Name] | [Date] | ⚠️ Delayed | Escalated |
 
 ---
 
-## Slide 22: Appendix - Full Inventory Analysis
+## Slide 19: Output to Financial Review
 
-[Reference to Inventory_Analysis_Dashboard.csv]
+**Visual:** AI-prepared handoff
+
+**AI-Generated Outputs for Financial Planning:**
+
+1. **Supply Plan Summary:**
+   - Total production cost: $XX.XM
+   - Overtime/premium: $X.XM (+XX% vs plan)
+   - Inventory investment: $XX.XM
+   - Working capital change: -$X.XM (improvement)
+
+2. **Cost Variances:**
+   - Material cost change: +$X.XM (commodity impact)
+   - Labor efficiency: -$X.XM (improvement)
+   - Freight/logistics: +$X.XM (rate increase)
+
+3. **AI-Flagged Financial Risks:**
+   - Supplier B disruption: $X.XM contingency
+   - Capacity constraint: $X.XM revenue risk
+   - Inventory obsolescence: $X.XM exposure
+
+4. **Capital Requirements:**
+   - Capacity expansion: $X.XM (pending approval)
+   - Sleeve inventory: $X.XM (machine ramp)
 
 ---
 
-## Slide 23: Appendix - Constraint Detail
+## Slide 20: Appendix - AI Model Performance
 
-[Reference to Supply_Constraints_Log.csv]
+**Visual:** Optimization model health
+
+**Supply AI Model Health:**
+
+| Model | Purpose | Accuracy | Last Run | Status |
+|-------|---------|----------|----------|--------|
+| Safety Stock Optimizer | SS calculation | 94% service achieved | [Date] | ✓ |
+| Capacity Solver | Production optimization | $XXK savings | [Date] | ✓ |
+| Supplier Risk Scorer | Risk prediction | 82% detection | [Date] | ✓ |
+| Allocation Engine | Constraint resolution | 96% optimal | [Date] | ✓ |
+| Demand-Supply Match | Gap detection | 99% accuracy | [Date] | ✓ |
 
 ---
 
 ## Design Guidelines
 
-**Color Coding:**
-- Green (G): On target, no issues
-- Yellow (Y): At risk, monitor/action needed
-- Red (R): Off target, immediate action required
+**AI Visual Indicators:**
+- 🤖 AI-optimized values
+- Confidence % on predictions
+- Risk scores (color-coded)
+- Optimization savings highlighted
 
-**Utilization Zones:**
-- <70%: Under-utilized (Yellow)
-- 70-85%: Optimal (Green)
-- 85-90%: High utilization (Yellow)
-- >90%: Constrained (Red)
-
-**Key Charts:**
-- Demand-supply bridge/waterfall
-- Capacity utilization bars
-- Inventory trend line with target
-- Scenario comparison
-- Constraint status summary
+**Charts to Include:**
+- Capacity utilization gauges
+- Safety stock optimization curves
+- Supplier risk heat map
+- Inventory aging waterfall
+- Working capital bridge
 
 **Data Sources:**
-- Capacity_Planning_Template.csv
-- Inventory_Analysis_Dashboard.csv
-- Supply_Constraints_Log.csv
-- Scenario_Planning_Matrix.csv
-- Supplier_Capacity_Tracker.csv
+- Capacity_Optimizer_Solver.py
+- Safety_Stock_ML_Model.py
+- Supplier_Risk_AI.py
+- Allocation_Engine.py
+- Network_Digital_Twin.py

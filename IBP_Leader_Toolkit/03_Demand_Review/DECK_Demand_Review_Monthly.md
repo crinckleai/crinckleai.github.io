@@ -1,497 +1,512 @@
-# Monthly Demand Review Deck
+# AI-Powered Monthly Demand Review Deck
 ## PowerPoint Presentation Template
 
 ---
 
 ## Slide 1: Title Slide
 
-**Title:** Demand Review
+**Title:** AI-Powered Demand Review
 **Subtitle:** [Month Year] IBP Cycle
 **Meeting Date:** [Date]
 **Prepared by:** [Demand Planning Team]
+**ML Models Last Run:** [Timestamp]
 
 ---
 
 ## Slide 2: Agenda
 
-1. Forecast Performance Review (15 min)
-2. Statistical Baseline Overview (10 min)
-3. Sales Overlay Discussion (20 min)
-4. Marketing Overlay Discussion (15 min)
-5. Consensus Demand Finalization (20 min)
-6. Escalations & Next Steps (10 min)
+1. ML Forecast Performance Dashboard (15 min)
+2. AI Demand Sensing Signals (10 min)
+3. Statistical Baseline (ML-Generated) (10 min)
+4. Sales Overlay Discussion (15 min)
+5. Marketing Overlay Discussion (10 min)
+6. AI Consensus Recommendation (15 min)
+7. Scenarios & AI Risk Assessment (10 min)
+8. Escalations & Actions (10 min)
 
 **Total Duration:** 90 minutes
 
 ---
 
-## Slide 3: Executive Summary
+## Slide 3: AI Executive Summary
 
-**Key Messages This Month:**
+**ML-Generated Insights This Month:**
 
-| Area | Status | Key Point |
-|------|--------|-----------|
-| Forecast Accuracy | [G/Y/R] | [One-line summary] |
-| Forecast Bias | [G/Y/R] | [One-line summary] |
-| Demand Trend | [↑/↓/→] | [One-line summary] |
-| Key Risks | [G/Y/R] | [One-line summary] |
+| Area | Status | AI Assessment | Confidence |
+|------|--------|---------------|------------|
+| Forecast Accuracy | [G/Y/R] | [AI insight] | XX% |
+| Bias Detection | [G/Y/R] | [AI insight] | XX% |
+| Demand Trend | [↑/↓/→] | [AI insight] | XX% |
+| External Signals | [G/Y/R] | [AI insight] | XX% |
 
-**Consensus Demand vs Prior Month:** [+X% / -X%]
-**Consensus Demand vs Budget:** [+X% / -X%]
+**AI-Generated Summary:**
+> "[LLM-generated executive summary of demand outlook, key drivers, and recommended actions]"
 
-**Critical Items for Discussion:**
-1. [Item 1]
-2. [Item 2]
-3. [Item 3]
+**ML Consensus Demand vs Prior Month:** [+X% / -X%]
+**ML Consensus Demand vs Budget:** [+X% / -X%]
 
 ---
 
-## Slide 4: Forecast Performance Dashboard
+## Slide 4: ML Forecast Performance Dashboard
 
-**Visual:** KPI gauges or scorecard
+**Visual:** AI-powered accuracy gauges
 
-| Metric | Actual | Target | Status | Trend |
-|--------|--------|--------|--------|-------|
-| Weighted MAPE | XX% | <30% | [G/Y/R] | ↑/↓/→ |
+| Metric | Actual | Target | AI Status | Trend |
+|--------|--------|--------|-----------|-------|
+| Weighted MAPE | XX% | <15% | [G/Y/R] | ↑/↓/→ |
 | Forecast Bias | XX% | ±3% | [G/Y/R] | ↑/↓/→ |
-| Value Added Forecast | XX% | >10% | [G/Y/R] | ↑/↓/→ |
+| ML Value Added | XX% | >15% | [G/Y/R] | ↑/↓/→ |
 | Plan Stability | XX% | <10% | [G/Y/R] | ↑/↓/→ |
 
-**Performance Commentary:**
-- [Key driver of performance]
-- [Improvement vs prior period]
-- [Area requiring attention]
+**ML vs Traditional Comparison:**
+| Method | WMAPE | Bias | Value Added |
+|--------|-------|------|-------------|
+| ML Ensemble | XX% | ±X% | Baseline |
+| Statistical Only | XX% | ±X% | -XX% |
+| Naive (Prior Year) | XX% | ±X% | -XX% |
+
+**AI Performance Commentary:**
+> "[AI-generated analysis of forecast performance and improvement opportunities]"
 
 ---
 
-## Slide 5: Accuracy by Product Family
+## Slide 5: ML Model Selection Results
 
-**Visual:** Bar chart or heat map
+**Visual:** Auto-selected models by product family
 
-| Family | Actual ($M) | Forecast ($M) | Variance | MAPE | Bias | Status |
-|--------|-------------|---------------|----------|------|------|--------|
-| Family A | $X.X | $X.X | +X% | XX% | +X% | [G] |
-| Family B | $X.X | $X.X | -X% | XX% | -X% | [Y] |
-| Family C | $X.X | $X.X | +X% | XX% | +X% | [G] |
-| Family D | $X.X | $X.X | -X% | XX% | -X% | [R] |
+**Ensemble ML Model Performance:**
+
+| Family | Best Model | Accuracy | Runner-Up | Ensemble Boost |
+|--------|------------|----------|-----------|----------------|
+| Family A | XGBoost | 92% | Prophet | +3% |
+| Family B | LightGBM | 88% | LSTM | +5% |
+| Family C | Prophet | 85% | XGBoost | +2% |
+| Family D | LSTM | 90% | LightGBM | +4% |
+
+**Auto Model Selection Process:**
+```
+10+ Algorithms Tested → Cross-Validation → Best Model Selected → Ensemble Option
+    └── XGBoost          └── Walk-forward    └── Per SKU/Family   └── +3-5% accuracy
+    └── LightGBM         └── 12-month        └── Weekly refresh   └── Weighted avg
+    └── Prophet          └── Rolling window  └── Auto-retrain     └── Stacking
+    └── LSTM
+    └── Croston's
+```
+
+---
+
+## Slide 6: Accuracy by Product Family - AI Analysis
+
+**Visual:** ML-analyzed heat map
+
+| Family | Actual ($M) | ML Forecast | Variance | MAPE | Bias | AI Flag |
+|--------|-------------|-------------|----------|------|------|---------|
+| Family A | $X.X | $X.X | +X% | XX% | +X% | ✓ |
+| Family B | $X.X | $X.X | -X% | XX% | -X% | ⚠️ |
+| Family C | $X.X | $X.X | +X% | XX% | +X% | ✓ |
+| Family D | $X.X | $X.X | -X% | XX% | -X% | 🔴 |
 | **Total** | **$X.X** | **$X.X** | **+X%** | **XX%** | **+X%** | |
 
-**Key Insights:**
-- Best performer: [Family] at XX% accuracy
-- Needs improvement: [Family] at XX% accuracy
-- Root cause: [Brief explanation]
+**AI Root Cause Analysis:**
+- Family D miss: [LLM-generated root cause explanation]
+- Family B bias: [LLM-generated pattern identification]
+
+**AI Recommendations:**
+- [Auto-suggested corrective action for Family D]
+- [Auto-suggested bias correction for Family B]
 
 ---
 
-## Slide 6: Accuracy by Region
+## Slide 7: AI Demand Sensing Dashboard
 
-**Visual:** Geographic heat map or bar chart
+**Visual:** Real-time external signals integration
 
-| Region | Actual ($M) | Forecast ($M) | MAPE | Bias | Status |
-|--------|-------------|---------------|------|------|--------|
-| North America | $X.X | $X.X | XX% | +X% | [G] |
-| Europe | $X.X | $X.X | XX% | -X% | [Y] |
-| Asia Pacific | $X.X | $X.X | XX% | +X% | [R] |
-| Latin America | $X.X | $X.X | XX% | +X% | [G] |
-| MEA | $X.X | $X.X | XX% | -X% | [Y] |
+**External Signals Detected This Week:**
 
-**Regional Commentary:**
-- [Region with significant variance and explanation]
-- [Actions being taken]
+| Signal Type | Source | Impact | Direction | Confidence | Lag |
+|-------------|--------|--------|-----------|------------|-----|
+| Weather | API | Medium | ↑ +5% | 88% | 3 days |
+| Economic | Indices | Low | ↓ -2% | 72% | 7 days |
+| Social | Sentiment | Low | → 0% | 65% | 1 day |
+| POS Data | Retail | High | ↑ +8% | 95% | Real-time |
+| Events | Calendar | Medium | ↑ +3% | 91% | 14 days |
+
+**AI Demand Sensing Adjustment:**
+```
+Base ML Forecast:        $XX.XM
++ Weather signal:        +$X.XM
++ POS velocity:          +$X.XM  
+- Economic headwind:     -$X.XM
+─────────────────────────────────
+= Sensed Demand:         $XX.XM
+```
 
 ---
 
-## Slide 7: Bias Trend Analysis
+## Slide 8: AI Bias Detection & Auto-Correction
 
-**Visual:** Line chart showing bias over time
+**Visual:** Bias trend with control limits
 
 ```
-Bias Trend - Last 12 Months
+BIAS TREND - AI MONITORING (Last 12 Months)
 
 +10% |
- +5% |    *  *                 [Upper Control Limit: +5%]
+ +5% |    *  *                 [Upper Control: +5%]
   0% |--*------*--*--*--*--*-- [Target: 0%]
- -5% |              *  *  *    [Lower Control Limit: -5%]
--10% |                    *
+ -5% |              *  *  *    [Lower Control: -5%]
+-10% |                    * ← AI ALERT: Systematic under-forecast
      |________________________
       J F M A M J J A S O N D
+      
+AI Tracking Signal: -3.2 (Threshold: ±4.0)
+AI Status: ⚠️ Early Warning - 3 consecutive months of negative bias
 ```
 
-**Tracking Signal:** [X.X] (Control limit: ±4.0)
+**AI Bias Analysis:**
+- Current direction: Under-forecasting
+- Pattern detected: Systematic -4.2% bias
+- Root cause: [AI-identified: New product ramp underestimated]
 
-**Bias Assessment:**
-- Current direction: [Over/Under forecasting]
-- Consecutive months: [X months]
-- Systematic pattern: [Yes/No]
-- Corrective action: [Action being taken]
-
----
-
-## Slide 8: Statistical Baseline Summary
-
-**Visual:** Baseline forecast chart by month
-
-**24-Month Baseline Forecast:**
-
-| Quarter | Units (K) | Revenue ($M) | vs PY | vs Budget |
-|---------|-----------|--------------|-------|-----------|
-| Q1 CY | XXX | $XX.X | +X% | +X% |
-| Q2 CY | XXX | $XX.X | +X% | +X% |
-| Q3 CY | XXX | $XX.X | +X% | +X% |
-| Q4 CY | XXX | $XX.X | +X% | +X% |
-| **FY** | **XXX** | **$XX.X** | **+X%** | **+X%** |
-| Q1 NY | XXX | $XX.X | +X% | N/A |
-| Q2 NY | XXX | $XX.X | +X% | N/A |
-
-**Baseline Assumptions:**
-- Model selection: [Approach used]
-- Seasonality: [Index pattern]
-- Trend: [X% annual growth/decline]
+**AI Auto-Correction Applied:**
+- Adjustment: +4.2% to baseline for affected products
+- Status: [Applied/Pending Approval]
 
 ---
 
-## Slide 9: Sales Overlay Summary
+## Slide 9: ML Statistical Baseline
 
-**Visual:** Waterfall showing overlay adjustments
+**Visual:** ML-generated baseline forecast
+
+**24-Month ML Baseline Forecast:**
+
+| Quarter | Units (K) | Revenue ($M) | ML Confidence | vs Budget |
+|---------|-----------|--------------|---------------|-----------|
+| Q1 CY | XXX | $XX.X | 92% | +X% |
+| Q2 CY | XXX | $XX.X | 89% | +X% |
+| Q3 CY | XXX | $XX.X | 85% | +X% |
+| Q4 CY | XXX | $XX.X | 81% | +X% |
+| **FY** | **XXX** | **$XX.X** | **87%** | **+X%** |
+
+**ML Feature Importance:**
+1. Seasonality (35% importance)
+2. Trend (25% importance)
+3. Price (15% importance)
+4. Promotions (12% importance)
+5. External signals (13% importance)
+
+---
+
+## Slide 10: Sales Overlay vs AI Baseline
+
+**Visual:** Waterfall with AI comparison
 
 ```
-Statistical Baseline:        $XX.X M
-────────────────────────────────────
-+ Customer A expansion       +$X.X M
-+ New wins (Customers D,E)   +$X.X M
-- Customer B volume decline  -$X.X M
-+ Timing pull-forward        +$X.X M
-- Competitive loss           -$X.X M
-────────────────────────────────────
-= Sales Adjusted Forecast:   $XX.X M
-────────────────────────────────────
-Net Sales Overlay:           +$X.X M (+X%)
+ML STATISTICAL BASELINE:          $XX.X M
+────────────────────────────────────────────
+SALES ADJUSTMENTS:
++ Customer A expansion           +$X.X M  │ AI Assessment: ✓ Reasonable
++ New wins (Customers D,E)       +$X.X M  │ AI Assessment: ⚠️ Optimistic
+- Customer B decline             -$X.X M  │ AI Assessment: ✓ Reasonable
++ Timing pull-forward            +$X.X M  │ AI Assessment: 🔴 No signal support
+────────────────────────────────────────────
+= SALES ADJUSTED:                $XX.X M
+────────────────────────────────────────────
+NET SALES OVERLAY:               +$X.X M (+X%)
+AI RECOMMENDATION:               +$X.X M (+X%) ← More conservative
 ```
 
-**Overlay Statistics:**
-- Number of adjustments: XX
-- Net impact: +$X.XM (+X%)
-- Confidence level: [High/Medium/Low]
+**AI Overlay Validation:**
+- Overlays with signal support: 65%
+- Overlays flagged for discussion: 35%
+- Historical overlay accuracy: 72%
 
 ---
 
-## Slide 10: Sales Overlay Detail - Key Adjustments
+## Slide 11: Sales Overlay - AI Validation
 
-**Visual:** Table with top adjustments
+**Visual:** AI-assessed adjustment table
 
-**Top 5 Upside Adjustments:**
+**Top Adjustments with AI Assessment:**
 
-| Customer/SKU | Adjustment | Reason | Evidence | Confidence |
-|--------------|------------|--------|----------|------------|
-| [Item 1] | +$XXK | [Reason] | [Evidence] | High |
-| [Item 2] | +$XXK | [Reason] | [Evidence] | Medium |
-| [Item 3] | +$XXK | [Reason] | [Evidence] | High |
+| Customer/SKU | Adjustment | Reason | AI Signal Check | AI Score |
+|--------------|------------|--------|-----------------|----------|
+| [Cust A Expand] | +$XXK | Order confirmation | ✓ PO detected | 95% |
+| [New Wins] | +$XXK | Pipeline | ⚠️ Partially confirmed | 65% |
+| [Cust B Decline] | -$XXK | Lost share | ✓ POS confirms | 88% |
+| [Pull-forward] | +$XXK | Timing | 🔴 No evidence | 35% |
 
-**Top 5 Downside Adjustments:**
-
-| Customer/SKU | Adjustment | Reason | Evidence | Confidence |
-|--------------|------------|--------|----------|------------|
-| [Item 1] | -$XXK | [Reason] | [Evidence] | High |
-| [Item 2] | -$XXK | [Reason] | [Evidence] | Medium |
-
-**Discussion Points:**
-- [Adjustment requiring alignment]
-- [Adjustment with conflicting views]
+**AI Recommendation:**
+> "Based on external signal validation and historical overlay accuracy, recommend reducing total overlay by $X.XM. [Pull-forward] shows no supporting signals in demand sensing data."
 
 ---
 
-## Slide 11: Marketing Overlay Summary
+## Slide 12: Marketing Overlay - AI Integration
 
-**Visual:** Waterfall or table showing marketing impacts
+**Visual:** AI-adjusted marketing impact
 
 ```
-Sales Adjusted Forecast:     $XX.X M
-────────────────────────────────────
-+ Promotional Campaign A     +$X.X M
-+ New product launch (NPI)   +$X.X M
-+ Price increase impact      -$X.X M
-+ Advertising campaign       +$X.X M
-- Competitor response        -$X.X M
-────────────────────────────────────
-= Marketing Adjusted:        $XX.X M
-────────────────────────────────────
-Net Marketing Overlay:       +$X.X M (+X%)
+SALES ADJUSTED FORECAST:         $XX.X M
+────────────────────────────────────────────
+MARKETING ADJUSTMENTS:
++ Promotional Campaign A         +$X.X M  │ AI Lift Model: +$X.XM (XX% accuracy)
++ NPI Launch (from Product)      +$X.X M  │ AI Prediction: +$X.XM (XX% accuracy)
+- Price increase impact          -$X.X M  │ AI Elasticity: -$X.XM (XX% accuracy)
++ Digital campaign               +$X.X M  │ AI Prediction: +$X.XM (XX% accuracy)
+────────────────────────────────────────────
+= MARKETING ADJUSTED:            $XX.X M
+────────────────────────────────────────────
+AI-ADJUSTED MARKETING:           $XX.X M ← ML promotional lift models
 ```
 
-**Marketing Activities This Horizon:**
-| Activity | Timing | Products | Expected Lift |
-|----------|--------|----------|---------------|
-| [Campaign A] | [Months] | [Products] | +XX% |
-| [Promotion B] | [Months] | [Products] | +XX% |
-| [Launch C] | [Month] | [New Product] | $X.XM |
+**AI Promotional Lift Models:**
+| Promo Type | Historical Lift | AI Predicted Lift | Confidence |
+|------------|-----------------|-------------------|------------|
+| Price Discount | +XX% | +XX% | 91% |
+| BOGO | +XX% | +XX% | 88% |
+| Digital Campaign | +XX% | +XX% | 75% |
 
 ---
 
-## Slide 12: NPI Demand Integration
+## Slide 13: Customer Collaboration - AI Enhancement
 
-**Visual:** NPI ramp chart
+**Visual:** AI-powered customer forecast comparison
 
-**Products Launching - Demand Projections:**
+**AI-Enhanced Customer Intelligence:**
 
-| Product | Launch | M1 | M2 | M3 | M4 | M5 | M6 | FY Total |
-|---------|--------|----|----|----|----|----|----|----------|
-| [NPI A] | [Mon] | XX | XX | XX | XX | XX | XX | XXX |
-| [NPI B] | [Mon] | XX | XX | XX | XX | XX | XX | XXX |
-| [NPI C] | [Mon] | XX | XX | XX | XX | XX | XX | XXX |
+| Customer | Their Forecast | Our ML | AI Reconciliation | Action |
+|----------|----------------|--------|-------------------|--------|
+| [Cust A] | $X.XM | $X.XM | $X.XM (weighted) | Aligned |
+| [Cust B] | $X.XM | $X.XM | ⚠️ Gap $X.XM | Investigate |
+| [Cust C] | $X.XM | $X.XM | $X.XM (weighted) | Aligned |
 
-**Cannibalization Impact:**
+**AI Customer Forecast Bot:**
+- Forecasts collected: XX customers (automated)
+- AI validation passed: XX%
+- Anomalies flagged: XX customers
 
-| Retiring Product | Cannibalizing Product | Impact Start | Impact % | Volume Impact |
-|------------------|----------------------|--------------|----------|---------------|
-| [SKU X] | [NPI A] | [Month] | -XX% | -XXX units |
-| [SKU Y] | [NPI B] | [Month] | -XX% | -XXX units |
-
-**Net NPI Impact:** +$X.XM
-
----
-
-## Slide 13: Customer Collaboration Inputs
-
-**Visual:** Customer intelligence summary
-
-**Strategic Account Forecast Updates:**
-
-| Customer | Their Forecast | Our Forecast | Variance | Action |
-|----------|----------------|--------------|----------|--------|
-| [Cust A] | $X.XM | $X.XM | +X% | Align ↑ |
-| [Cust B] | $X.XM | $X.XM | -X% | Investigate |
-| [Cust C] | $X.XM | $X.XM | 0% | Aligned |
-
-**Customer Intelligence Highlights:**
-- [Customer A]: [Key intelligence and impact]
-- [Customer B]: [Key intelligence and impact]
-- [Customer C]: [Key intelligence and impact]
-
-**Collaboration Accuracy:** XX% (vs XX% for non-collaborative accounts)
+**Collaboration Accuracy Improvement:**
+- ML + Customer input: XX% accuracy
+- ML only: XX% accuracy
+- Improvement: +XX percentage points
 
 ---
 
-## Slide 14: Consensus Demand Summary
+## Slide 14: AI Consensus Recommendation
 
-**Visual:** Final consensus waterfall
+**Visual:** AI-generated consensus waterfall
 
 ```
-CONSENSUS DEMAND BUILD
+AI CONSENSUS DEMAND BUILD
 
-Statistical Baseline      $XX.X M   [100%]
-+ NPI Additions          +$X.X M   [+X%]
-- Cannibalization        -$X.X M   [-X%]
-+ Sales Overlay          +$X.X M   [+X%]
-+ Marketing Overlay      +$X.X M   [+X%]
-+ Customer Intelligence  +$X.X M   [+X%]
-- Product Exits          -$X.X M   [-X%]
-─────────────────────────────────────────
-= CONSENSUS DEMAND       $XX.X M   [XXX%]
+ML Statistical Baseline       $XX.X M   [100%]
++ NPI Additions (AI-pred)    +$X.X M   [+X%]  │ Confidence: 82%
+- Cannibalization (AI-calc)  -$X.X M   [-X%]  │ Confidence: 85%
++ Sales Overlay (validated)  +$X.X M   [+X%]  │ Confidence: 72%
++ Marketing Overlay (ML-adj) +$X.X M   [+X%]  │ Confidence: 78%
++ Customer Intelligence      +$X.X M   [+X%]  │ Confidence: 88%
+- Product Exits              -$X.X M   [-X%]  │ Confidence: 95%
++ Sleeve Volume (machines)   +$X.X M   [+X%]  │ Confidence: 91%
+───────────────────────────────────────────────────────────────
+= AI CONSENSUS RECOMMENDATION $XX.X M   [XXX%] │ Overall: 84%
 
-vs Prior Consensus:      +X.X%
-vs Budget:               +X.X%
-vs Prior Year:           +X.X%
+vs Prior Consensus:          +X.X%
+vs Budget:                   +X.X%
+vs Prior Year:               +X.X%
 ```
 
----
-
-## Slide 15: Consensus by Time Period
-
-**Visual:** Monthly/quarterly demand chart
-
-**Consensus Demand Forecast:**
-
-| Period | Units (K) | Revenue ($M) | GM ($M) | vs Prior | vs Budget |
-|--------|-----------|--------------|---------|----------|-----------|
-| M1 | XX | $X.X | $X.X | +X% | +X% |
-| M2 | XX | $X.X | $X.X | +X% | +X% |
-| M3 | XX | $X.X | $X.X | +X% | +X% |
-| **Q1** | **XX** | **$X.X** | **$X.X** | **+X%** | **+X%** |
-| M4 | XX | $X.X | $X.X | +X% | +X% |
-| M5 | XX | $X.X | $X.X | +X% | +X% |
-| M6 | XX | $X.X | $X.X | +X% | +X% |
-| **Q2** | **XX** | **$X.X** | **$X.X** | **+X%** | **+X%** |
-| **H1** | **XX** | **$X.X** | **$X.X** | **+X%** | **+X%** |
-| **Full Year** | **XX** | **$X.X** | **$X.X** | **+X%** | **+X%** |
+**AI Confidence Interval:**
+- P10 (Downside): $XX.XM
+- P50 (Base): $XX.XM
+- P90 (Upside): $XX.XM
 
 ---
 
-## Slide 16: Plan Stability Analysis
+## Slide 15: Consensus by Time Period - ML Forecast
 
-**Visual:** Chart showing forecast changes over time
+**Visual:** Monthly/quarterly ML forecast with confidence
 
-**Forecast Evolution (Current Month View):**
+**ML Consensus Demand Forecast:**
 
-| When Forecasted | M1 Forecast | M2 Forecast | M3 Forecast | Stability Score |
-|-----------------|-------------|-------------|-------------|-----------------|
-| 3 months ago | $X.XM | $X.XM | $X.XM | |
-| 2 months ago | $X.XM | $X.XM | $X.XM | |
-| 1 month ago | $X.XM | $X.XM | $X.XM | |
-| Current | $X.XM | $X.XM | $X.XM | |
-| **Total Change** | **+X%** | **+X%** | **+X%** | **[Score]** |
+| Period | Units (K) | Revenue ($M) | Confidence | vs Budget |
+|--------|-----------|--------------|------------|-----------|
+| M1 | XX | $X.X | 95% | +X% |
+| M2 | XX | $X.X | 92% | +X% |
+| M3 | XX | $X.X | 89% | +X% |
+| **Q1** | **XX** | **$X.X** | **92%** | **+X%** |
+| M4 | XX | $X.X | 85% | +X% |
+| M5 | XX | $X.X | 82% | +X% |
+| M6 | XX | $X.X | 78% | +X% |
+| **Q2** | **XX** | **$X.X** | **82%** | **+X%** |
 
-**Stability Assessment:**
-- Target: <10% change month-over-month
-- Current: XX% change
-- Status: [G/Y/R]
-- Driver: [Explanation of changes]
-
----
-
-## Slide 17: Risks and Opportunities
-
-**Visual:** Risk matrix or table
-
-**Demand Upside Opportunities:**
-
-| Opportunity | Products | Potential ($M) | Probability | Weighted | Owner |
-|-------------|----------|----------------|-------------|----------|-------|
-| [Opp 1] | [SKUs] | $X.X | XX% | $X.X | [Name] |
-| [Opp 2] | [SKUs] | $X.X | XX% | $X.X | [Name] |
-| **Total Upside** | | **$X.X** | | **$X.X** | |
-
-**Demand Downside Risks:**
-
-| Risk | Products | Potential ($M) | Probability | Weighted | Owner |
-|------|----------|----------------|-------------|----------|-------|
-| [Risk 1] | [SKUs] | -$X.X | XX% | -$X.X | [Name] |
-| [Risk 2] | [SKUs] | -$X.X | XX% | -$X.X | [Name] |
-| **Total Downside** | | **-$X.X** | | **-$X.X** | |
-
-**Net Risk Position:** [+/-] $X.XM weighted
+**AI Confidence Decay Note:**
+- Near-term (M1-M3): High confidence (>85%)
+- Mid-term (M4-M6): Good confidence (75-85%)
+- Long-term (M7+): Moderate confidence (<75%)
 
 ---
 
-## Slide 18: Scenario Summary
+## Slide 16: AI Scenario Generation
 
-**Visual:** Scenario comparison chart
+**Visual:** Monte Carlo scenario summary
 
-**Demand Scenarios:**
+**AI-Generated Scenarios (1000 simulations):**
 
-| Scenario | Q1 | Q2 | H1 | H2 | Full Year | vs Base |
-|----------|----|----|----|----|-----------|---------|
-| **Base Case** | $XX | $XX | $XX | $XX | $XX | - |
-| Upside | $XX | $XX | $XX | $XX | $XX | +X% |
-| Downside | $XX | $XX | $XX | $XX | $XX | -X% |
+| Scenario | Probability | Q1 | Q2 | H1 | Full Year | Trigger |
+|----------|-------------|----|----|----|-----------| --------|
+| **Strong Upside** | 10% | $XX | $XX | $XX | $XX | [conditions] |
+| **Moderate Upside** | 20% | $XX | $XX | $XX | $XX | [conditions] |
+| **Base Case** | 40% | $XX | $XX | $XX | $XX | Current trends |
+| **Moderate Downside** | 20% | $XX | $XX | $XX | $XX | [conditions] |
+| **Severe Downside** | 10% | $XX | $XX | $XX | $XX | [conditions] |
 
-**Scenario Assumptions:**
-
-| Scenario | Key Assumptions |
-|----------|-----------------|
-| Base Case | [Main assumptions] |
-| Upside | [What goes right] |
-| Downside | [What goes wrong] |
-
-**Recommendation:** Plan to Base Case; prepare supply flexibility for Upside
+**AI Scenario Drivers:**
+- Economic indicators weight: XX%
+- Competitive actions weight: XX%
+- Supply constraints weight: XX%
+- Customer health weight: XX%
 
 ---
 
-## Slide 19: Key Assumptions Review
+## Slide 17: AI Risk & Opportunity Assessment
 
-**Visual:** Assumption status summary
+**Visual:** ML-scored risk/opportunity matrix
 
-**Critical Assumptions:**
+**AI-Identified Opportunities:**
 
-| ID | Assumption | Status | Impact if Wrong | Confidence |
-|----|------------|--------|-----------------|------------|
-| A1 | [Economic assumption] | Valid | High | Medium |
-| A2 | [Customer assumption] | Changed | High | High |
-| A3 | [Competitive assumption] | Valid | Medium | Low |
-| A4 | [Pricing assumption] | Valid | High | High |
-| A5 | [NPI assumption] | At Risk | Medium | Medium |
+| Opportunity | Products | Potential | AI Probability | Weighted | Signal |
+|-------------|----------|-----------|----------------|----------|--------|
+| [Opp 1] | [SKUs] | $X.X | XX% | $X.X | [AI-detected] |
+| [Opp 2] | [SKUs] | $X.X | XX% | $X.X | [AI-detected] |
+| **Total** | | **$X.X** | | **$X.X** | |
 
-**Assumptions Requiring Discussion:**
-- [Assumption with low confidence]
-- [Assumption that changed this month]
-- [New assumption added]
+**AI-Identified Risks:**
+
+| Risk | Products | Potential | AI Probability | Weighted | Signal |
+|------|----------|-----------|----------------|----------|--------|
+| [Risk 1] | [SKUs] | -$X.X | XX% | -$X.X | [AI-detected] |
+| [Risk 2] | [SKUs] | -$X.X | XX% | -$X.X | [AI-detected] |
+| **Total** | | **-$X.X** | | **-$X.X** | |
+
+**Net AI Risk Position:** [+/-] $X.XM weighted
 
 ---
 
-## Slide 20: Escalations to Executive IBP
+## Slide 18: AI Assumption Validation
 
-**Visual:** Escalation cards
+**Visual:** Assumption status with AI checks
 
-**Items Requiring Executive Decision:**
+**Critical Assumptions - AI Validated:**
 
-**Escalation 1: [Title]**
-- **Issue:** [Description]
+| ID | Assumption | AI Status | Signal Check | Confidence |
+|----|------------|-----------|--------------|------------|
+| A1 | Economic stability | ✓ Valid | Indices stable | 82% |
+| A2 | Customer A growth | ⚠️ Changed | POS slower | 65% |
+| A3 | No new competition | 🔴 At Risk | News detected | 45% |
+| A4 | Pricing holds | ✓ Valid | Market data | 88% |
+| A5 | NPI on-time | ⚠️ Watch | Schedule risk | 72% |
+
+**AI Assumption Alerts:**
+- A3: "Competitor product announcement detected in news scanning. Recommend scenario update."
+- A2: "Customer A POS data showing 15% below trend. Recommend validation call."
+
+---
+
+## Slide 19: Escalations & AI Actions
+
+**Visual:** AI-prioritized escalation list
+
+**Items for Executive IBP (AI-Prioritized):**
+
+**Escalation 1: [Title]** - AI Priority: HIGH
+- **Issue:** [AI-generated summary]
 - **Impact:** $X.XM revenue at risk
-- **Options:** A) [Option A] B) [Option B]
-- **Recommendation:** [Recommended action]
+- **AI Recommendation:** [Option with rationale]
+- **Confidence:** XX%
 
-**Escalation 2: [Title]**
-- **Issue:** [Description]
-- **Impact:** $X.XM revenue opportunity
+**Escalation 2: [Title]** - AI Priority: MEDIUM
+- **Issue:** [AI-generated summary]
 - **Decision Required:** [What needs to be decided]
 
----
+**AI Action Tracker:**
 
-## Slide 21: Actions & Next Steps
-
-**Visual:** Action tracker
-
-**Decisions Made This Meeting:**
-
-| # | Decision | Owner | Impact |
-|---|----------|-------|--------|
-| 1 | [Decision made] | N/A | [Impact] |
-| 2 | [Decision made] | N/A | [Impact] |
-
-**Actions from This Meeting:**
-
-| # | Action | Owner | Due Date |
-|---|--------|-------|----------|
-| 1 | [Action item] | [Name] | [Date] |
-| 2 | [Action item] | [Name] | [Date] |
-| 3 | [Action item] | [Name] | [Date] |
-
-**Output to Supply Review:**
-- Consensus demand plan approved: [Yes/No]
-- Key products requiring supply response: [List]
-- Scenarios for capacity planning: [Base/Upside/Downside]
+| # | Action | Owner | Due | AI Priority | Reminder |
+|---|--------|-------|-----|-------------|----------|
+| 1 | [Action] | [Name] | [Date] | 🔴 Critical | ✓ Set |
+| 2 | [Action] | [Name] | [Date] | 🟡 Medium | ✓ Set |
+| 3 | [Action] | [Name] | [Date] | 🟢 Low | ✓ Set |
 
 ---
 
-## Slide 22: Appendix - Detailed SKU Forecast
+## Slide 20: Output to Supply Review
 
-[Reference to Consensus_Demand_Workbook.csv]
+**Visual:** AI-prepared handoff
+
+**AI-Generated Outputs for Supply Planning:**
+
+1. **ML Consensus Demand:**
+   - Base case: $XX.XM (XX% confidence)
+   - Upside scenario: $XX.XM (prepare for XX probability)
+   - Downside scenario: $XX.XM (plan for XX probability)
+
+2. **AI-Flagged Supply Priorities:**
+   - [SKU family requiring capacity review]
+   - [Products with demand surge detected]
+   - [Items with high uncertainty - flexible supply needed]
+
+3. **Machine-Driven Sleeve Demand:**
+   - New machine deployments: XX machines next 90 days
+   - Sleeve demand increase: +$X.XM
+   - Safety stock trigger: [Alert for Supply]
+
+4. **AI Confidence by Product:**
+   - High confidence (>85%): Plan to forecast
+   - Medium confidence (70-85%): Build flexibility
+   - Low confidence (<70%): Scenario planning required
 
 ---
 
-## Slide 23: Appendix - Full Accuracy Report
+## Slide 21: Appendix - ML Model Performance
 
-[Reference to Forecast_Accuracy_Tracker.csv]
+**Visual:** Model accuracy tracking
 
----
+**Demand ML Model Health:**
 
-## Slide 24: Appendix - Customer Collaboration Detail
+| Model | WMAPE | Bias | Last Train | Drift | Status |
+|-------|-------|------|------------|-------|--------|
+| XGBoost-Demand | 12% | +1% | [Date] | Normal | ✓ |
+| LightGBM-Demand | 14% | -2% | [Date] | Normal | ✓ |
+| Prophet-Seasonal | 18% | +1% | [Date] | ⚠️ Review | ⚠️ |
+| LSTM-Trend | 15% | 0% | [Date] | Normal | ✓ |
+| Ensemble-Final | 11% | +1% | [Date] | Normal | ✓ |
 
-[Reference to Customer_Forecast_Collaboration.csv]
+**Feature Importance (Top 10):**
+1. Lag_1_month (18%)
+2. Seasonality_index (15%)
+3. Trend_component (12%)
+4. Price_factor (10%)
+5. Promo_flag (8%)
+...
 
 ---
 
 ## Design Guidelines
 
-**Color Coding:**
-- Green (G): Accuracy ≥70%, Bias ±3%
-- Yellow (Y): Accuracy 60-70%, Bias 3-5%
-- Red (R): Accuracy <60%, Bias >5%
+**AI Visual Indicators:**
+- 🤖 AI-generated content
+- Confidence % on all ML predictions
+- Signal quality indicators (✓ ⚠️ 🔴)
+- Trend arrows with AI assessment
 
-**Trend Indicators:**
-- ↑ Improving (accuracy up, bias down)
-- → Stable
-- ↓ Declining (accuracy down, bias up)
-
-**Key Charts:**
-- Forecast accuracy trend line
+**Charts to Include:**
+- ML model comparison radar
+- Demand sensing signal dashboard
 - Bias trend with control limits
-- Consensus waterfall
-- Scenario comparison bars
-- Regional/Family heat maps
+- Monte Carlo scenario fan chart
+- Confidence interval bands
 
 **Data Sources:**
-- Statistical_Forecast_Template.csv
-- Consensus_Demand_Workbook.csv
-- Forecast_Accuracy_Tracker.csv
-- Bias_Analysis_Template.csv
-- Customer_Forecast_Collaboration.csv
+- ML_Demand_Ensemble.py
+- Demand_Sensing_Engine.py
+- Bias_Auto_Correction.py
+- Scenario_Generator.py
+- Customer_Forecast_Bot.py
