@@ -71,6 +71,17 @@ This framework integrates AI and automation into every step of Integrated Busine
 
 ### Pillar 1: AI-Powered Product Review
 
+#### Business Model: Equipment + Consumables
+Our core business model is driven by **filling machines** contracted with customers, which generate recurring **sleeve** sales. Machine placements are the leading indicator for future consumable revenue.
+
+```
+MACHINE PLACEMENT ──▶ CUSTOMER DEPLOYMENT ──▶ SLEEVE CONSUMPTION
+       │                      │                       │
+       ▼                      ▼                       ▼
+   Pipeline              Installation              Recurring
+   Opportunities         Tracking                  Volume
+```
+
 | Process Step | Traditional | AI-Automated |
 |--------------|-------------|--------------|
 | Portfolio Analysis | Manual Excel review | AI scans all SKUs, auto-flags issues |
@@ -78,12 +89,16 @@ This framework integrates AI and automation into every step of Integrated Busine
 | Cannibalization | Manual assessment | AI calculates cross-product impact |
 | Rationalization | Quarterly review | Continuous AI monitoring with alerts |
 | Competitor Analysis | Manual research | AI web scraping + NLP analysis |
+| **Machine Pipeline** | CRM manual tracking | AI pipeline scoring + deployment prediction |
+| **Sleeve Volume Planning** | Excel calculations | ML predicts sleeve consumption per machine |
 
 **AI Automation Points:**
 1. **Auto-Portfolio Scoring**: AI continuously scores products on margin, growth, strategic fit
 2. **NPI Success Prediction**: ML model predicts launch success probability
 3. **Smart Rationalization**: AI identifies tail SKUs and recommends sunset timing
 4. **Market Intelligence Bot**: LLM agent monitors competitor moves and market trends
+5. **Machine Pipeline AI**: Scores machine opportunities, predicts close probability and deployment timing
+6. **Sleeve Volume Forecasting**: ML translates machine installed base to sleeve demand by type/customer
 
 ---
 
