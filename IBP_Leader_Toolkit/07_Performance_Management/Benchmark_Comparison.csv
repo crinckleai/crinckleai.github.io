@@ -1,0 +1,18 @@
+Category,KPI,Our_Performance,Industry_25th_Pct,Industry_Median,Industry_75th_Pct,Best_in_Class,Our_Percentile,Gap_to_Median,Gap_to_Best,Priority,Improvement_Actions,Benchmark_Source,Last_Updated
+Customer,OTIF %,94.4,88,92,95,98,72,2.4,3.6,High,Root cause analysis on late orders; carrier performance management,APICS/Gartner,2025-12
+Customer,Perfect Order Rate %,91.4,85,90,94,97,62,1.4,5.6,Medium,Error reduction program; process automation,APICS/Gartner,2025-12
+Customer,Order Lead Time (days),8.5,12,9,7,5,55,-0.5,-3.5,Medium,Order processing automation; inventory positioning,Industry Survey,2025-12
+Customer,Customer Satisfaction (1-5),4.3,3.8,4.1,4.4,4.7,68,0.2,0.4,Low,Continue current improvement trajectory,NPS Benchmark,2025-12
+Financial,Forecast Accuracy %,69.8,55,65,72,82,72,4.8,12.2,High,ML-based forecasting; demand sensing,IBF/Gartner,2025-12
+Financial,Forecast Bias %,2.5,8,5,3,1,75,-2.5,-1.5,Low,Bias tracking and accountability,IBF,2025-12
+Financial,Inventory Turns,5.7,4.0,5.5,7.0,9.0,52,0.2,3.3,High,Inventory optimization; SKU rationalization,APICS,2025-12
+Financial,Working Capital % Revenue,17.9,22,19,16,12,62,-1.1,-5.9,Medium,Receivables and payables optimization,CFO Survey,2025-12
+Financial,Gross Margin %,42.6,35,40,45,52,65,2.6,9.4,Medium,Mix management; cost reduction,Industry Data,2025-12
+Process,Demand Plan Adherence %,89.5,80,87,92,96,58,2.5,6.5,Medium,Improve consensus process quality,IBF,2025-12
+Process,Supply Plan Adherence %,95.5,88,93,96,99,68,2.5,3.5,Low,Maintain current performance,APICS,2025-12
+Process,Plan Stability %,10.5,18,12,8,5,58,-1.5,-5.5,Medium,Forecast freeze policies; assumption management,Gartner,2025-12
+Process,S&OP/IBP Maturity (1-5),3.5,2.2,3.0,3.8,4.5,62,0.5,1.0,High,Continue maturity journey per roadmap,Gartner,2025-12
+Enabler,Planning Cycle Time (days),5,10,7,4,2,72,-2,-3,Low,Already performing well,APICS,2025-12
+Enabler,Data Quality %,93.7,85,91,95,98,65,2.7,4.3,Medium,Master data governance program,MDM Survey,2025-12
+Enabler,Technology Adoption %,75,50,70,85,95,55,5,20,High,Digital transformation roadmap,Tech Survey,2025-12
+Enabler,Cross-Functional Collaboration (1-5),3.8,2.8,3.5,4.0,4.5,62,0.3,0.7,Medium,Change management; incentive alignment,Culture Survey,2025-12

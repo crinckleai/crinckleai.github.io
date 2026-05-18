@@ -1,0 +1,93 @@
+SKU RATIONALIZATION ANALYSIS TEMPLATE,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Instructions: Use this template to analyze SKU complexity and identify rationalization opportunities. Update quarterly.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+EXECUTIVE SUMMARY,,,,,,,,,,,,,
+Metric,Current State,Target State,Gap,Timeline,Comments,,,,,,,
+Total Active SKUs,,,,,,,,,,,,,
+Revenue per SKU ($K),,,,,,,,,,,,,
+SKUs with <$10K annual revenue,,,,,,,,,,,,,
+Tail SKU % of portfolio,,,,,,,,,,,,,
+Cost of complexity ($M estimated),,,,,,,,,,,,,
+Rationalization target (SKUs),,,,,,,,,,,,,
+,,,,,,,,,,,,,
+SKU PARETO ANALYSIS,,,,,,,,,,,,,
+Rank,SKU Code,Product Name,Family,Annual Revenue ($K),Cumulative Revenue %,Annual Volume,Annual Margin ($K),Margin %,Customer Count,Last Order Date,Classification,Recommendation
+1,,,,,,,,,,,"A - Top Performer","Protect"
+2,,,,,,,,,,,"A - Top Performer","Protect"
+3,,,,,,,,,,,"A - Top Performer","Protect"
+4,,,,,,,,,,,"A - Top Performer","Protect"
+5,,,,,,,,,,,"A - Top Performer","Protect"
+...,,,,,,,,,,,,
+n,,,,,,,,,,,"C - Tail","Evaluate"
+,,,,,,,,,,,,,
+ABC CLASSIFICATION SUMMARY,,,,,,,,,,,,,
+Classification,Revenue Threshold,SKU Count,% of SKUs,Revenue ($M),% of Revenue,Avg Revenue/SKU,Avg Margin %,Strategy
+A - Top Performers,Top 80% of revenue,,,,,,,Focus and protect
+B - Core Products,Next 15% of revenue,,,,,,,Optimize and monitor
+C - Tail,Bottom 5% of revenue,,,,,,,Evaluate and rationalize
+TOTAL,,,,,,,,
+,,,,,,,,,,,,,
+RATIONALIZATION SCORING MATRIX,,,,,,,,,,,,,
+SKU Code,Product Name,Revenue Score (1-5),Volume Score (1-5),Margin Score (1-5),Customer Concentration Score (1-5),Strategic Importance (1-5),Replacement Available (Y/N),Total Score,Percentile,Recommendation,Priority
+,,,,,,,,,,"Sunset/Keep/Monitor/Consolidate","High/Medium/Low"
+,,,,,,,,,,"Sunset/Keep/Monitor/Consolidate","High/Medium/Low"
+,,,,,,,,,,"Sunset/Keep/Monitor/Consolidate","High/Medium/Low"
+,,,,,,,,,,"Sunset/Keep/Monitor/Consolidate","High/Medium/Low"
+,,,,,,,,,,"Sunset/Keep/Monitor/Consolidate","High/Medium/Low"
+,,,,,,,,,,,
+SCORING CRITERIA,,,,,,,,,,,,,
+Factor,Weight,Score 1,Score 2,Score 3,Score 4,Score 5,,,,,,
+Revenue,25%,<$5K,$5K-$25K,$25K-$100K,$100K-$500K,>$500K,,,,,,
+Volume,20%,<100 units,100-500,500-2000,2000-10000,>10000 units,,,,,,
+Margin %,20%,<10%,10-20%,20-30%,30-40%,>40%,,,,,,
+Customer Concentration,15%,1 customer,2-3,4-10,11-25,>25 customers,,,,,,
+Strategic Importance,20%,No strategic value,Low,Moderate,High,Critical,,,,,,
+,,,,,,,,,,,,,
+TAIL SKU DEEP DIVE,,,,,,,,,,,,,
+SKU Code,Product Name,Annual Revenue,Annual Volume,Margin %,Customers,Last Order,Days Since Order,Inventory Value,Months of Stock,Replacement SKU,Exit Cost ($K),Recommendation
+,,,,,,,,,,,,Sunset
+,,,,,,,,,,,,Sunset
+,,,,,,,,,,,,Sunset
+,,,,,,,,,,,,Sunset
+,,,,,,,,,,,,Sunset
+,,,,,,,,,,,,,
+CUSTOMER IMPACT ANALYSIS,,,,,,,,,,,,,
+SKU Code,Product Name,Customer Name,Customer Revenue ($K),SKU % of Customer Revenue,Alternative SKU,Migration Effort,Customer Communication Status,Risk Level
+,,,,,,High/Medium/Low,,High/Medium/Low
+,,,,,,High/Medium/Low,,High/Medium/Low
+,,,,,,High/Medium/Low,,High/Medium/Low
+,,,,,,High/Medium/Low,,High/Medium/Low
+,,,,,,,,,,,,,
+INVENTORY DISPOSITION PLAN,,,,,,,,,,,,,
+SKU Code,Product Name,Current Inventory (units),Inventory Value ($K),Disposition Method,Expected Recovery ($K),Write-off ($K),Timeline,Status
+,,,,"Sell through/Discount/Scrap/Return",,,,"Planned/In Progress/Complete"
+,,,,"Sell through/Discount/Scrap/Return",,,,"Planned/In Progress/Complete"
+,,,,"Sell through/Discount/Scrap/Return",,,,"Planned/In Progress/Complete"
+,,,,"Sell through/Discount/Scrap/Return",,,,"Planned/In Progress/Complete"
+,,,,,,,,,,,,,
+RATIONALIZATION BUSINESS CASE,,,,,,,,,,,,,
+Category,Year 1,Year 2,Year 3,Total,Notes,,,,,,,
+COSTS,,,,,,,,,,,,,
+Communication and customer management,,,,,,,,,,,,,
+System updates and maintenance,,,,,,,,,,,,,
+Inventory write-offs,,,,,,,,,,,,,
+One-time implementation costs,,,,,,,,,,,,,
+Total Costs,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+BENEFITS,,,,,,,,,,,,,
+Reduced complexity costs,,,,,,,,,,,,,
+Inventory carrying cost savings,,,,,,,,,,,,,
+Improved forecast accuracy value,,,,,,,,,,,,,
+Freed-up capacity value,,,,,,,,,,,,,
+Total Benefits,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+NET BENEFIT,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+IMPLEMENTATION TIMELINE,,,,,,,,,,,,,
+Phase,Activities,Start Date,End Date,Owner,Status,Milestones,,,,,,,
+Phase 1 - Analysis,Complete rationalization analysis,,,,,"List finalized",,,,,,
+Phase 2 - Approval,Executive approval and customer notification,,,,,"Decisions approved",,,,,,
+Phase 3 - Communication,Customer communication and migration support,,,,,"Customers notified",,,,,,
+Phase 4 - Execution,Inventory disposition and system updates,,,,,"SKUs deactivated",,,,,,
+Phase 5 - Close-out,Document lessons learned and benefits,,,,,"Benefits tracked",,,,,,

@@ -1,0 +1,89 @@
+STATISTICAL FORECAST TEMPLATE,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Instructions: Generate statistical baseline forecasts using this template. Update weekly before demand review cycle.,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+FORECAST CONFIGURATION,,,,,,,,,,,,,,,
+Parameter,Value,Notes,,,,,,,,,,,,
+Forecast Horizon,24 months,Standard IBP horizon,,,,,,,,,,,,
+Base Time Series,Shipment history,Preferred data source,,,,,,,,,,,,
+History Depth,36 months,Minimum for seasonal patterns,,,,,,,,,,,,
+Forecast Level,SKU-Location,Lowest level for aggregation,,,,,,,,,,,,
+Update Frequency,Monthly,Aligned with IBP cycle,,,,,,,,,,,,
+Outlier Treatment,Flag and adjust,>3 standard deviations,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+DEMAND PATTERN CLASSIFICATION,,,,,,,,,,,,,,,
+Pattern,Description,Recommended Model,SKU Count,% of Portfolio,Revenue %,,,,,,,,,
+Smooth,Low variability (CV<0.5),Moving Average/Exponential Smoothing,,,,,,,,,,,,,
+Trending,Clear upward/downward trend,Holt's Linear/Regression,,,,,,,,,,,,,
+Seasonal,Repeating seasonal pattern,Holt-Winters/Seasonal Decomposition,,,,,,,,,,,,,
+Intermittent,Sporadic demand (ADI>1.32),Croston/SBA,,,,,,,,,,,,,
+Lumpy,High variability + intermittent,Croston/TSB,,,,,,,,,,,,,
+New,<12 months history,Analogous product/Judgmental,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+STATISTICAL FORECAST OUTPUT - SUMMARY BY FAMILY,,,,,,,,,,,,,,,
+Product Family,M1,M2,M3,M4,M5,M6,M7,M8,M9,M10,M11,M12,Q1,Q2,Q3,Q4
+Family A - Units,,,,,,,,,,,,,,,,
+Family A - Revenue ($K),,,,,,,,,,,,,,,,
+Family B - Units,,,,,,,,,,,,,,,,
+Family B - Revenue ($K),,,,,,,,,,,,,,,,
+Family C - Units,,,,,,,,,,,,,,,,
+Family C - Revenue ($K),,,,,,,,,,,,,,,,
+Family D - Units,,,,,,,,,,,,,,,,
+Family D - Revenue ($K),,,,,,,,,,,,,,,,
+TOTAL - Units,,,,,,,,,,,,,,,,
+TOTAL - Revenue ($K),,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+STATISTICAL FORECAST OUTPUT - SKU LEVEL,,,,,,,,,,,,,,,
+SKU Code,Product Name,Family,Location,Pattern,Model Used,M1,M2,M3,M4,M5,M6,Q1 Total,H1 Total,FY Total
+,,,,Smooth/Trending/Seasonal/Intermittent,Model name,,,,,,,,,
+,,,,Smooth/Trending/Seasonal/Intermittent,Model name,,,,,,,,,
+,,,,Smooth/Trending/Seasonal/Intermittent,Model name,,,,,,,,,
+,,,,Smooth/Trending/Seasonal/Intermittent,Model name,,,,,,,,,
+,,,,Smooth/Trending/Seasonal/Intermittent,Model name,,,,,,,,,
+,,,,,,,,,,,,,,,
+FORECAST ERROR METRICS BY SKU,,,,,,,,,,,,,,,
+SKU Code,Product Name,Historical MAPE,Historical Bias,Forecast MAPE (3mo),Forecast Bias (3mo),Tracking Signal,Model Fit Score,Last Refit Date,Refit Needed?
+,,,,,,,,,"Yes/No"
+,,,,,,,,,"Yes/No"
+,,,,,,,,,"Yes/No"
+,,,,,,,,,"Yes/No"
+,,,,,,,,,"Yes/No"
+,,,,,,,,,,,,,,,
+OUTLIER DETECTION LOG,,,,,,,,,,,,,,,
+Date,SKU Code,Actual Value,Expected Value,Deviation %,Outlier Type,Treatment Applied,Adjusted Value,Notes
+,,,,,Spike/Drop/Structural,Include/Exclude/Adjust,,
+,,,,,Spike/Drop/Structural,Include/Exclude/Adjust,,
+,,,,,Spike/Drop/Structural,Include/Exclude/Adjust,,
+,,,,,Spike/Drop/Structural,Include/Exclude/Adjust,,
+,,,,,,,,,,,,,,,
+SEASONALITY INDICES,,,,,,,,,,,,,,,
+Product Family,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Peak Month,Trough Month
+Family A,,,,,,,,,,,,,,
+Family B,,,,,,,,,,,,,,
+Family C,,,,,,,,,,,,,,
+Family D,,,,,,,,,,,,,,
+Overall,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Index Interpretation: 1.0 = Average month; >1.0 = Above average; <1.0 = Below average,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+MODEL PERFORMANCE COMPARISON,,,,,,,,,,,,,,,
+SKU Code,Naive MAPE,Moving Avg MAPE,Exp Smooth MAPE,Holt MAPE,Holt-Winters MAPE,Regression MAPE,Best Model,Selected Model
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,,,,,,,,
+FORECAST CONFIDENCE INTERVALS,,,,,,,,,,,,,,,
+SKU Code,Product Name,Point Forecast M1,Lower 80%,Upper 80%,Lower 95%,Upper 95%,Confidence Width,Planning Recommendation
+,,,,,,,,"Use point forecast"
+,,,,,,,,"Build safety stock"
+,,,,,,,,"Scenario planning recommended"
+,,,,,,,,"High uncertainty - judgmental review"
+,,,,,,,,,,,,,,,
+AGGREGATION RECONCILIATION,,,,,,,,,,,,,,,
+Level,M1 Forecast,M2 Forecast,M3 Forecast,Sum of Lower Level,Reconciliation Adjustment,Reconciled Value,Variance %
+Total Company,,,,,,,"Should be 0%"
+By Region,,,,,,,"Should be 0%"
+By Family,,,,,,,"Should be 0%"
+By Customer Segment,,,,,,,"Should be 0%"
+SKU-Location (Base),,,,N/A,N/A,N/A,N/A

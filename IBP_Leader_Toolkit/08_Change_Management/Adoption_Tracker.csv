@@ -1,0 +1,21 @@
+Metric_Category,Metric_ID,Metric_Name,Definition,Target,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,YTD,Status,Trend,Intervention_Required
+Training,TRN-COMP-01,Training Completion - Foundations,Percentage of participants completing IBP Foundations,100%,0,0,15,45,75,90,95,98,100,100,100,100,100,Green,Complete,No
+Training,TRN-COMP-02,Training Completion - Role-Based,Percentage completing role-specific training,100%,0,0,0,10,30,55,75,85,92,95,98,100,100,Green,Improving,No
+Training,TRN-CERT-01,Certification Rate,Percentage achieving IBP certification,80%,0,0,0,5,15,35,50,65,75,80,82,85,85,Green,Improving,No
+Training,TRN-SAT-01,Training Satisfaction,Average satisfaction score for training,4.0,0,0,3.8,3.9,4.0,4.1,4.2,4.1,4.2,4.2,4.3,4.3,4.1,Green,Improving,No
+Attendance,ATT-PROD,Product Review Attendance,Average attendance at Product Review,100%,0,0,85,88,92,95,98,100,100,100,100,100,96,Green,Improving,No
+Attendance,ATT-DEM,Demand Review Attendance,Average attendance at Demand Review,100%,0,0,80,85,88,92,95,98,100,100,100,100,95,Green,Improving,No
+Attendance,ATT-SUP,Supply Review Attendance,Average attendance at Supply Review,100%,0,0,90,92,95,98,100,100,100,100,100,100,98,Green,Stable,No
+Attendance,ATT-FIN,Financial Review Attendance,Average attendance at Financial Review,100%,0,0,92,95,98,100,100,100,100,100,100,100,98,Green,Stable,No
+Attendance,ATT-EXEC,Executive IBP Attendance,Average executive attendance,100%,0,0,75,80,85,90,95,98,100,100,100,100,93,Green,Improving,No
+Compliance,COMP-PREP,Preparation Compliance,Materials prepared on time per process,100%,0,0,70,78,85,90,92,95,98,100,100,100,92,Green,Improving,No
+Compliance,COMP-DEAD,Deadline Compliance,Key deadlines met per calendar,100%,0,0,75,80,85,90,95,95,98,100,100,100,93,Green,Improving,No
+Compliance,COMP-OUT,Output Compliance,Outputs delivered per process,100%,0,0,72,80,85,88,92,95,98,100,100,100,92,Green,Improving,No
+System,SYS-LOG,System Login Rate,Users logging into planning system monthly,100%,0,0,60,70,80,85,90,92,95,98,100,100,88,Green,Improving,No
+System,SYS-USE,Active System Usage,Users actively using system (>5 actions/week),80%,0,0,40,50,60,68,75,78,82,85,88,90,72,Yellow,Improving,Monitor user engagement
+Engagement,ENG-SURV,Engagement Survey Score,Periodic survey on IBP engagement,4.0,0,0,3.2,0,0,3.5,0,0,3.8,0,0,4.0,3.6,Yellow,Improving,Address engagement gaps
+Engagement,ENG-FDBK,Feedback Submissions,Feedback and suggestions submitted,N/A,0,0,15,22,28,35,40,42,45,48,50,52,377,Green,Improving,Continue feedback program
+Engagement,ENG-CHAMP,Champion Activity,Champion network activities completed,100%,0,0,70,75,80,85,90,92,95,98,100,100,90,Green,Improving,No
+Behavior,BEH-XFUNC,Cross-Functional Collaboration Score,Survey on collaboration effectiveness,4.0,0,0,3.0,0,0,3.4,0,0,3.7,0,0,4.0,3.5,Yellow,Improving,Continue collaboration focus
+Behavior,BEH-DATA,Data-Driven Decision Score,Survey on data use in decisions,4.0,0,0,3.2,0,0,3.5,0,0,3.8,0,0,4.1,3.6,Green,Improving,No
+Sustainability,SUST-RET,Process Retention,Continued adherence after 6 months,90%,0,0,0,0,0,0,0,0,92,92,93,94,93,Green,Stable,No

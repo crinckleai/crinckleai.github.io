@@ -1,0 +1,106 @@
+DEMAND ASSUMPTIONS LOG,,,,,,,,,
+,,,,,,,,,
+Instructions: Document all assumptions underlying the demand plan. Review and validate monthly. Critical for plan transparency and audit trail.,,,,,,,,,
+,,,,,,,,,
+ASSUMPTIONS SUMMARY,,,,,,,,,
+Category,Total Assumptions,Valid,Changed This Month,Expired,High Impact,Requiring Review
+Economic,,,,,,,
+Market/Competitive,,,,,,,
+Customer-Specific,,,,,,,
+Product/Portfolio,,,,,,,
+Pricing,,,,,,,
+Promotional,,,,,,,
+Channel/Distribution,,,,,,,
+Regulatory/External,,,,,,,
+TOTAL,,,,,,,
+,,,,,,,,,
+ECONOMIC ASSUMPTIONS,,,,,,,,,
+ID,Assumption,Value/Description,Source,Impact Level,Affected SKUs/Families,Confidence,Valid Through,Status,Last Reviewed
+E001,GDP Growth Rate,,,High/Medium/Low,,,Valid/Changed/Expired,
+E002,Industry Growth Rate,,,High/Medium/Low,,,Valid/Changed/Expired,
+E003,Inflation Rate,,,High/Medium/Low,,,Valid/Changed/Expired,
+E004,Exchange Rate (key currencies),,,High/Medium/Low,,,Valid/Changed/Expired,
+E005,Interest Rates,,,High/Medium/Low,,,Valid/Changed/Expired,
+E006,Consumer Confidence,,,High/Medium/Low,,,Valid/Changed/Expired,
+E007,Commodity Prices,,,High/Medium/Low,,,Valid/Changed/Expired,
+,,,,,,,,,
+MARKET & COMPETITIVE ASSUMPTIONS,,,,,,,,,
+ID,Assumption,Value/Description,Source,Impact Level,Affected SKUs/Families,Confidence,Valid Through,Status,Last Reviewed
+M001,Total Addressable Market Size,,,High/Medium/Low,,,Valid/Changed/Expired,
+M002,Market Growth Rate,,,High/Medium/Low,,,Valid/Changed/Expired,
+M003,Our Market Share,,,High/Medium/Low,,,Valid/Changed/Expired,
+M004,Competitor A - Market Share,,,High/Medium/Low,,,Valid/Changed/Expired,
+M005,Competitor A - Pricing Strategy,,,High/Medium/Low,,,Valid/Changed/Expired,
+M006,Competitor B - New Product Launch,,,High/Medium/Low,,,Valid/Changed/Expired,
+M007,New Market Entrants,,,High/Medium/Low,,,Valid/Changed/Expired,
+M008,Technology Disruption,,,High/Medium/Low,,,Valid/Changed/Expired,
+,,,,,,,,,
+CUSTOMER-SPECIFIC ASSUMPTIONS,,,,,,,,,
+ID,Customer,Assumption,Value/Description,Source,Impact ($K),Confidence,Valid Through,Status,Last Reviewed
+C001,Customer A,Annual volume commitment,,,High/Medium/Low,,Valid/Changed/Expired,
+C002,Customer A,Price agreement,,,High/Medium/Low,,Valid/Changed/Expired,
+C003,Customer B,Contract renewal,,,High/Medium/Low,,Valid/Changed/Expired,
+C004,Customer B,Expansion plans,,,High/Medium/Low,,Valid/Changed/Expired,
+C005,Customer C,Competitive threat,,,High/Medium/Low,,Valid/Changed/Expired,
+C006,New Customer X,Win probability,,,High/Medium/Low,,Valid/Changed/Expired,
+,,,,,,,,,
+PRODUCT & PORTFOLIO ASSUMPTIONS,,,,,,,,,
+ID,Product/Family,Assumption,Value/Description,Impact Level,Confidence,Valid Through,Status,Last Reviewed
+P001,[NPI Product A],Launch date,,,High/Medium/Low,,Valid/Changed/Expired,
+P002,[NPI Product A],Ramp rate,,,High/Medium/Low,,Valid/Changed/Expired,
+P003,[NPI Product A],Cannibalization %,,,High/Medium/Low,,Valid/Changed/Expired,
+P004,[Existing Product B],Lifecycle stage,,,High/Medium/Low,,Valid/Changed/Expired,
+P005,[Sunset Product C],Last order date,,,High/Medium/Low,,Valid/Changed/Expired,
+P006,[Family D],Mix shift trend,,,High/Medium/Low,,Valid/Changed/Expired,
+,,,,,,,,,
+PRICING ASSUMPTIONS,,,,,,,,,
+ID,Product/Family,Assumption,Current Price,Assumed Price,Effective Date,Volume Impact,Revenue Impact,Confidence,Status
+PR001,[Product A],Annual price increase,,,,,High/Medium/Low,Valid/Changed/Expired
+PR002,[Family B],Promotional pricing,,,,,High/Medium/Low,Valid/Changed/Expired
+PR003,[Product C],Competitive price match,,,,,High/Medium/Low,Valid/Changed/Expired
+PR004,[Customer D],Contract pricing,,,,,High/Medium/Low,Valid/Changed/Expired
+,,,,,,,,,
+PROMOTIONAL ASSUMPTIONS,,,,,,,,,
+ID,Promotion Name,Products Affected,Start Date,End Date,Baseline Lift %,Cannibalization %,Net Impact,Confidence,Status
+PM001,[Promo A],,,,,,High/Medium/Low,Valid/Changed/Expired
+PM002,[Promo B],,,,,,High/Medium/Low,Valid/Changed/Expired
+PM003,[Trade Show C],,,,,,High/Medium/Low,Valid/Changed/Expired
+PM004,[Campaign D],,,,,,High/Medium/Low,Valid/Changed/Expired
+,,,,,,,,,
+CHANNEL & DISTRIBUTION ASSUMPTIONS,,,,,,,,,
+ID,Channel/Region,Assumption,Value/Description,Impact Level,Confidence,Valid Through,Status,Last Reviewed
+D001,E-commerce,Growth rate,,,High/Medium/Low,,Valid/Changed/Expired,
+D002,Distribution,New distributor,,,High/Medium/Low,,Valid/Changed/Expired,
+D003,Direct sales,Coverage expansion,,,High/Medium/Low,,Valid/Changed/Expired,
+D004,[Region X],Market entry timing,,,High/Medium/Low,,Valid/Changed/Expired,
+,,,,,,,,,
+REGULATORY & EXTERNAL ASSUMPTIONS,,,,,,,,,
+ID,Assumption,Description,Impact Level,Affected SKUs/Regions,Probability,Valid Through,Status,Contingency Plan
+R001,Regulatory approval timing,,,High/Medium/Low,,,Valid/Changed/Expired,
+R002,Tariff/trade policy,,,High/Medium/Low,,,Valid/Changed/Expired,
+R003,Environmental regulation,,,High/Medium/Low,,,Valid/Changed/Expired,
+R004,Industry standards change,,,High/Medium/Low,,,Valid/Changed/Expired,
+,,,,,,,,,
+ASSUMPTION CHANGE LOG,,,,,,,,,
+Date,Assumption ID,Previous Value,New Value,Reason for Change,Impact on Demand Plan,Changed By,Approved By
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,,
+HIGH-IMPACT ASSUMPTIONS REQUIRING EXECUTIVE VISIBILITY,,,,,,,,,
+ID,Assumption,Category,Potential Impact ($M),Probability of Change,Risk Level,Escalation Status,Decision Required
+,,,,"High/Medium/Low","High/Medium/Low","Escalated/Monitoring/Resolved",
+,,,,"High/Medium/Low","High/Medium/Low","Escalated/Monitoring/Resolved",
+,,,,"High/Medium/Low","High/Medium/Low","Escalated/Monitoring/Resolved",
+,,,,,,,,,
+ASSUMPTION VALIDATION SCHEDULE,,,,,,,,,
+Assumption Category,Validation Frequency,Next Review Date,Responsible Party,Validation Method,Last Validation Date
+Economic,Quarterly,,,Market research/External data,
+Market/Competitive,Monthly,,,Competitive intelligence,
+Customer-Specific,Monthly,,,Sales team input,
+Product/Portfolio,Monthly,,,Product management,
+Pricing,As needed,,,Finance/Pricing team,
+Promotional,Per campaign,,,Marketing,
+Channel/Distribution,Quarterly,,,Channel management,
+Regulatory/External,Quarterly,,,Legal/Compliance,

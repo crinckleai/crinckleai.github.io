@@ -1,0 +1,92 @@
+PLAN VS ACTUAL ANALYSIS,,,,,,,,,
+,,,,,,,,,
+Instructions: Compare operating plan to actual results and budget. Update monthly after month-end close.,,,,,,,,,
+,,,,,,,,,
+P&L SUMMARY - CURRENT MONTH,,,,,,,,,
+Line Item,Actual ($M),Operating Plan ($M),Variance ($M),Variance %,Budget ($M),vs Budget ($M),vs Budget %,vs PY ($M)
+Gross Revenue,,,,,,,,,
+- Discounts & Allowances,,,,,,,,,
+= Net Revenue,,,,,,,,,
+- COGS,,,,,,,,,
+= Gross Profit,,,,,,,,,
+Gross Margin %,,,,,,,,,
+- SG&A,,,,,,,,,
+- R&D,,,,,,,,,
+= Operating Income,,,,,,,,,
+Operating Margin %,,,,,,,,,
+,,,,,,,,,
+P&L SUMMARY - YEAR TO DATE,,,,,,,,,
+Line Item,Actual ($M),Operating Plan ($M),Variance ($M),Variance %,Budget ($M),vs Budget ($M),vs Budget %,vs PY ($M)
+Gross Revenue,,,,,,,,,
+- Discounts & Allowances,,,,,,,,,
+= Net Revenue,,,,,,,,,
+- COGS,,,,,,,,,
+= Gross Profit,,,,,,,,,
+Gross Margin %,,,,,,,,,
+- SG&A,,,,,,,,,
+- R&D,,,,,,,,,
+= Operating Income,,,,,,,,,
+Operating Margin %,,,,,,,,,
+,,,,,,,,,
+REVENUE VARIANCE BRIDGE,,,,,,,,,
+Component,Impact ($M),Impact %,Driver,Category,Controllable?,Action Owner
+Operating Plan Revenue,,100%,Baseline,,,
++/- Volume variance,,,Units sold vs plan,Volume,Partially,Sales
++/- Price variance,,,ASP vs plan,Price,Yes,Sales/Marketing
++/- Mix variance,,,Product mix vs plan,Mix,Partially,Sales/Product
++/- FX variance,,,Currency impact,FX,No,Treasury
+= Actual Revenue,,,,,,,
+,,,,,,,,,
+GROSS MARGIN VARIANCE BRIDGE,,,,,,,,,
+Component,Impact ($M),Impact %,Driver,Category,Controllable?,Action Owner
+Operating Plan GM,,100%,Baseline,,,
++/- Volume leverage,,,Fixed cost absorption,Volume,Partially,Operations
++/- Material cost variance,,,Input cost changes,Cost,Partially,Procurement
++/- Labor cost variance,,,Labor efficiency/rates,Cost,Yes,Operations
++/- Overhead variance,,,Fixed cost variance,Cost,Yes,Operations
++/- Mix impact,,,Product margin mix,Mix,Partially,Sales
++/- Price impact,,,Price changes,Price,Yes,Sales
+= Actual GM,,,,,,,
+,,,,,,,,,
+VARIANCE DETAIL BY PRODUCT FAMILY,,,,,,,,,
+Product Family,Revenue Actual,Revenue Plan,Rev Variance,GM% Actual,GM% Plan,GM Variance,Volume Variance,Price Variance,Mix Variance
+Family A,,,,,,,,,,
+Family B,,,,,,,,,,
+Family C,,,,,,,,,,
+Family D,,,,,,,,,,
+TOTAL,,,,,,,,,,
+,,,,,,,,,
+VARIANCE DETAIL BY REGION,,,,,,,,,
+Region,Revenue Actual,Revenue Plan,Rev Variance,GM% Actual,GM% Plan,GM Variance,Key Driver,Action Required
+North America,,,,,,,,
+Europe,,,,,,,,
+Asia Pacific,,,,,,,,
+Latin America,,,,,,,,
+MEA,,,,,,,,
+TOTAL,,,,,,,,
+,,,,,,,,,
+FORECAST EVOLUTION,,,,,,,,,
+Metric,3 Months Ago,2 Months Ago,1 Month Ago,Current,Actual,Final Variance,Stability Score
+Revenue ($M),,,,,,,
+Gross Margin %,,,,,,,
+Operating Income ($M),,,,,,,
+,,,,,,,,,
+VARIANCE ROOT CAUSE ANALYSIS,,,,,,,,,
+Variance Category,This Month ($K),YTD ($K),Primary Root Cause,Contributing Factors,Systemic?,Corrective Action,Owner
+Volume shortfall,,,,,Yes/No,,
+Volume upside,,,,,Yes/No,,
+Unfavorable price,,,,,Yes/No,,
+Favorable price,,,,,Yes/No,,
+Unfavorable mix,,,,,Yes/No,,
+Material cost increase,,,,,Yes/No,,
+Labor cost variance,,,,,Yes/No,,
+Overhead variance,,,,,Yes/No,,
+FX impact,,,,,Yes/No,,
+,,,,,,,,,
+FULL YEAR PROJECTION VS TARGETS,,,,,,,,,
+Metric,Current FY Forecast,Budget,Gap to Budget,Annual Target,Gap to Target,Required Monthly Run Rate,Achievability
+Revenue ($M),,,,,,,"High/Medium/Low"
+Gross Margin ($M),,,,,,,"High/Medium/Low"
+Gross Margin %,,,,,,,"High/Medium/Low"
+Operating Income ($M),,,,,,,"High/Medium/Low"
+Operating Margin %,,,,,,,"High/Medium/Low"

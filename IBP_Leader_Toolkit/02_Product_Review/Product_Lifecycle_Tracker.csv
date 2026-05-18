@@ -1,0 +1,73 @@
+PRODUCT LIFECYCLE TRACKER,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions: Track all products through their lifecycle stages. Update monthly before Product Review.,,,,,,,,,,,
+,,,,,,,,,,,
+LIFECYCLE STAGE DEFINITIONS,,,,,,,,,,,
+Stage,Description,Typical Duration,Key Characteristics,IBP Actions,,,,,,,
+Introduction,Product recently launched,0-12 months,Building awareness; limited distribution; high investment,Demand uncertainty; supply ramp-up focus,,,,,,,
+Growth,Rapid sales increase,12-36 months,Market acceptance; expanding distribution; competition enters,Aggressive forecasting; capacity investment,,,,,,,
+Maturity,Sales plateau,36-60 months,Peak sales; price competition; market saturation,Optimize costs; defend share; variant management,,,,,,,
+Decline,Sales decreasing,60+ months,Falling demand; margin pressure; customer migration,Manage tail; plan sunset; inventory reduction,,,,,,,
+End of Life,Planned sunset,Defined period,Active phase-out; customer transition; inventory liquidation,Communication; disposition; replacement promotion,,,,,,,
+,,,,,,,,,,,
+LIFECYCLE STAGE SUMMARY,,,,,,,,,,,
+Stage,SKU Count,% of Portfolio,Revenue ($M),% of Revenue,Margin %,Avg Age (months),Trend vs Prior Month,Key Actions Required
+Introduction,,,,,,,,"Demand sensing; supply readiness"
+Growth,,,,,,,,"Capacity planning; market expansion"
+Maturity,,,,,,,,"Cost optimization; price management"
+Decline,,,,,,,,"Rationalization evaluation"
+End of Life,,,,,,,,"Exit execution"
+TOTAL,,,,,,,,
+,,,,,,,,,,,
+PRODUCT LIFECYCLE DETAIL,,,,,,,,,,,
+SKU Code,Product Name,Product Family,Launch Date,Age (months),Current Stage,Stage Entry Date,Stage Duration,Revenue Trend (3mo),Margin Trend (3mo),Next Stage Trigger,Recommended Action
+,,,,,Introduction/Growth/Maturity/Decline/EOL,,,,Increasing/Stable/Declining,Improving/Stable/Declining,,
+,,,,,Introduction/Growth/Maturity/Decline/EOL,,,,Increasing/Stable/Declining,Improving/Stable/Declining,,
+,,,,,Introduction/Growth/Maturity/Decline/EOL,,,,Increasing/Stable/Declining,Improving/Stable/Declining,,
+,,,,,Introduction/Growth/Maturity/Decline/EOL,,,,Increasing/Stable/Declining,Improving/Stable/Declining,,
+,,,,,Introduction/Growth/Maturity/Decline/EOL,,,,Increasing/Stable/Declining,Improving/Stable/Declining,,
+,,,,,,,,,,,
+STAGE TRANSITION CRITERIA,,,,,,,,,,,
+From Stage,To Stage,Revenue Criteria,Volume Criteria,Margin Criteria,Market Criteria,Time Criteria,Approval Required
+Introduction,Growth,3 consecutive months of growth >10%,Volume exceeds forecast 2 months,GM% meets target,Distribution targets met,Min 6 months,Product Manager
+Growth,Maturity,Revenue growth <5% for 3 months,Volume stabilizing,Margin pressure emerging,Market share plateauing,Min 12 months,VP Product
+Maturity,Decline,Revenue decline >10% for 3 months,Volume declining consistently,Margin <target,Competitive pressure/obsolescence,N/A,VP Product
+Decline,End of Life,Sunset decision made,N/A,N/A,Replacement available,N/A,Executive IBP
+,,,,,,,,,,,
+LIFECYCLE REVENUE PROJECTION,,,,,,,,,,,
+SKU Code,Product Name,Current Revenue ($K/mo),M+1,M+2,M+3,M+6,M+12,M+18,M+24,Assumptions
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,,
+END OF LIFE MANAGEMENT,,,,,,,,,,,
+SKU Code,Product Name,EOL Decision Date,Last Order Date,Last Ship Date,Remaining Inventory,Inventory Value ($K),Disposition Plan,Replacement SKU,Customer Communication,Status
+,,,,,,,Sell through/Discount/Scrap/Return,,Sent/Pending/N/A,On Track/Delayed/Complete
+,,,,,,,Sell through/Discount/Scrap/Return,,Sent/Pending/N/A,On Track/Delayed/Complete
+,,,,,,,Sell through/Discount/Scrap/Return,,Sent/Pending/N/A,On Track/Delayed/Complete
+,,,,,,,Sell through/Discount/Scrap/Return,,Sent/Pending/N/A,On Track/Delayed/Complete
+,,,,,,,,,,,
+PRODUCT FAMILY LIFECYCLE VIEW,,,,,,,,,,,
+Product Family,Intro SKUs,Intro Revenue %,Growth SKUs,Growth Revenue %,Mature SKUs,Mature Revenue %,Decline SKUs,Decline Revenue %,EOL SKUs,Portfolio Health Score
+,,,,,,,,,,1-5 (5=Healthy)
+,,,,,,,,,,1-5 (5=Healthy)
+,,,,,,,,,,1-5 (5=Healthy)
+,,,,,,,,,,1-5 (5=Healthy)
+,,,,,,,,,,1-5 (5=Healthy)
+,,,,,,,,,,,
+LIFECYCLE-BASED PLANNING PARAMETERS,,,,,,,,,,,
+Stage,Forecast Method,Planning Frequency,Safety Stock Policy,Lead Time Buffer,Price Flexibility,Promotional Support
+Introduction,Judgmental + analogs,Weekly,High (50% buffer),Extended (+25%),Premium,Heavy investment
+Growth,Statistical + market intel,Weekly,Moderate (30% buffer),Standard,Competitive,Moderate support
+Maturity,Statistical baseline,Monthly,Lean (15% buffer),Standard,Value-focused,Selective
+Decline,Declining trend,Monthly,Minimal (work down),Standard,Discount acceptable,None
+End of Life,Fixed quantity,Weekly (execution),Zero replenishment,N/A,Clearance,Clearance promotion
+,,,,,,,,,,,
+REPLACEMENT/TRANSITION MATRIX,,,,,,,,,,,
+Retiring SKU,Retiring SKU Name,Replacement SKU,Replacement Name,Transition Start,Transition End,Customer Overlap %,Revenue Transfer %,Communication Plan,Status
+,,,,,,,,,"Planned/In Progress/Complete"
+,,,,,,,,,"Planned/In Progress/Complete"
+,,,,,,,,,"Planned/In Progress/Complete"
+,,,,,,,,,"Planned/In Progress/Complete"

@@ -1,0 +1,81 @@
+SUPPLIER CAPACITY TRACKER,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions: Track supplier capacity alignment with demand plan. Update monthly; escalate gaps immediately.,,,,,,,,,,,
+,,,,,,,,,,,
+SUPPLIER CAPACITY SUMMARY,,,,,,,,,,,
+Metric,Current Month,Prior Month,Trend,Target,Status,Key Issue
+Total Strategic Suppliers,,,,,"Green/Yellow/Red",
+Suppliers with Capacity Confirmed,,,,,"Green/Yellow/Red",
+Suppliers with Capacity Gap,,,,,"Green/Yellow/Red",
+Total Capacity Gap ($K),,,,,"Green/Yellow/Red",
+Avg Supplier Lead Time (days),,,,,"Green/Yellow/Red",
+On-Time Delivery %,,,,,"Green/Yellow/Red",
+,,,,,,,,,,,
+STRATEGIC SUPPLIER CAPACITY STATUS,,,,,,,,,,,
+Supplier Name,Category,Tier,Our Demand M1,Their Capacity M1,Gap M1,Our Demand Q1,Their Capacity Q1,Gap Q1,Lead Time,Risk Level,Status
+,,"Tier 1/2/3",,,,,,,"weeks","High/Med/Low","Green/Yellow/Red"
+,,"Tier 1/2/3",,,,,,,"weeks","High/Med/Low","Green/Yellow/Red"
+,,"Tier 1/2/3",,,,,,,"weeks","High/Med/Low","Green/Yellow/Red"
+,,"Tier 1/2/3",,,,,,,"weeks","High/Med/Low","Green/Yellow/Red"
+,,"Tier 1/2/3",,,,,,,"weeks","High/Med/Low","Green/Yellow/Red"
+,,,,,,,,,,,
+SUPPLIER CAPACITY BY MATERIAL CATEGORY,,,,,,,,,,,
+Material Category,Demand M1,Capacity M1,Utilization %,Demand Q1,Capacity Q1,Utilization %,Constraint Risk,Primary Supplier,Backup Available?
+,,,,,,,"High/Med/Low",,"Yes/No"
+,,,,,,,"High/Med/Low",,"Yes/No"
+,,,,,,,"High/Med/Low",,"Yes/No"
+,,,,,,,"High/Med/Low",,"Yes/No"
+,,,,,,,,,,,
+SUPPLIER CAPACITY GAP ANALYSIS,,,,,,,,,,,
+Supplier,Material,Gap (units),Gap ($K),Impact on Our Production,Root Cause,Mitigation Plan,Resolution Date,Owner
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,,,,
+SUPPLIER FORECAST SHARING STATUS,,,,,,,,,,,
+Supplier,Forecast Shared?,Horizon Shared,Frequency,Last Shared Date,Supplier Acknowledgment,Capacity Confirmed?,Issues Raised
+,,"Yes/No","months","Weekly/Monthly",,,"Yes/No",
+,,"Yes/No","months","Weekly/Monthly",,,"Yes/No",
+,,"Yes/No","months","Weekly/Monthly",,,"Yes/No",
+,,"Yes/No","months","Weekly/Monthly",,,"Yes/No",
+,,,,,,,,,,,
+SUPPLIER LEAD TIME ANALYSIS,,,,,,,,,,,
+Supplier,Material,Quoted Lead Time,Actual Lead Time (avg),Variance,Trend,Impact on Planning,Improvement Actions
+,,,,"days","+/- days","Improving/Stable/Worsening",,
+,,,,"days","+/- days","Improving/Stable/Worsening",,
+,,,,"days","+/- days","Improving/Stable/Worsening",,
+,,,,"days","+/- days","Improving/Stable/Worsening",,
+,,,,,,,,,,,
+SUPPLIER RISK ASSESSMENT,,,,,,,,,,,
+Supplier,Financial Risk,Operational Risk,Geographic Risk,Single Source?,Spend ($M),% of Category,Overall Risk,Mitigation Strategy
+,,"High/Med/Low","High/Med/Low","High/Med/Low","Yes/No",,,"High/Med/Low",
+,,"High/Med/Low","High/Med/Low","High/Med/Low","Yes/No",,,"High/Med/Low",
+,,"High/Med/Low","High/Med/Low","High/Med/Low","Yes/No",,,"High/Med/Low",
+,,"High/Med/Low","High/Med/Low","High/Med/Low","Yes/No",,,"High/Med/Low",
+,,,,,,,,,,,
+ALTERNATIVE SUPPLIER QUALIFICATION STATUS,,,,,,,,,,,
+Material,Primary Supplier,Alternative Supplier,Qualification Status,Qualification Complete Date,Capacity Available,Price vs Primary,Activation Trigger
+,,,,"Qualified/In Progress/Not Started",,,
+,,,,"Qualified/In Progress/Not Started",,,
+,,,,"Qualified/In Progress/Not Started",,,
+,,,,"Qualified/In Progress/Not Started",,,
+,,,,,,,,,,,
+SUPPLIER CAPACITY RESERVATIONS,,,,,,,,,,,
+Supplier,Material,Reservation Type,Reserved Capacity,Reservation Period,Cost/Terms,Flexibility,Expiration Date,Renewal Status
+,,,"Firm commitment/Option/Allocation",,,,,,"Renew/Renegotiate/Cancel"
+,,,"Firm commitment/Option/Allocation",,,,,,"Renew/Renegotiate/Cancel"
+,,,"Firm commitment/Option/Allocation",,,,,,"Renew/Renegotiate/Cancel"
+,,,,,,,,,,,
+SUPPLIER PERFORMANCE SCORECARD,,,,,,,,,,,
+Supplier,Quality Score,Delivery Score,Cost Score,Responsiveness Score,Overall Score,Trend,Improvement Plan?
+,,"1-5","1-5","1-5","1-5","1-5","Improving/Stable/Declining","Yes/No"
+,,"1-5","1-5","1-5","1-5","1-5","Improving/Stable/Declining","Yes/No"
+,,"1-5","1-5","1-5","1-5","1-5","Improving/Stable/Declining","Yes/No"
+,,"1-5","1-5","1-5","1-5","1-5","Improving/Stable/Declining","Yes/No"
+,,,,,,,,,,,
+SUPPLIER COLLABORATION CALENDAR,,,,,,,,,,,
+Supplier,Meeting Type,Frequency,Last Meeting,Next Meeting,Key Topics,Action Items,Owner
+,,"QBR/Capacity Review/Forecast Share","Monthly/Quarterly",,,,,,
+,,"QBR/Capacity Review/Forecast Share","Monthly/Quarterly",,,,,,
+,,"QBR/Capacity Review/Forecast Share","Monthly/Quarterly",,,,,,

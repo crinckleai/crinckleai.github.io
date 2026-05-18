@@ -1,0 +1,121 @@
+CONSENSUS DEMAND WORKBOOK,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Instructions: Use this workbook to build consensus demand from statistical baseline through overlays. Complete before Demand Review meeting.,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+CONSENSUS DEMAND SUMMARY,,,,,,,,,,,,,,,
+Component,M1,M2,M3,Q1 Total,M4,M5,M6,Q2 Total,H1 Total,H2 Total,Full Year,vs Prior Consensus,vs Budget,vs PY
+Statistical Baseline,,,,,,,,,,,,,,"% change"
++ NPI Additions,,,,,,,,,,,,,,"% change"
+- Cannibalization,,,,,,,,,,,,,,"% change"
++ Sales Overlay,,,,,,,,,,,,,,"% change"
++ Marketing Overlay,,,,,,,,,,,,,,"% change"
++ Customer Intel,,,,,,,,,,,,,,"% change"
+- Product Exits,,,,,,,,,,,,,,"% change"
++/- Other Adjustments,,,,,,,,,,,,,,"% change"
+= CONSENSUS DEMAND,,,,,,,,,,,,,,"% change"
+,,,,,,,,,,,,,,,
+CONSENSUS BY PRODUCT FAMILY,,,,,,,,,,,,,,,
+Product Family,Statistical,NPI,Cannib,Sales Adj,Mktg Adj,Cust Intel,Exits,Other,Consensus,vs Prior,vs Budget,% of Total
+Family A,,,,,,,,,,,,,
+Family B,,,,,,,,,,,,,
+Family C,,,,,,,,,,,,,
+Family D,,,,,,,,,,,,,
+Family E,,,,,,,,,,,,,
+TOTAL,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+CONSENSUS BY REGION/MARKET,,,,,,,,,,,,,,,
+Region,Statistical,NPI,Cannib,Sales Adj,Mktg Adj,Cust Intel,Exits,Other,Consensus,vs Prior,vs Budget,% of Total
+North America,,,,,,,,,,,,,
+Europe,,,,,,,,,,,,,
+Asia Pacific,,,,,,,,,,,,,
+Latin America,,,,,,,,,,,,,
+Middle East/Africa,,,,,,,,,,,,,
+TOTAL,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+CONSENSUS BY CUSTOMER SEGMENT,,,,,,,,,,,,,,,
+Segment,Statistical,NPI,Cannib,Sales Adj,Mktg Adj,Cust Intel,Exits,Other,Consensus,vs Prior,vs Budget,% of Total
+Strategic Accounts,,,,,,,,,,,,,
+Key Accounts,,,,,,,,,,,,,
+Core Accounts,,,,,,,,,,,,,
+Distribution,,,,,,,,,,,,,
+Other,,,,,,,,,,,,,
+TOTAL,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+SALES OVERLAY DETAIL,,,,,,,,,,,,,,,
+SKU/Family,Region,Statistical Fcst,Sales Adjustment,Adjusted Fcst,Reason Code,Supporting Evidence,Sales Rep,Manager Approval,Confidence
+,,,,,See codes below,,"",,"High/Medium/Low"
+,,,,,See codes below,,"",,"High/Medium/Low"
+,,,,,See codes below,,"",,"High/Medium/Low"
+,,,,,See codes below,,"",,"High/Medium/Low"
+,,,,,,,,,
+Sales Adjustment Reason Codes:,,,,,,,,,,,,,,,
+SO1 - Customer commitment/order,,,,,,,,,,,,,,,
+SO2 - Competitive win/loss,,,,,,,,,,,,,,,
+SO3 - Customer expansion/contraction,,,,,,,,,,,,,,,
+SO4 - Timing shift (pull forward/push out),,,,,,,,,,,,,,,
+SO5 - Market condition change,,,,,,,,,,,,,,,
+SO6 - Price/volume trade-off,,,,,,,,,,,,,,,
+SO7 - Territory/coverage change,,,,,,,,,,,,,,,
+SO8 - Other (specify in notes),,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+MARKETING OVERLAY DETAIL,,,,,,,,,,,,,,,
+SKU/Family,Region,Statistical Fcst,Marketing Adjustment,Adjusted Fcst,Reason Code,Campaign/Event,Start Date,End Date,Lift %,Confidence
+,,,,,"See codes below",,,,,High/Medium/Low
+,,,,,"See codes below",,,,,High/Medium/Low
+,,,,,"See codes below",,,,,High/Medium/Low
+,,,,,"See codes below",,,,,High/Medium/Low
+,,,,,,,,,,,,,,,
+Marketing Adjustment Reason Codes:,,,,,,,,,,,,,,,
+MO1 - Promotional campaign,,,,,,,,,,,,,,,
+MO2 - Pricing action,,,,,,,,,,,,,,,
+MO3 - New channel/distribution,,,,,,,,,,,,,,,
+MO4 - Advertising/awareness campaign,,,,,,,,,,,,,,,
+MO5 - Trade show/event,,,,,,,,,,,,,,,
+MO6 - Product feature enhancement,,,,,,,,,,,,,,,
+MO7 - Competitive response,,,,,,,,,,,,,,,
+MO8 - Other (specify in notes),,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+NPI DEMAND ADDITIONS,,,,,,,,,,,,,,,
+Project Name,SKU Code,Launch Date,M1,M2,M3,M4,M5,M6,H1 Total,FY Total,Ramp Assumption,Cannibalization SKU,Cannibalization %
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+CUSTOMER INTELLIGENCE INPUTS,,,,,,,,,,,,,,,
+Customer,Contact,Intelligence Type,SKU/Family Affected,Forecast Impact,Timing,Confidence Level,Last Updated,Incorporated?
+,,"Forecast share/Commitment/Market intel/Project",,,,High/Medium/Low,,"Yes/No"
+,,"Forecast share/Commitment/Market intel/Project",,,,High/Medium/Low,,"Yes/No"
+,,"Forecast share/Commitment/Market intel/Project",,,,High/Medium/Low,,"Yes/No"
+,,"Forecast share/Commitment/Market intel/Project",,,,High/Medium/Low,,"Yes/No"
+,,,,,,,,,,,,,,,
+RISKS AND OPPORTUNITIES,,,,,,,,,,,,,,,
+Type,Description,SKU/Family,Region,Impact (units),Impact ($K),Probability,Weighted Impact,Owner,Mitigation/Capture Plan
+Upside,,,,,,,,,
+Upside,,,,,,,,,
+Downside,,,,,,,,,
+Downside,,,,,,,,,
+NET RISK/OPPORTUNITY,,,,,,,,,
+,,,,,,,,,,,,,,,
+DEMAND PLAN SCENARIOS,,,,,,,,,,,,,,,
+Scenario,Description,M1,M2,M3,Q1,H1,Full Year,vs Base,Probability,Use Case
+Base Case,Most likely outcome,,,,,,,,50%,"Primary planning scenario"
+Upside Case,Optimistic scenario,,,,,,,,25%,"Capacity planning trigger"
+Downside Case,Pessimistic scenario,,,,,,,,25%,"Risk planning trigger"
+Best Case,All opportunities realized,,,,,,,,10%,"Maximum capacity need"
+Worst Case,All risks materialize,,,,,,,,10%,"Contingency planning"
+,,,,,,,,,,,,,,,
+ASSUMPTION LOG,,,,,,,,,,,,,,,
+Assumption ID,Category,Assumption Description,Impact if Wrong,Confidence,Owner,Review Date,Status
+,Economic/Competitive/Customer/Internal,,High/Medium/Low,High/Medium/Low,,,"Valid/Changed/Expired"
+,Economic/Competitive/Customer/Internal,,High/Medium/Low,High/Medium/Low,,,"Valid/Changed/Expired"
+,Economic/Competitive/Customer/Internal,,High/Medium/Low,High/Medium/Low,,,"Valid/Changed/Expired"
+,Economic/Competitive/Customer/Internal,,High/Medium/Low,High/Medium/Low,,,"Valid/Changed/Expired"
+,,,,,,,,,,,,,,,
+CONSENSUS APPROVAL,,,,,,,,,,,,,,,
+Role,Name,Approval Status,Date,Comments
+VP Sales,,"Approved/Rejected/Pending",,
+Marketing Director,,"Approved/Rejected/Pending",,
+Demand Planning Manager,,"Approved/Rejected/Pending",,
+Finance Representative,,"Approved/Rejected/Pending",,
+IBP Process Owner,,"Approved/Rejected/Pending",,

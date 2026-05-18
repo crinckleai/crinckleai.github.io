@@ -1,0 +1,101 @@
+CAPACITY PLANNING TEMPLATE,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions: Complete rough-cut capacity planning for IBP planning horizon. Update monthly aligned with demand plan.,,,,,,,,,,,
+,,,,,,,,,,,
+CAPACITY SUMMARY DASHBOARD,,,,,,,,,,,
+Metric,Current Month,M+1,M+2,M+3,Q2,H1,H2,Full Year,Target Range,Status
+Overall Utilization %,,,,,,,,,"75-85%","Green/Yellow/Red"
+Bottleneck Utilization %,,,,,,,,,"<90%","Green/Yellow/Red"
+Available Capacity (hrs),,,,,,,,,,
+Required Capacity (hrs),,,,,,,,,,
+Capacity Gap (hrs),,,,,,,,,,
+Gap % of Required,,,,,,,,,"<5%","Green/Yellow/Red"
+,,,,,,,,,,,
+UTILIZATION ZONES,,,,,,,,,,,
+Zone,Range,Status,Implications,Actions,,,,,,,
+Under-utilized,<70%,Yellow,"Excess cost; potential flex down opportunity","Evaluate cost reduction; offer flexibility to customers",,,,,,,
+Optimal,70-85%,Green,"Balanced cost and flexibility","Maintain; fine-tune mix",,,,,,,
+High,85-90%,Yellow,"Limited flexibility; overtime may be needed","Prepare contingency; evaluate capacity options",,,,,,,
+Constrained,>90%,Red,"Service risk; expediting likely","Urgent capacity action; demand management needed",,,,,,,
+,,,,,,,,,,,
+CAPACITY BY RESOURCE/WORK CENTER,,,,,,,,,,,
+Resource/Work Center,Theoretical Capacity,Demonstrated Capacity,M1 Required,M1 Util %,M2 Required,M2 Util %,M3 Required,M3 Util %,Bottleneck?,Status
+,,,,,,,,,Yes/No,"Green/Yellow/Red"
+,,,,,,,,,Yes/No,"Green/Yellow/Red"
+,,,,,,,,,Yes/No,"Green/Yellow/Red"
+,,,,,,,,,Yes/No,"Green/Yellow/Red"
+,,,,,,,,,Yes/No,"Green/Yellow/Red"
+,,,,,,,,,Yes/No,"Green/Yellow/Red"
+TOTAL,,,,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+CAPACITY CALCULATION ASSUMPTIONS,,,,,,,,,,,
+Parameter,Value,Unit,Notes,,,,,,,,
+Standard hours per shift,,,hours per shift,,,,,,,,
+Shifts per day,,,shifts,,,,,,,,
+Working days per month,,,days (varies by month),,,,,,,,
+Planned downtime %,,,% for maintenance/changeover,,,,,,,,
+Efficiency factor,,,demonstrated vs theoretical,,,,,,,,
+Overtime allowance,,,max overtime hours per month,,,,,,,,
+,,,,,,,,,,,
+CAPACITY BY PRODUCT FAMILY,,,,,,,,,,,
+Product Family,Hours per Unit,M1 Demand (units),M1 Capacity Req,M2 Demand,M2 Capacity Req,M3 Demand,M3 Capacity Req,Total Q1 Req,% of Total Capacity
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+TOTAL,,,,,,,,,,
+,,,,,,,,,,,
+CAPACITY GAP ANALYSIS,,,,,,,,,,,
+Period,Demand (units),Required Capacity,Available Capacity,Gap (hrs),Gap %,Gap Closure Options,Selected Option,Residual Gap
+M1,,,,,,"OT/Outsource/Demand shift/None",,
+M2,,,,,,"OT/Outsource/Demand shift/None",,
+M3,,,,,,"OT/Outsource/Demand shift/None",,
+Q2,,,,,,"OT/Outsource/Demand shift/None",,
+H2,,,,,,"OT/Outsource/Demand shift/None",,
+,,,,,,,,,,,
+CAPACITY LEVERS,,,,,,,,,,,
+Lever,Description,Capacity Impact (hrs/mo),Lead Time,Cost/Unit Impact,Constraints,Currently Active?
+Overtime,Extended hours,,,+$X.XX,"Labor agreements; fatigue","Yes/No"
+Additional shift,Add shift at existing facility,,,+$X.XX,"Hiring; training time","Yes/No"
+Outsourcing,Contract manufacturing,,,+$X.XX,"Quality; IP; capacity availability","Yes/No"
+Temporary labor,Contract workers,,,+$X.XX,"Training; productivity ramp","Yes/No"
+Equipment upgrade,Increase throughput,,,Capital investment,"Lead time; downtime for install","Yes/No"
+New equipment,Add capacity,,,Capital investment,"Space; lead time; capital approval","Yes/No"
+Demand shaping,Price/allocation to manage demand,,,"Revenue impact","Customer relationship","Yes/No"
+,,,,,,,,,,,
+BOTTLENECK ANALYSIS,,,,,,,,,,,
+Rank,Work Center,Current Utilization,M3 Utilization,Constraint Type,Limiting Factor,Short-term Mitigation,Long-term Solution,Investment Required
+1,,,,"Equipment/Labor/Space/Supplier",,,,
+2,,,,"Equipment/Labor/Space/Supplier",,,,
+3,,,,"Equipment/Labor/Space/Supplier",,,,
+,,,,,,,,,,,
+SCENARIO CAPACITY REQUIREMENTS,,,,,,,,,,,
+Scenario,M1,M2,M3,Q2,H1,H2,FY,Gap vs Available,Feasibility
+Base Case,,,,,,,,,Feasible/At Risk/Not Feasible
+Upside (+10%),,,,,,,,,Feasible/At Risk/Not Feasible
+Upside (+20%),,,,,,,,,Feasible/At Risk/Not Feasible
+Downside (-10%),,,,,,,,,Feasible/At Risk/Not Feasible
+,,,,,,,,,,,
+CAPACITY INVESTMENT REQUESTS,,,,,,,,,,,
+Investment ID,Description,Capacity Impact,Investment ($K),Payback Period,ROI %,Urgency,Status,Decision Date,Approved?
+,,,"","months",,"Critical/High/Medium/Low","Requested/In Review/Approved/Rejected",,Yes/No
+,,,"","months",,"Critical/High/Medium/Low","Requested/In Review/Approved/Rejected",,Yes/No
+,,,"","months",,"Critical/High/Medium/Low","Requested/In Review/Approved/Rejected",,Yes/No
+,,,,,,,,,,,
+CAPACITY CALENDAR VIEW,,,,,,,,,,,
+Week,M1-W1,M1-W2,M1-W3,M1-W4,M2-W1,M2-W2,M2-W3,M2-W4,M3-W1,M3-W2,M3-W3,M3-W4
+Available Capacity,,,,,,,,,,,,
+Required Capacity,,,,,,,,,,,,
+Utilization %,,,,,,,,,,,,
+Status,,,,,,,,,,,,
+Planned Downtime,,,,,,,,,,,,
+,,,,,,,,,,,
+LABOR CAPACITY,,,,,,,,,,,
+Skill Category,Headcount,Available Hours,Required Hours,Gap,Training Pipeline,Hire Plan,Status
+Operators - Skilled,,,,,,,Green/Yellow/Red
+Operators - General,,,,,,,Green/Yellow/Red
+Technicians,,,,,,,Green/Yellow/Red
+Quality,,,,,,,Green/Yellow/Red
+Supervisors,,,,,,,Green/Yellow/Red
+TOTAL,,,,,,,

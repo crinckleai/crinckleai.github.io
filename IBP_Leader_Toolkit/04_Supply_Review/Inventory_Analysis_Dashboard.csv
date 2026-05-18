@@ -1,0 +1,115 @@
+INVENTORY ANALYSIS DASHBOARD,,,,,,,,,,,
+,,,,,,,,,,,
+Instructions: Monitor inventory health and alignment with service level targets. Update weekly; review in detail monthly.,,,,,,,,,,,
+,,,,,,,,,,,
+INVENTORY EXECUTIVE SUMMARY,,,,,,,,,,,
+Metric,Current,Prior Month,3-Month Avg,Budget,Target,Variance,Trend,Status
+Total Inventory Value ($M),,,,,,,,"Green/Yellow/Red"
+Days of Supply (DOS),,,,,,,,"Green/Yellow/Red"
+Inventory Turns,,,,,,,,"Green/Yellow/Red"
+Excess & Obsolete % of Total,,,,,,,,"Green/Yellow/Red"
+Fill Rate %,,,,,,,,"Green/Yellow/Red"
+Stockout Incidents,,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+INVENTORY BY CATEGORY,,,,,,,,,,,
+Category,Value ($M),% of Total,DOS,Target DOS,vs Target,Turn Rate,Status,Action
+Raw Materials,,,,,,,Green/Yellow/Red,
+Work in Process (WIP),,,,,,,Green/Yellow/Red,
+Finished Goods,,,,,,,Green/Yellow/Red,
+Safety Stock,,,,,,,Green/Yellow/Red,
+Cycle Stock,,,,,,,Green/Yellow/Red,
+Pre-build/Seasonal,,,,,,,Green/Yellow/Red,
+TOTAL,,100%,,,,,,
+,,,,,,,,,,,
+INVENTORY BY PRODUCT FAMILY,,,,,,,,,,,
+Product Family,Value ($M),Units,DOS,Target DOS,Variance (days),Service Level %,Stockout Count,Excess Value ($K),Status
+Family A,,,,,,,,,"Green/Yellow/Red"
+Family B,,,,,,,,,"Green/Yellow/Red"
+Family C,,,,,,,,,"Green/Yellow/Red"
+Family D,,,,,,,,,"Green/Yellow/Red"
+Family E,,,,,,,,,"Green/Yellow/Red"
+TOTAL,,,,,,,,,"Green/Yellow/Red"
+,,,,,,,,,,,
+INVENTORY BY LOCATION,,,,,,,,,,,
+Location,Value ($M),Units,DOS,Target DOS,Variance,Utilization %,Service Level %,Status
+Plant 1,,,,,,,,Green/Yellow/Red
+Plant 2,,,,,,,,Green/Yellow/Red
+DC - North,,,,,,,,Green/Yellow/Red
+DC - South,,,,,,,,Green/Yellow/Red
+DC - Europe,,,,,,,,Green/Yellow/Red
+TOTAL,,,,,,,,
+,,,,,,,,,,,
+DAYS OF SUPPLY TREND,,,,,,,,,,,
+Month,Raw Materials DOS,WIP DOS,Finished Goods DOS,Total DOS,Target DOS,Variance,Inventory Value ($M)
+M-6,,,,,,,,
+M-5,,,,,,,,
+M-4,,,,,,,,
+M-3,,,,,,,,
+M-2,,,,,,,,
+M-1,,,,,,,,
+Current,,,,,,,,
+,,,,,,,,,,,
+ABC INVENTORY ANALYSIS,,,,,,,,,,,
+Classification,SKU Count,% of SKUs,Inventory Value,% of Value,DOS,Target DOS,Service Level Target,Current Service,Status
+A Items (Top 80% revenue),,,,,,,,,Green/Yellow/Red
+B Items (Next 15% revenue),,,,,,,,,Green/Yellow/Red
+C Items (Bottom 5% revenue),,,,,,,,,Green/Yellow/Red
+TOTAL,,100%,,100%,,,,,
+,,,,,,,,,,,
+SAFETY STOCK ANALYSIS,,,,,,,,,,,
+Product/Family,Current Safety Stock,Calculated SS,Variance,Service Level Target,Demand Variability,Supply Variability,Recommendation
+,,,Over/Under stocked,,,,,Increase/Decrease/Maintain
+,,,Over/Under stocked,,,,,Increase/Decrease/Maintain
+,,,Over/Under stocked,,,,,Increase/Decrease/Maintain
+,,,Over/Under stocked,,,,,Increase/Decrease/Maintain
+,,,,,,,,,,,
+SLOW MOVING & OBSOLETE (SLOB) INVENTORY,,,,,,,,,,,
+SKU,Product Name,Inventory Value ($K),Inventory Units,Last Sale Date,Months Since Sale,Classification,Disposition Plan,Expected Recovery,Write-off Risk
+,,,,,,"Slow/Obsolete/Excess",Sell/Discount/Scrap/Return,,$K
+,,,,,,"Slow/Obsolete/Excess",Sell/Discount/Scrap/Return,,$K
+,,,,,,"Slow/Obsolete/Excess",Sell/Discount/Scrap/Return,,$K
+,,,,,,"Slow/Obsolete/Excess",Sell/Discount/Scrap/Return,,$K
+TOTAL,,,,,,,,,
+,,,,,,,,,,,
+SLOB AGING SUMMARY,,,,,,,,,,,
+Aging Bucket,Value ($K),% of SLOB,SKU Count,Primary Cause,Disposition Status
+0-90 days slow moving,,,,,
+91-180 days slow moving,,,,,
+181-365 days slow moving,,,,,
+>365 days slow moving,,,,,
+Obsolete (discontinued),,,,,
+TOTAL,,,,,
+,,,,,,,,,,,
+INVENTORY PROJECTION,,,,,,,,,,,
+Period,Beginning Inventory,Planned Production,Planned Demand,Planned Adjustments,Ending Inventory,Projected DOS,Target DOS,Status
+M1,,,,,,,,Green/Yellow/Red
+M2,,,,,,,,Green/Yellow/Red
+M3,,,,,,,,Green/Yellow/Red
+M4,,,,,,,,Green/Yellow/Red
+M5,,,,,,,,Green/Yellow/Red
+M6,,,,,,,,Green/Yellow/Red
+,,,,,,,,,,,
+STOCKOUT RISK ANALYSIS,,,,,,,,,,,
+SKU,Product Name,Current Inventory,DOS,Demand Rate,Days to Stockout,Risk Level,Root Cause,Mitigation Action,Owner
+,,,,,,"Critical/High/Medium/Low",,,,
+,,,,,,"Critical/High/Medium/Low",,,,
+,,,,,,"Critical/High/Medium/Low",,,,
+,,,,,,"Critical/High/Medium/Low",,,,
+,,,,,,,,,,,
+INVENTORY HEALTH SCORECARD,,,,,,,,,,,
+Dimension,Metric,Current,Target,Score (1-5),Weight,Weighted Score
+Availability,Fill Rate %,,,,,
+Availability,Stockout Frequency,,,,,
+Efficiency,Inventory Turns,,,,,
+Efficiency,DOS vs Target,,,,,
+Quality,SLOB % of Total,,,,,
+Quality,Inventory Accuracy %,,,,,
+OVERALL HEALTH SCORE,,,,,,,
+,,,,,,,,,,,
+Score Guide: 5=Excellent (>10% better than target), 4=Good (meets target), 3=Fair (within 10% of target), 2=Poor (within 20%), 1=Critical (>20% from target),,,,,,,,,,,
+,,,,,,,,,,,
+INVENTORY POLICY RECOMMENDATIONS,,,,,,,,,,,
+Product/Family,Current Policy,Recommended Policy,Rationale,DOS Impact,Value Impact ($K),Service Impact,Approval Status
+,,,,,,,Pending/Approved/Rejected
+,,,,,,,Pending/Approved/Rejected
+,,,,,,,Pending/Approved/Rejected
