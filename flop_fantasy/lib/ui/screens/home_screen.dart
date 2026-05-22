@@ -50,6 +50,7 @@ class HomeScreen extends ConsumerWidget {
                     data: (p) => {for (final pl in p) pl.id: pl},
                     orElse: () => <String, Player>{},
                   );
+                  final points = ref.watch(livePointsProvider);
                   return DistressedPanel(
                     title: 'YOUR PITCH — GW${squad.gameweek}',
                     trailing: Text(
@@ -57,7 +58,11 @@ class HomeScreen extends ConsumerWidget {
                       style: Theme.of(context).textTheme.bodySmall,
                     ),
                     padding: EdgeInsets.zero,
-                    child: PitchView(squad: squad, playersById: players),
+                    child: PitchView(
+                      squad: squad,
+                      playersById: players,
+                      pointsById: points,
+                    ),
                   );
                 },
               ),

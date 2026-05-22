@@ -1,6 +1,5 @@
 import 'package:flop_fantasy/logic/sub_manager.dart';
 import 'package:flop_fantasy/models/manager_squad.dart';
-import 'package:flop_fantasy/models/match_stats.dart';
 import 'package:flop_fantasy/models/player.dart';
 import 'package:flop_fantasy/services/scoring_engine.dart';
 import 'package:flutter_test/flutter_test.dart';

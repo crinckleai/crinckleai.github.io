@@ -82,7 +82,7 @@ class AppTheme {
         centerTitle: false,
         titleTextStyle: textTheme.headlineMedium,
       ),
-      cardTheme: const CardTheme(
+      cardTheme: const CardThemeData(
         color: bgPanel,
         elevation: 0,
         margin: EdgeInsets.symmetric(vertical: 6, horizontal: 0),

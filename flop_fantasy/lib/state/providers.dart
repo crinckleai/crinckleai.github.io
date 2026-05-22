@@ -5,6 +5,7 @@ import '../logic/sub_manager.dart';
 import '../models/manager_squad.dart';
 import '../models/match_stats.dart';
 import '../models/player.dart';
+import '../services/demo_data.dart';
 import '../services/firestore_service.dart';
 import '../services/scoring_engine.dart';
 
@@ -17,17 +18,29 @@ final scoringEngineProvider = Provider<ScoringEngine>((_) => const ScoringEngine
 final subManagerProvider = Provider<SubManager>((_) => const SubManager());
 final priceManagerProvider = Provider<PriceManager>((_) => const PriceManager());
 
+// === Demo mode: when true (e.g. Firebase not initialised), data comes from
+// the in-memory DemoData seed. Toggled by main.dart at startup.
+final demoModeProvider = StateProvider<bool>((_) => false);
+
 // === Current manager session ===
-final currentManagerIdProvider = StateProvider<String?>((_) => null);
+final currentManagerIdProvider = StateProvider<String?>((ref) {
+  return ref.watch(demoModeProvider) ? DemoData.demoManagerId : null;
+});
 final currentGameweekProvider = StateProvider<int>((_) => 1);
 
 // === Player catalogue stream ===
 final playersStreamProvider = StreamProvider<List<Player>>((ref) {
+  if (ref.watch(demoModeProvider)) {
+    return Stream<List<Player>>.value(DemoData.players);
+  }
   return ref.watch(firestoreServiceProvider).watchPlayers();
 });
 
 // === Manager's squad for current GW ===
 final squadStreamProvider = StreamProvider<ManagerSquad?>((ref) {
+  if (ref.watch(demoModeProvider)) {
+    return Stream<ManagerSquad?>.value(DemoData.demoSquad());
+  }
   final managerId = ref.watch(currentManagerIdProvider);
   final gw = ref.watch(currentGameweekProvider);
   if (managerId == null) return Stream<ManagerSquad?>.empty();
@@ -36,8 +49,16 @@ final squadStreamProvider = StreamProvider<ManagerSquad?>((ref) {
 
 // === Disaster feed (live) ===
 final disasterFeedProvider = StreamProvider<List<DisasterFeedItem>>((ref) {
+  if (ref.watch(demoModeProvider)) {
+    return Stream<List<DisasterFeedItem>>.value(DemoData.demoFeed());
+  }
   final gw = ref.watch(currentGameweekProvider);
   return ref.watch(firestoreServiceProvider).watchDisasterFeed(gw);
+});
+
+// === Live points overlay (only populated in demo mode for now) ===
+final livePointsProvider = Provider<Map<String, int>>((ref) {
+  return ref.watch(demoModeProvider) ? DemoData.demoPointsById() : const {};
 });
 
 // === Transfer market filters ===

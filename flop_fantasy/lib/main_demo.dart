@@ -1,4 +1,3 @@
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -6,22 +5,14 @@ import 'router/app_router.dart';
 import 'state/providers.dart';
 import 'theme/app_theme.dart';
 
+/// Alternate entrypoint for offline/demo runs. Skips the Firebase plugin
+/// entirely so the app can render without network access. Build with:
+///   flutter build web --release --target lib/main_demo.dart
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  // Try to initialise Firebase. If it fails (no config, demo runs, etc.) we
-  // fall back to demo mode so the UI still renders populated screens.
-  var firebaseUp = false;
-  try {
-    await Firebase.initializeApp();
-    firebaseUp = true;
-  } catch (_) {
-    firebaseUp = false;
-  }
   runApp(
     ProviderScope(
-      overrides: [
-        demoModeProvider.overrideWith((_) => !firebaseUp),
-      ],
+      overrides: [demoModeProvider.overrideWith((_) => true)],
       child: const FlopFantasyApp(),
     ),
   );
