@@ -76,12 +76,15 @@ void main() {
   final deadline = DateTime(2026, 6, 1, 12);
 
   group('SubManager — auto-subs', () {
-    test('auto-subs a non-appearing midfielder for a bench midfielder', () {
+    test('auto-subs follow bench order — first valid replacement is taken', () {
+      // m4 (MID) didn't play. Bench order is [gk2 (GK), bd1 (DEF), bm1 (MID), bf1 (FWD)].
+      // gk2 can't replace a MID (formation would have 2 GKs). bd1 IS a valid
+      // replacement (yields 1-5-3-2), so bench-order rules pick bd1, not bm1.
       final scores = _scores({
         'gk1': (0, true),
         'd1': (0, true), 'd2': (0, true), 'd3': (0, true), 'd4': (0, true),
         'm1': (0, true), 'm2': (0, true), 'm3': (0, true),
-        'm4': (5, false), // did not play
+        'm4': (5, false),
         'f1': (0, true), 'f2': (0, true),
         'gk2': (0, true),
         'bd1': (0, true), 'bm1': (3, true), 'bf1': (0, true),
@@ -94,8 +97,32 @@ void main() {
         now: deadline.subtract(const Duration(hours: 1)),
       );
       expect(res.finalStarters.contains('m4'), isFalse);
-      expect(res.finalStarters.contains('bm1'), isTrue);
+      expect(res.finalStarters.contains('bd1'), isTrue);
+      expect(res.finalStarters.contains('bm1'), isFalse);
       expect(res.erasedPoints, 0);
+    });
+
+    test('skips bench players who did not appear when picking auto-sub', () {
+      // Same scenario, but bd1 didn't play — so the auto-sub falls through
+      // to bm1 (next valid bench player who appeared).
+      final scores = _scores({
+        'gk1': (0, true),
+        'd1': (0, true), 'd2': (0, true), 'd3': (0, true), 'd4': (0, true),
+        'm1': (0, true), 'm2': (0, true), 'm3': (0, true),
+        'm4': (5, false),
+        'f1': (0, true), 'f2': (0, true),
+        'gk2': (0, true),
+        'bd1': (5, false), 'bm1': (3, true), 'bf1': (0, true),
+      });
+      final res = sub.resolve(
+        squad: _squad(),
+        playersById: _byId(),
+        scores: scores,
+        deadline: deadline,
+        now: deadline.subtract(const Duration(hours: 1)),
+      );
+      expect(res.finalStarters.contains('bd1'), isFalse);
+      expect(res.finalStarters.contains('bm1'), isTrue);
     });
 
     test('keeps the flopped starter when no bench player who appeared can sub in', () {
