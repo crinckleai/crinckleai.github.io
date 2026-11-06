@@ -97,7 +97,7 @@ function valid(v: any) {
 }
 
 async function askClaude(name: string, wishes: string[]) {
-  const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
+  const apiKey = (Deno.env.get("ANTHROPIC_API_KEY") || "").replace(/\s+/g, "");
   if (!apiKey) return null;
   const client = new Anthropic({ apiKey });
   const today = new Date().toISOString().slice(0, 10);
@@ -164,7 +164,10 @@ Deno.serve(async (req) => {
       if (verdict) source = "ai";
     }
   } catch (e) {
-    console.error("genie ai error", e?.message ?? e);
+    // Never log raw error messages: some include request headers (and the API key).
+    const status = e?.status ?? e?.statusCode ?? "n/a";
+    const kind = e?.error?.error?.type ?? e?.name ?? "Error";
+    console.error(`genie ai error: ${kind} (status ${status})`);
   }
   if (!verdict) verdict = templateVerdict(name);
 
