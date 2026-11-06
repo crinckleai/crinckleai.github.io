@@ -356,34 +356,38 @@ input:focus-visible, textarea:focus-visible{outline:2px solid var(--brass-dim); 
   }
 
   // ---------- step 2: wishes ----------
-  const prompts = [
-    'Wish number one. Make it count. Or don’t, I get paid either way.',
-    'Wish number two. Bolder, please. I’m still yawning.',
-    'Final wish. No wishing for more wishes. I have a legal team.'
-  ];
+  const hints = ['I wish for a house by the sea...', 'I wish my boss would...', 'I wish I could...'];
   function renderWish(){
-    const i = st.wishes.length;
+    const prev = st.wishes.slice();
     flow.innerHTML = `
-      ${pips(i)}
-      <div style="margin-top:16px">${say([i===0 ? `Very well, <strong>${esc(st.name)}</strong>.` : 'Noted. Filed. Judged.', prompts[i]])}</div>
-      <form class="card" id="wishForm" style="margin-top:18px">
-        <label for="wishIn">Wish ${i+1} of 3</label>
-        <textarea id="wishIn" maxlength="280" placeholder="${['I wish for a house by the sea...','I wish my boss would...','I wish I could...'][i]}" required></textarea>
+      ${pips(prev.filter(Boolean).length)}
+      <div style="margin-top:16px">${say([`Very well, <strong>${esc(st.name)}</strong>.`, 'Three wishes, all at once. Make them count. No wishing for more wishes. I have a legal team.'])}</div>
+      <form class="card" id="wishForm" style="margin-top:18px" novalidate>
+        ${[0,1,2].map(i => `
+          <div style="display:flex;flex-direction:column;gap:6px">
+            <label for="wish${i}">Wish ${i+1}</label>
+            <textarea id="wish${i}" class="wishIn" maxlength="280" placeholder="${hints[i]}">${esc(prev[i] || '')}</textarea>
+          </div>`).join('')}
         <p class="err" id="wishErr" hidden></p>
-        <div class="row">
-          <button class="btn" type="submit">${i<2 ? 'Grant it (probably)' : 'Seal my fate'}</button>
-          ${i>0 ? '<button class="btn ghost" type="button" id="backBtn">Undo last wish</button>' : ''}
-        </div>
+        <div class="row"><button class="btn" type="submit">Seal my fate</button></div>
       </form>`;
-    $('wishIn').focus();
-    $('backBtn')?.addEventListener('click', () => { st.wishes.pop(); renderWish(); });
+    const boxes = [0,1,2].map(i => $('wish' + i));
+    const updatePips = () => {
+      const n = boxes.filter(b => b.value.trim()).length;
+      flow.querySelectorAll('.pip').forEach((p, i) => p.classList.toggle('on', i < n));
+    };
+    boxes.forEach(b => b.addEventListener('input', updatePips));
+    boxes[0].focus();
     $('wishForm').addEventListener('submit', e => {
       e.preventDefault();
-      const v = $('wishIn').value.trim();
-      if (/more wishes|infinite wishes|unlimited wishes/i.test(v)) { const er=$('wishErr'); er.hidden=false; er.textContent='Nice try. Wishing for more wishes is against Lamp Regulation 1. Pick something else.'; return; }
-      if(!v) return;
-      st.wishes.push(v);
-      st.wishes.length < 3 ? renderWish() : consult();
+      const er = $('wishErr');
+      const vals = boxes.map(b => b.value.trim());
+      const empty = vals.findIndex(v => !v);
+      if (empty !== -1) { er.hidden = false; er.textContent = `Wish ${empty+1} is empty. The djinn does not process blank paperwork.`; boxes[empty].focus(); return; }
+      const greedy = vals.findIndex(v => /more wishes|infinite wishes|unlimited wishes/i.test(v));
+      if (greedy !== -1) { er.hidden = false; er.textContent = `Wish ${greedy+1}: nice try. Wishing for more wishes is against Lamp Regulation 1.`; boxes[greedy].focus(); return; }
+      st.wishes = vals;
+      consult();
     });
   }
 
