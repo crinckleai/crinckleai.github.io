@@ -118,8 +118,26 @@ input:focus-visible, textarea:focus-visible{outline:2px solid var(--brass-dim); 
 .sound.playing .bars i:nth-child(2){animation-delay:.2s}
 .sound.playing .bars i:nth-child(3){animation-delay:.4s}
 @keyframes eq{from{height:3px}to{height:12px}}
+/* Loading: swirling smoke orb + rotating status lines */
+.conjure{display:flex; flex-direction:column; align-items:center; gap:18px; padding-block:28px 8px; text-align:center}
+.orb{position:relative; width:120px; height:120px}
+.orb i{position:absolute; inset:0; border-radius:50%; border:3px solid transparent; border-top-color:var(--brass); border-left-color:rgba(217,164,65,.35); animation:spin 1.6s linear infinite}
+.orb i:nth-child(2){inset:14px; border-top-color:var(--smoke); border-left-color:rgba(185,167,230,.3); animation-duration:2.3s; animation-direction:reverse}
+.orb i:nth-child(3){inset:30px; border-top-color:#f0c463; animation-duration:1.1s}
+.orb b{position:absolute; inset:44px; border-radius:50%; background:radial-gradient(circle, #f6d27a 0%, rgba(217,164,65,.4) 55%, transparent 75%); animation:pulse 1.4s ease-in-out infinite}
+.orb s{position:absolute; left:50%; top:50%; width:8px; height:8px; margin:-4px; border-radius:50%; background:var(--smoke); opacity:0; animation:spark 2.4s ease-out infinite}
+.orb s:nth-of-type(2){animation-delay:.8s; background:var(--brass)}
+.orb s:nth-of-type(3){animation-delay:1.6s}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{transform:scale(.8); opacity:.7}50%{transform:scale(1.15); opacity:1}}
+@keyframes spark{0%{opacity:1; transform:rotate(var(--a,0deg)) translateY(0)}100%{opacity:0; transform:rotate(var(--a,0deg)) translateY(-70px)}}
+.conjure .status{font-family:var(--display); color:var(--brass); font-size:18px; min-height:2.6em; max-width:30ch; text-wrap:balance; transition:opacity .35s}
+.conjure .status.fade{opacity:0}
+.conjure .elapsed{font-family:var(--mono); font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--muted)}
+.dots::after{content:''; animation:dots 1.2s steps(4) infinite}
+@keyframes dots{0%{content:''}25%{content:'.'}50%{content:'..'}75%{content:'...'}}
 @media (max-width:420px){ .stats{grid-template-columns:1fr} }
-@media (prefers-reduced-motion:reduce){ *{animation:none!important; transition:none!important} }
+@media (prefers-reduced-motion:reduce){ *{animation:none!important; transition:none!important} .orb b{opacity:1} }
 </style>
 </head>
 <body>
@@ -356,40 +374,65 @@ input:focus-visible, textarea:focus-visible{outline:2px solid var(--brass-dim); 
   }
 
   // ---------- step 2: wishes ----------
-  const prompts = [
-    'Wish number one. Make it count. Or don’t, I get paid either way.',
-    'Wish number two. Bolder, please. I’m still yawning.',
-    'Final wish. No wishing for more wishes. I have a legal team.'
-  ];
+  const hints = ['I wish for a house by the sea...', 'I wish my boss would...', 'I wish I could...'];
   function renderWish(){
-    const i = st.wishes.length;
+    const prev = st.wishes.slice();
     flow.innerHTML = `
-      ${pips(i)}
-      <div style="margin-top:16px">${say([i===0 ? `Very well, <strong>${esc(st.name)}</strong>.` : 'Noted. Filed. Judged.', prompts[i]])}</div>
-      <form class="card" id="wishForm" style="margin-top:18px">
-        <label for="wishIn">Wish ${i+1} of 3</label>
-        <textarea id="wishIn" maxlength="280" placeholder="${['I wish for a house by the sea...','I wish my boss would...','I wish I could...'][i]}" required></textarea>
+      ${pips(prev.filter(Boolean).length)}
+      <div style="margin-top:16px">${say([`Very well, <strong>${esc(st.name)}</strong>.`, 'Three wishes, all at once. Make them count. No wishing for more wishes. I have a legal team.'])}</div>
+      <form class="card" id="wishForm" style="margin-top:18px" novalidate>
+        ${[0,1,2].map(i => `
+          <div style="display:flex;flex-direction:column;gap:6px">
+            <label for="wish${i}">Wish ${i+1}</label>
+            <textarea id="wish${i}" class="wishIn" maxlength="280" placeholder="${hints[i]}">${esc(prev[i] || '')}</textarea>
+          </div>`).join('')}
         <p class="err" id="wishErr" hidden></p>
-        <div class="row">
-          <button class="btn" type="submit">${i<2 ? 'Grant it (probably)' : 'Seal my fate'}</button>
-          ${i>0 ? '<button class="btn ghost" type="button" id="backBtn">Undo last wish</button>' : ''}
-        </div>
+        <div class="row"><button class="btn" type="submit">Seal my fate</button></div>
       </form>`;
-    $('wishIn').focus();
-    $('backBtn')?.addEventListener('click', () => { st.wishes.pop(); renderWish(); });
+    const boxes = [0,1,2].map(i => $('wish' + i));
+    const updatePips = () => {
+      const n = boxes.filter(b => b.value.trim()).length;
+      flow.querySelectorAll('.pip').forEach((p, i) => p.classList.toggle('on', i < n));
+    };
+    boxes.forEach(b => b.addEventListener('input', updatePips));
+    boxes[0].focus();
     $('wishForm').addEventListener('submit', e => {
       e.preventDefault();
-      const v = $('wishIn').value.trim();
-      if (/more wishes|infinite wishes|unlimited wishes/i.test(v)) { const er=$('wishErr'); er.hidden=false; er.textContent='Nice try. Wishing for more wishes is against Lamp Regulation 1. Pick something else.'; return; }
-      if(!v) return;
-      st.wishes.push(v);
-      st.wishes.length < 3 ? renderWish() : consult();
+      const er = $('wishErr');
+      const vals = boxes.map(b => b.value.trim());
+      const empty = vals.findIndex(v => !v);
+      if (empty !== -1) { er.hidden = false; er.textContent = `Wish ${empty+1} is empty. The djinn does not process blank paperwork.`; boxes[empty].focus(); return; }
+      const greedy = vals.findIndex(v => /more wishes|infinite wishes|unlimited wishes/i.test(v));
+      if (greedy !== -1) { er.hidden = false; er.textContent = `Wish ${greedy+1}: nice try. Wishing for more wishes is against Lamp Regulation 1.`; boxes[greedy].focus(); return; }
+      st.wishes = vals;
+      consult();
     });
   }
 
   // ---------- step 3: consult ----------
   async function consult(){
-    flow.innerHTML = `${pips(3)}<div style="margin-top:16px">${say(['<em>The djinn squints into the smoke, mutters, consults an alarmingly thick rulebook...</em>'])}</div>`;
+    flow.innerHTML = `${pips(3)}
+      <div class="conjure" role="status" aria-live="polite">
+        <div class="orb" aria-hidden="true"><i></i><i></i><i></i><b></b><s style="--a:30deg"></s><s style="--a:160deg"></s><s style="--a:270deg"></s></div>
+        <p class="status" id="conjureMsg">Unrolling your wishes</p>
+        <span class="elapsed">Working on your wishes<span class="dots"></span></span>
+      </div>`;
+    const lines = [
+      'Unrolling your wishes',
+      'Consulting an alarmingly thick rulebook',
+      'Bribing the Council of Djinn',
+      'Checking the stars for loopholes',
+      'Calculating your odds (it\u2019s not looking great)',
+      'Polishing the fine print'
+    ];
+    let li = 0;
+    const msgEl = $('conjureMsg');
+    const ticker = setInterval(() => {
+      if (li >= lines.length - 1) return;
+      li++;
+      msgEl.classList.add('fade');
+      setTimeout(() => { msgEl.textContent = lines[li]; msgEl.classList.remove('fade'); Audio.blip(); }, 350);
+    }, 2200);
     let result = null, saved = false, limited = false;
     try {
       const ctl = new AbortController(); const to = setTimeout(() => ctl.abort(), 45000);
@@ -397,6 +440,7 @@ input:focus-visible, textarea:focus-visible{outline:2px solid var(--brass-dim); 
       clearTimeout(to);
       if (res.ok) { result = await res.json(); saved = !!result.saved; limited = !!result.limited; }
     } catch(e) { result = null; }
+    clearInterval(ticker);
     if (!validResult(result)) { result = templateVerdict(); saved = false; }
     renderVerdict(result);
     Audio.gong();
